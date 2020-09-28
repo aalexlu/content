@@ -8,10 +8,6 @@ j ~ ∅ alternation
 
 Phonological rule:
 
-​        C → ∅ / C_
-
-​        V → ∅ / V_        
-
 ```
 C → ∅ / C_
 V → ∅ / V_

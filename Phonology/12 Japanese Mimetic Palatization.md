@@ -1,4 +1,0 @@
-# Japanese Mimetic Palatization
-
-## Underspecification
-
