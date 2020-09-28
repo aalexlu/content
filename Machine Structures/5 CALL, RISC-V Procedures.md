@@ -2,23 +2,17 @@
 
 ## CALL stack diagram
 
-C program: foo.c
-
-**Compiler** - compiles from C to assembly (can incl. pseudo)
-
-Assembly program: foo.a
-
-**Assembler** - split la,li; labels replaced so offsets to absolute addresses; everything absolute
-
-Object Code: foo.o
-
-**Linker** ← lib.o - resolves / relocates absolute file addresses
-
-Executable a.out (Machine Language)
-
-**Loader** - loading executable to memory
-
-Memory
+|                      CALL stack diagram                      |
+| :----------------------------------------------------------: |
+|                       C program: foo.c                       |
+| **Compiler** - compiles from C to assembly (can incl. pseudo) |
+|                   Assembly program: foo.a                    |
+| **Assembler** - split la,li; labels replaced so offsets to absolute addresses; everything absolute |
+|                      Object Code: foo.o                      |
+| **Linker** ← lib.o - resolves / relocates absolute file addresses |
+|             Executable a.out (Machine Language)              |
+|          **Loader** - loading executable to memory           |
+|                            Memory                            |
 
 ## CALL
 

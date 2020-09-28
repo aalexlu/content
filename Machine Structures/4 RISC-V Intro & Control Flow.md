@@ -87,3 +87,13 @@ epilogue:
 	ret								//equivalent to ja ra (ra set by caller)
 ```
 
+Stack Visualization
+
+|          |
+| :------- |
+| ← sp     |
+| s0       |
+| s1       |
+| ra       |
+| ← new sp |
+
