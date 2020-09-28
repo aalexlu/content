@@ -67,7 +67,7 @@ Since allophones are predictable, we can write rules to predict the allophone of
 Format:
 
         /Phoneme/ → [allophone] / environment  
-                [allophone] / elsewhere  
+                    [allophone] / elsewhere  
 
 symbol for phonemes: “elsewhere” case  
 
