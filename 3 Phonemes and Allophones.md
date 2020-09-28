@@ -64,9 +64,10 @@ conditioning environment: results in the choice of one phone over the other
 ## 5 Rules
 
 Since allophones are predictable, we can write rules to predict the allophone of a given phoneme based on the environment of that phoneme  
+Format:
 
-    Format:     /Phoneme/ → [allophone] / environment  
-                                [allophone] / elsewhere  
+        /Phoneme/ → [allophone] / environment  
+                [allophone] / elsewhere  
 
 symbol for phonemes: “elsewhere” case  
 
