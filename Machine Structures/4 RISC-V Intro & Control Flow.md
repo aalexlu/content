@@ -29,6 +29,7 @@
 If / else:
 
 ```
+function:
 	addi s0, x0, 5 		//a
 	addi s1, x0, 10		//b
 	add t0, s0, s0		//t0 = a+a
@@ -43,6 +44,7 @@ exit:
 Array / looping:
 
 ```
+function:
 	add t0, x0, x0		//t0 = 0 (loop index)
 loop:
 	slti t1, t0, 6		//if (t0 < 6) t1 = 1
@@ -87,13 +89,14 @@ epilogue:
 	ret								//equivalent to ja ra (ra set by caller)
 ```
 
-Stack Visualization
+Stack Visualization:
 
-|          |
-| :------- |
-| ← sp     |
-| s0       |
-| s1       |
-| ra       |
-| ← new sp |
+|               |
+| :------------ |
+|               |
+| ← sp          |
+| s0     8(sp)  |
+| s1     4(sp)  |
+| ra      0(sp) |
+| ← new sp      |
 
