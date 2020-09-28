@@ -8,9 +8,10 @@ j ~ ∅ alternation
 
 Phonological rule:
 
-​	C -> ∅ / C_
-
-​	V -> ∅ / V_
+```
+C → ∅ / C_
+V → ∅ / V_
+```
 
 ## 2 Polish
 
