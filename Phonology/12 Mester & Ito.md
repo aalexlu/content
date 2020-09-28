@@ -1,6 +1,6 @@
 # Japanese Mimetic Palatization
 
-## Underspecification
+Underspecification
 
 - **naive**
 - **radical:** mantains that all predictable features, both redundant and unmarked, are left unspecified, thereby resulting in minimiation of specification in underlying structure
