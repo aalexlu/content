@@ -25,7 +25,7 @@ Handy rule trick:
 
 **major-class features:** define major sonority classes  
 
-![Major-Class Features](/Users/alexlu/Documents/ling/phonology-notes/images/4 major-class-features.jpeg)
+![Major-Class Features](./images/4 major-class-features.jpeg)
 
 [consonantal], [sonorant], [approximant] tend to involve degree of constriction above the glottis  
 
