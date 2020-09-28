@@ -1,3 +1,3 @@
 # Content
-personal notes on a range of subjects
+personal notes covering a range of subjects
 
