@@ -4,30 +4,35 @@
 
 Der Mensch (en)
 
-| Deutsch                                              | Englisch          |
-| ---------------------------------------------------- | ----------------- |
-| der Absolvent (en)                                   | graduate          |
-| der Anwalt / die Anwältin (en / nen)                 | lawyer            |
-| der Arbeiter / die Arbeiterin (en / nen)             | worker            |
-| der Arzt / die Ärztin (Ärzte / nen)                  | physician         |
-| der Dozent / die Dozentin (en / nen)                 | instructor        |
-| der Freund / die Freundin (en / nen)                 | friend            |
-| der Hersteller                                       | manufacturer      |
-| der Ingenieur / die Ingenieurin (en / nen)           | engineer          |
-| der Journalist / die Journalistin (en / nen)         | journalist        |
-| der Junge (n)                                        | boy               |
-| der Kellner / die Kellnerin (en / nen)               | waiter / waitress |
-| das Kind (er)                                        | child             |
-| der Kollege / die Kollegin (en / nen)                | colleague         |
-| der Krankenpfleger / die Krankenpflegerin (en / nen) | nurse             |
-| der Künstler / die Künstlerin (en / nen)             | artist            |
-| der Lehrer / die Lehrerin (en / nen)                 | teacher           |
-| die Mädchen                                          | girl              |
-| der Mörder / die Mörderin (en / nen)                 | murderer          |
-| der Postbote / die Postbotin (en / nen)              | letter carrier    |
-| der Professor / die Professorin (en / nen)           | professor         |
-| der Student / die Studentin (en / nen)               | student           |
-| der Verkäufer / die Verkäuferin (en / nen)           | sales associate   |
+| Deutsch                                              | Englisch              |
+| ---------------------------------------------------- | --------------------- |
+| der Absolvent (en)                                   | graduate              |
+| der Anwalt / die Anwältin (en / nen)                 | lawyer                |
+| der Arbeiter / die Arbeiterin (en / nen)             | worker                |
+| der Arzt / die Ärztin (Ärzte / nen)                  | physician             |
+| der Dozent / die Dozentin (en / nen)                 | instructor            |
+| der Freund / die Freundin (en / nen)                 | friend                |
+| der Hersteller                                       | manufacturer          |
+| der Ingenieur / die Ingenieurin (en / nen)           | engineer              |
+| der Journalist / die Journalistin (en / nen)         | journalist            |
+| der Junge (n)                                        | boy                   |
+| der Kellner / die Kellnerin (en / nen)               | waiter / waitress     |
+| das Kind (er)                                        | child                 |
+| der Kollege / die Kollegin (en / nen)                | colleague             |
+| der Krankenpfleger / die Krankenpflegerin (en / nen) | nurse                 |
+| der Künstler / die Künstlerin (en / nen)             | artist                |
+| der Lehrer / die Lehrerin (en / nen)                 | teacher               |
+| die Mädchen                                          | girl                  |
+| der Mörder / die Mörderin (en / nen)                 | murderer              |
+| der Postbote / die Postbotin (en / nen)              | letter carrier        |
+| der Professor / die Professorin (en / nen)           | professor             |
+| der Psychologe / die Psychologin (en / nen)          | psychologist          |
+| der Regisseur / die Regisseurin (Regisseure)         | director              |
+| der Schauspieler / die Schauspielerin ( / nen)       | actor / actress       |
+| der Student / die Studentin (en / nen)               | student               |
+| der Täter / die Täterin ( / nen)                     | culprit / perpetrator |
+| der Verkäufer / die Verkäuferin (en / nen)           | sales associate       |
+| der Zuschauer / die Zuschauerin ( / nen)             | spectator             |
 
 Die Familie (n)
 
@@ -77,6 +82,7 @@ Die Universität (en) und der Arbeitsplatz (Arbeitsplätze)
 | die Musik                  | music                    |
 | der Nachname (n)           | last name                |
 | das Papier                 | paper                    |
+| die Pflicht (en)           | duty                     |
 | das Produkt (e)            | products                 |
 | das Projekt (e)            | project                  |
 | das Prozent (e)            | percent                  |
@@ -224,18 +230,25 @@ Die Zeit (en)
 
 | Deutsch            | Englisch  |
 | ------------------ | --------- |
-| der Abend (e)      | evening   |
+| die Vergangenheit  | past      |
 | die Gegenwart      | present   |
-| das Jahr (e)       | year      |
-| die Minute (n)     | minute    |
+| die Zukunft        | future    |
+| gestern            | yesterday |
+| heute              | today     |
+| morgen             | tomorrow  |
+| der Vormittag (e)  | morning   |
 | der Mittag (e)     | noon      |
 | das Mittagessen    | lunch     |
-| der Monat (e)      | month     |
-| morgen             | tomorrow  |
 | der Nachmittag (e) | afternoon |
+| der Abend (e)      | evening   |
 | die Nacht (Nächte) | night     |
-| der Tag (e)        | day       |
+| das Jahr (e)       | year      |
+| der Monat (e)      | month     |
 | die Woche (n)      | week      |
+| der Tag (e)        | day       |
+| die Stunde (n)     | hour      |
+| die Minute (n)     | minute    |
+| die Sekunde (n)    | second    |
 | der Montag (e)     | Monday    |
 | der Dienstag (e)   | Tuesday   |
 | der Mittwoch (e)   | Wednesday |
@@ -246,18 +259,29 @@ Die Zeit (en)
 
 Das Theater
 
-| Deutsch               | Englisch             |
-| --------------------- | -------------------- |
-| die Bühne (n)         | stage                |
-| das Bühnenbild (er)   | set / stage decor    |
-| das Chaos             | chaos                |
-| der Film (e)          | film                 |
-| das Hörspiel (e)      | radio play           |
-| die Inszenierung (en) | staging / production |
-| das Kavier (e)        | piano                |
-| das Konzert (e)       | concert              |
-| die Kulisse (n)       | set / stage decor    |
-| das Memo (s)          | memo                 |
+| Deutsch               | Englisch               |
+| --------------------- | ---------------------- |
+| die Bühne (n)         | stage                  |
+| das Bühnenbild (er)   | set / stage decor      |
+| das Chaos             | chaos                  |
+| der Film (e)          | film                   |
+| das Hörspiel (e)      | radio play             |
+| die Inszenierung (en) | staging / production   |
+| das Kavier (e)        | piano                  |
+| das Konzert (e)       | concert                |
+| die Kulisse (n)       | set / stage decor      |
+| das Memo (s)          | memo                   |
+| die Probe (n)         | rehearsal              |
+| das Programm (e)      | program                |
+| das Publikum          | audience               |
+| die Rolle (n)         | role                   |
+| die Stimme (n)        | voice                  |
+| das Stück (e)         | piece / play           |
+| die Szene (n)         | scene                  |
+| die Technik (en)      | technique / technology |
+| der Typ (en)          | type                   |
+| der Wahnsinn          | insanity               |
+| die Welt (en)         | world                  |
 
 Das Material (ien)
 
@@ -300,67 +324,74 @@ Die Stadt (Städte)
 
 ## Verben
 
-| Deutsch     | Englisch        | Beispiel               |
-| ----------- | --------------- | ---------------------- |
-| aufmachen   | to open         | das Buch aufmachen     |
-| begreifen   | to comprehend   | Ihr begreift           |
-| berichten   | to report       | im Kurs berichten      |
-| bestellen   | to order        | Sie bestellt einen Tee |
-| bezahlen    | to pay (for)    | Er bezahlt den Kaffee  |
-| brauchen    | to need         | Ich brauche            |
-| diskutieren | to discuss      | Wir diskutieren        |
-| erfinden    | to invent       | Sie erfindet           |
-| essen       | to eat          | Du isst                |
-| fahren      | to drive        | Wir fahren Fahrrad     |
-| finden      | to find         | Er findet              |
-| fehlen      | to lack         | Ihr fehlt              |
-| forschen    | to research     | im Internet forschen   |
-| geben       | to give         | Es gibt                |
-| gehen       | to go           | Du gehst               |
-| gestalten   | to design       | Ich gestalte           |
-| haben       | to have         | viel zu tun haben      |
-| heißen      | to be called    | Wir heißen             |
-| hören       | to listen       | Er hört Musik          |
-| kaufen      | to buy          | Ich kaufe              |
-| kennen      | to know         | Du kennst              |
-| kommen      | to come (from)  | Sie kommen             |
-| kosten      | to cost         | Es kostet              |
-| kriegen     | to get          | Ihr kreigt             |
-| laufen      | to run          | Du laufst              |
-| lesen       | to read         | Sie liest              |
-| liegen      | to be located   | Ich liege              |
-| machen      | to make / to do | Du machst              |
-| nehmen      | to take         | Du nimmst              |
-| öffnen      | to open         | Öffne die Tür          |
-| rachen      | to smoke        | Du rauchst             |
-| sehen       | to see          | Er seiht               |
-| sein        | to be           | Du bist                |
-| schlafen    | to sleep        | Ich schlafe            |
-| schreiben   | to write        | Er schreibt            |
-| schwimmen   | to swim         | Es schwimmt            |
-| spielen     | to play         | Du spielst             |
-| sprechen    | to talk / speak | Er spricht Deutsch     |
-| studieren   | to be a student | Ihr studiert           |
-| treffen     | to meet         | Sie trifft             |
-| trinken     | to drink        | Er trinkt              |
-| verbringen  | to spend (time) | Sie verbringt den Tag  |
-| vermissen   | to miss         | Manchmal vermisst      |
-| versprechen | to promise      | Der Abend verspricht   |
-| verstehen   | to understand   | Ich verstehe           |
-| vorlesen    | to recite       | Ich vorlese            |
-| waschen     | to wash         | Ihr wascht             |
+| Deutsch       | Englisch         | Beispiel               |
+| ------------- | ---------------- | ---------------------- |
+| aufmachen     | to open          | das Buch aufmachen     |
+| begreifen     | to comprehend    | Ihr begreift           |
+| berichten     | to report        | im Kurs berichten      |
+| bestellen     | to order         | Sie bestellt einen Tee |
+| bezahlen      | to pay (for)     | Er bezahlt den Kaffee  |
+| brauchen      | to need          | Ich brauche            |
+| diskutieren   | to discuss       | Wir diskutieren        |
+| erfinden      | to invent        | Sie erfindet           |
+| essen         | to eat           | Du isst                |
+| fahren        | to drive         | Wir fahren Fahrrad     |
+| fehlen        | to lack          | Ihr fehlt              |
+| finden        | to find          | Er findet              |
+| fotografieren | to photograph    | Sie fotografiert       |
+| forschen      | to research      | im Internet forschen   |
+| geben         | to give          | Es gibt                |
+| gehen         | to go            | Du gehst               |
+| gestalten     | to design        | Ich gestalte           |
+| haben         | to have          | viel zu tun haben      |
+| heißen        | to be called     | Wir heißen             |
+| hören         | to listen        | Er hört Musik          |
+| kaufen        | to buy           | Ich kaufe              |
+| kennen        | to know          | Du kennst              |
+| klagen        | to complain      | Er klagt               |
+| kommen        | to come (from)   | Sie kommen             |
+| kosten        | to cost          | Es kostet              |
+| kriegen       | to get           | Ihr kreigt             |
+| laufen        | to run           | Du laufst              |
+| lesen         | to read          | Sie liest              |
+| liegen        | to be located    | Ich liege              |
+| machen        | to make / to do  | Du machst              |
+| nehmen        | to take          | Du nimmst              |
+| öffnen        | to open          | Öffne die Tür          |
+| rachen        | to smoke         | Du rauchst             |
+| sehen         | to see           | Er seiht               |
+| sein          | to be            | Du bist                |
+| schlafen      | to sleep         | Ich schlafe            |
+| schreiben     | to write         | Er schreibt            |
+| schreien      | to yell / scream | Ihr schreit            |
+| schwimmen     | to swim          | Es schwimmt            |
+| spielen       | to play          | Du spielst             |
+| sprechen      | to talk / speak  | Er spricht Deutsch     |
+| studieren     | to be a student  | Ihr studiert           |
+| treffen       | to meet          | Sie trifft             |
+| treten        | to step          | Ich trete zurück       |
+| trinken       | to drink         | Er trinkt              |
+| verbringen    | to spend (time)  | Sie verbringt den Tag  |
+| verlieren     | to lose          | Du verlierst das Spiel |
+| vermissen     | to miss          | Manchmal vermisst      |
+| versprechen   | to promise       | Der Abend verspricht   |
+| verstehen     | to understand    | Ich verstehe           |
+| vorlesen      | to recite        | Ich vorlese            |
+| waschen       | to wash          | Ihr wascht             |
 
 Separable Prefixes
 
-| Deutsch     | Englisch       | Beispiel                                |
-| ----------- | -------------- | --------------------------------------- |
-| anfangen    | to begin       | Martinas Tag **fängt** sehr früh **an** |
-| anrufen     | to call        | Sie **ruft** ihre Freundin **an**       |
-| aufräumen   | to clean up    | **Räumt** Martina **auf**               |
-| einkaufen   | to shop        | Sie **kaufen** in Berlin **ein**        |
-| einschlafen | to fall asleep | Er **schläft** sehr spät **ein**        |
-| fernsehen   | to watch TV    | Du **siehst** am Abend **fern**         |
-| mitkommen   | to come along  | **Kommst** du ins Kino **mit**?         |
+| Deutsch       | Englisch         | Beispiel                                |
+| ------------- | ---------------- | --------------------------------------- |
+| anfangen      | to begin         | Martinas Tag **fängt** sehr früh **an** |
+| anrufen       | to call          | Sie **ruft** ihre Freundin **an**       |
+| aufpassen     | to pay attention | passt auf                               |
+| aufräumen     | to clean up      | **Räumt** Martina **auf**               |
+| einkaufen     | to shop          | Sie **kaufen** in Berlin **ein**        |
+| einschlafen   | to fall asleep   | Er **schläft** sehr spät **ein**        |
+| fernsehen     | to watch TV      | Du **siehst** am Abend **fern**         |
+| mitkommen     | to come along    | **Kommst** du ins Kino **mit**?         |
+| sich befinden | to be located    | befindet sich                           |
 
 Modalverbs
 
@@ -368,6 +399,7 @@ Modalverbs
 | ------- | ---------- | ------------------------------------- |
 | dürfen  | permission | Im Theater **darf** man nicht rauchen |
 | können  | can        | Er **kann** gut singen                |
+| lassen  | to let     | Er **lässt** mich gehen               |
 | mögen   | like to    | Er **mag** einfache Designs           |
 | möchten | want to    | Ich **möchte** mit dir sprechen       |
 | müssen  | must       | Es **muss** heute fertig sein         |
@@ -376,34 +408,45 @@ Modalverbs
 
 mit Dativobjekt
 
-| Deutsch   | Englisch              | Beispiel                                     |
-| --------- | --------------------- | -------------------------------------------- |
-| antworten | to answer s.o.        | Er **antowortet dem** Regisseur              |
-| gefallen  | to look good to s.o.  | Das Bühnenbild **gefällt den** Zuschauern    |
-| gehören   | to belong to s.o.     | Das Handy **gehört dem** Direktor            |
-| helfen    | to help s.o.          | Kann ich **Ihnen helfen**?                   |
-| passen    | to fit s.o.           | Das Kostüm **passt der** Schauspielerin gut  |
-| schmeken  | to taste good to s.o. | Das Abendessen **schmekt den** Schauspielern |
+| Deutsch              | Englisch              | Beispiel                                        |
+| -------------------- | --------------------- | ----------------------------------------------- |
+| antworten            | to answer s.o.        | Er **antowortet dem** Regisseur                 |
+| auf die Nerven gehen | to get on s.o. nerves | Er **geht mir auf** die Nerven (also separable) |
+| besprechen           | to discuss s.t.       | Wir **besprichen**                              |
+| gefallen             | to look good to s.o.  | Das Bühnenbild **gefällt den** Zuschauern       |
+| gehören              | to belong to s.o.     | Das Handy **gehört dem** Direktor               |
+| glauben              | to believe s.o.       | Er **glaubt mir**                               |
+| helfen               | to help s.o.          | Kann ich **Ihnen helfen**?                      |
+| passen               | to fit s.o.           | Das Kostüm **passt der** Schauspielerin gut     |
+| schenken             | to give s.o. s.t.     | Sie **schenkt**…                                |
+| schmeken             | to taste good to s.o. | Das Abendessen **schmekt den** Schauspielern    |
+| treten               | to kick s.o.          | Du **trittst den** Hund                         |
 
 ## Adjektive
 
 | Deutsch       | Englisch          |
 | ------------- | ----------------- |
+| aktiv         | active            |
 | alle          | all               |
 | alt           | old               |
 | attraktiv     | attractive        |
 | auffällig     | striking          |
+| aufmerksam    | attentive         |
 | berühmt       | popular           |
 | bequem        | comfortable       |
 | blöd          | stupid            |
 | bunt          | colorful          |
 | dick          | thick             |
 | dünn          | thin              |
+| echt          | real              |
+| ehrlich       | honest            |
 | einfach       | simple / easy     |
 | einfarbig     | monochrome        |
 | erfolgreich   | successful        |
+| ernst         | serious           |
 | fertig        | finished          |
 | freundlich    | friendly          |
+| froh          | glad              |
 | genial        | nice              |
 | groß          | big               |
 | gut           | good              |
@@ -414,27 +457,34 @@ mit Dativobjekt
 | jeder         | every             |
 | kalt          | cold              |
 | klein         | small             |
+| krank         | sick / ill        |
 | kurz          | short             |
 | lang          | long              |
 | licht         | light             |
+| lieb          | kind              |
 | mehr          | more              |
+| menschlich    | human             |
 | nächsten      | next              |
 | neu           | new               |
 | peinlich      | embarrassing      |
 | perfekt       | perfect           |
 | raffiniert    | refined           |
+| ruhig         | quiet             |
 | schlect       | bad               |
 | schön         | beautiful         |
 | schwach       | weak              |
 | schwer        | heavy / difficult |
 | stabil        | sturdy            |
 | stark         | strong            |
+| stolz         | proud             |
+| streng        | strict            |
 | toll          | great             |
 | unattraktiv   | unattractive      |
 | unauffällig   | inconspicuous     |
 | uninteressant | uninteresting     |
 | verrückt      | crazy             |
 | verschieden   | different         |
+| vorsichtig    | careful           |
 | warm          | warm              |
 | weniger       | less              |
 | wichtig       | important         |
@@ -454,22 +504,31 @@ Die Farbe (Farben)
 | schwarz | black    |             |             |
 | weiß    | white    |             |             |
 
+Priority
+
+| Deutsch | Englisch | Deutsch | Englisch |
+| ------- | -------- | ------- | -------- |
+| erste   | first    |         |          |
+|         |          |         |          |
+
 ## Adverbien
 
-| Deutsch     | Englisch      |
-| ----------- | ------------- |
-| auch        | also          |
-| doch        | but           |
-| fast        | almost        |
-| gern        | gladly        |
-| hier        | here          |
-| immer       | always        |
-| leider      | unfortunately |
-| manchmal    | sometimes     |
-| nimmer      | never         |
-| schließlich | finally       |
-| sehr        | very          |
-| vielleicht  | maybe         |
+| Deutsch     | Englisch       |
+| ----------- | -------------- |
+| auch        | also           |
+| doch        | but            |
+| fast        | almost         |
+| gern        | gladly         |
+| hier        | here           |
+| immer       | always         |
+| leider      | unfortunately  |
+| manchmal    | sometimes      |
+| morgens     | in the morning |
+| nimmer      | never          |
+| schließlich | finally        |
+| sehr        | very           |
+| vielleicht  | maybe          |
+| vorsichtig  | carefully      |
 
 ## Phrasen
 
@@ -486,6 +545,7 @@ Die Farbe (Farben)
 | Guten Abend               | good evening              |
 | Gute Nacht                | good night                |
 | Ja / nein                 | yes / no                  |
+| Schade                    | A pity / What a shame     |
 | tchüss                    | bye                       |
 | Warum?                    | Why?                      |
 | Wie bitte?                | Pardon me?                |
@@ -526,30 +586,32 @@ Die Farbe (Farben)
 
 ## Präpositionen
 
-| Deutsch | Englisch | Bespiel                                      |
-| ------- | -------- | -------------------------------------------- |
-| durch   | through  | Sie geht gerne **durch** die Altstadt        |
-| für     | for      | Er hat viele Tipps **für** die neue Kollegin |
-| gegen   | against  | Ich bin **gegen** Atomkraft                  |
-|         | around   | Wir essen **gegen** 12 Uhr                   |
-| ohne    | without  | Du trinkst gerne Kaffee **ohne** Zucker      |
-| um      | around   | Sie fahren **um** die Stadt                  |
-|         | at       | Der Arbeitstag beginnt **um** 9 Uhr          |
+| Deutsch | Englisch   | Bespiel                                      |
+| ------- | ---------- | -------------------------------------------- |
+| bis     | until / to | **bis** später                               |
+| durch   | through    | Sie geht gerne **durch** die Altstadt        |
+| für     | for        | Er hat viele Tipps **für** die neue Kollegin |
+| gegen   | against    | Ich bin **gegen** Atomkraft                  |
+|         | around     | Wir essen **gegen** 12 Uhr                   |
+| ins     | in the     | Ich gehe **ins** Kino                        |
+| ohne    | without    | Du trinkst gerne Kaffee **ohne** Zucker      |
+| um      | around     | Sie fahren **um** die Stadt                  |
+|         | at         | Der Arbeitstag beginnt **um** 9 Uhr          |
 
 mit Dativ
 
-|              | Deutsch          | Englisch  | Bespiel                                                      |
-| ------------ | ---------------- | --------- | ------------------------------------------------------------ |
-| how          | außer            | except    | Er mag alles **außer** Bananen                               |
-|              | mit              | with      | Er fährt **mit** der U-Bahn / Er geht mit Freunden           |
-|              | von              | by        | Das Stück ist **von** dem Schweizer                          |
-|              | vom (von + dem)  |           |                                                              |
-| where        | aus              | from      | Er kommt **aus** Berlin                                      |
-|              | bei              | close to  | Potsdam liegt **bei** Berlin                                 |
-|              | beim (bei + dem) | at        | Er arbeitet **beim** Theater                                 |
-|              | zu               | to        |                                                              |
-|              | zum (zu + dem)   |           | Er fährt **zum** Theater                                     |
-| when         | seit             | has been  | **Seit** einem Jahr arbeitet er.                             |
-|              | vor              | ago       | **Vor** sechs Jahren ist er gekommen                         |
-| when + where | ab               | from(…on) | **Ab** Donnerstag sind Proben / Die U-Bahn fährt **ab** Platz |
-|              | nach             | after     | **Nach** der Arbeit geht er **nach** Hause                   |
+|              | Deutsch           | Englisch              | Bespiel                                                      |
+| ------------ | ----------------- | --------------------- | ------------------------------------------------------------ |
+| how          | außer (+ dat)     | except                | Er mag alles **außer** Bananen                               |
+|              | mit (+ dat)       | with / by (means of)  | Er fährt **mit** der U-Bahn / Er geht mit Freunden           |
+|              | von (+ dat)       | of / by / from        | Das Stück ist **von** dem Schweizer                          |
+|              | vom (von + dem)   | from                  |                                                              |
+| where        | aus (+ dat)       | out of / from         | Er kommt **aus** Berlin                                      |
+|              | bei (+ dat)       | close to / at         | Potsdam liegt **bei** Berlin                                 |
+|              | beim (bei + dem)  | at                    | Er arbeitet **beim** Theater                                 |
+|              | zu (+ dat)        | to (somewhere)        |                                                              |
+|              | zum (zu + dem)    | to the                | Er fährt **zum** Theater                                     |
+| when         | seit              | since, for (temporal) | **Seit** einem Jahr arbeitet er.                             |
+|              | vor (+ akk / dat) | before / ago          | **Vor** sechs Jahren ist er gekommen                         |
+| when + where | ab                | from                  | **Ab** Donnerstag sind Proben / Die U-Bahn fährt **ab** Platz |
+|              | nach (+ dat)      | after / to (location) | **Nach** der Arbeit geht er **nach** Hause                   |
