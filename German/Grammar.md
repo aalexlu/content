@@ -79,49 +79,48 @@ Reguläre Verben: add **[ge-]** as prefix and **[-t]** as suffix
 
 | Reguläre Verben                             |
 | ------------------------------------------- |
-| hören → hat gehört                          |
-| fragen → hat gefragt                        |
-| wandern → ist gewandert                     |
+| hören → hat **ge**hör**t**                  |
+| fragen → hat **ge**frag**t**                |
+| wandern → ist **ge**wander**t**             |
 | *sometimes **[-e-]** before final **[-t]*** |
-| arbeiten → hat gearbeitet                   |
-| öffnen → hat geöffnet                       |
-| warten → hat gewartet                       |
+| arbeiten → hat **ge**arbeit**et**           |
+| öffnen → hat **ge**öffn**et**               |
+| warten → hat **ge**wart**et**               |
 
 Irreguläre Verben: add **[ge-]** as prefix and **[-en]** as suffix
 
 | Irreguläre Verben                            |
 | -------------------------------------------- |
-| kommen →                                     |
-| sehen →                                      |
-| waschen →                                    |
+| kommen → ist **ge**komm**en**                |
+| sehen → hat **ge**seh**en**                  |
+| waschen → hat **ge**wasch**en**              |
 | *vowel or stem change*                       |
-| werden →                                     |
-| gehen →                                      |
-| bleiben →                                    |
-| sein →                                       |
+| werden → ist ge**wo**rden                    |
+| gehen → ist geg**ang**en                     |
+| bleiben → ist gebl**ie**ben                  |
+| sein → ist ge**wes**en                       |
 | *sometimes end in **[-t]** and vowel change* |
-| bringen →                                    |
-| denken →                                     |
-| rennen →                                     |
+| bringen → hat **ge**br**a**ch**t**           |
+| denken → hat **ge**d**a**ch**t**             |
+| rennen → ist **ge**r**a**nn**t**             |
 
 Verben mit trennbaren Präfixen: separable prefix *then* **[-ge-]**
 
-| Verben mit trennbaren Präfixen       |
-| ------------------------------------ |
-| einkaufen →                          |
-| ankommen →                           |
-| mitbringen →                         |
-| **Verben mit untrennbaren Präfixen** |
-| versuchen →                          |
-| bekommen →                           |
-| unterschreiben →                     |
-| **Verben mit [-ieren]**              |
-| studieren →                          |
-| reparieren →                         |
-| gratulieren →                        |
-
-
+| Verben mit trennbaren Präfixen          |
+| --------------------------------------- |
+| einkaufen → hat ein**ge**kauft          |
+| ankommen → ist an**ge**kommen           |
+| mitbringen → hat mit**ge**bracht        |
+| **Verben mit untrennbaren Präfixen**    |
+| versuchen → hat **ver**sucht            |
+| bekommen → hat **be**kommen             |
+| unterschreiben → hat **unter**schrieben |
+| **Verben mit [-ieren]**                 |
+| studieren → hat studier**t**            |
+| reparieren → hat reparier**t**          |
+| gratulieren → hat gratulier**t**        |
 
 **5.3.1: **[time] : [manner] : [place]
 
 - Hilli geht [heute] [mit Freundin] [auf ein Konzert von Philipp Poisel]
+

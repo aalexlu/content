@@ -587,23 +587,32 @@ Priority
 
 Beiordnende Konjunktionen (coordinating conjunctions)
 
-| Deutsch | Englisch        | Bespiel |
-| ------- | --------------- | ------- |
-| aber    | but             |         |
-| denn    | because         |         |
-| oder    | or              |         |
-| sondern | on the contrary |         |
-| und     | and             |         |
+| Deutsch | Englisch        | Bespiel                                                      |
+| ------- | --------------- | ------------------------------------------------------------ |
+| aber    | but             | Sie mag gern House, **aber** sie hört auch gerne Jazz        |
+| denn    | because         | Das Konzert war gut, **denn** Philipp hat über zwei Stunden gespielt |
+| oder    | or              | Hörst du lieber Musik, **oder** liest du lieber Bücher       |
+| sondern | on the contrary | Sie  geht heute nicht in ein Konzert, **sondern** sie geht ins Kino |
+| und     | and             | Sie sind eine Band, **und** du bist ein Jazzpianist          |
 
 Unterordnende Konjunktionen (subordinating conjunctions) - change word order
 
-| Deutsch | Englisch           | Bespiel |
-| ------- | ------------------ | ------- |
-| als     | when               |         |
-| dass    | that               |         |
-| seit    | since / for (time) |         |
-| weil    | because            |         |
-| wenn    | if / when          |         |
+| Deutsch | Englisch           | Bespiel                                                  |
+| ------- | ------------------ | -------------------------------------------------------- |
+| als     | when               | Ich have im Chor gesungen, **als** ich 12 war            |
+| dass    | that               | Sie weiß, **dass** die Musik im Klub gut ist             |
+| seit    | since / for (time) | Sie spielt Gitarre, **seit** sie 14 Jahre alt ist        |
+| weil    | because            | Sie geht gern in den Klub, **weil** die Musik da gut ist |
+| wenn    | if / when          | Alle tanzen, **wenn** DJane Musik macht                  |
+
+## Konnektoren
+
+| Deutsch                    | Englisch                    |
+| -------------------------- | --------------------------- |
+| dennoch / trotzdem         | in spite of                 |
+| daher / deshalb / deswegen | because of that / therefore |
+| später                     | later                       |
+| vorher                     | before                      |
 
 ## Präpositionen
 
