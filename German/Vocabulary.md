@@ -223,39 +223,56 @@ Das Haus (Häuser) und die Möbel
 | der Stuhl (Stühle)     | chair          |
 | der Teppich (e)        | rug            |
 | der Tisch (e)          | table          |
+| die Tür (en)           | door           |
 | die Wäsche             | laundry        |
 | das Wohnzimmer         | living room    |
 
 Die Zeit (en)
 
-| Deutsch            | Englisch  |
-| ------------------ | --------- |
-| die Vergangenheit  | past      |
-| die Gegenwart      | present   |
-| die Zukunft        | future    |
-| gestern            | yesterday |
-| heute              | today     |
-| morgen             | tomorrow  |
-| der Vormittag (e)  | morning   |
-| der Mittag (e)     | noon      |
-| das Mittagessen    | lunch     |
-| der Nachmittag (e) | afternoon |
-| der Abend (e)      | evening   |
-| die Nacht (Nächte) | night     |
-| das Jahr (e)       | year      |
-| der Monat (e)      | month     |
-| die Woche (n)      | week      |
-| der Tag (e)        | day       |
-| die Stunde (n)     | hour      |
-| die Minute (n)     | minute    |
-| die Sekunde (n)    | second    |
-| der Montag (e)     | Monday    |
-| der Dienstag (e)   | Tuesday   |
-| der Mittwoch (e)   | Wednesday |
-| der Donnerstag (e) | Thursday  |
-| der Freitag (e)    | Friday    |
-| der Samstag (e)    | Saturday  |
-| der Sonntag (e)    | Sunday    |
+| Deutsch                             | Englisch  |
+| ----------------------------------- | --------- |
+| die Vergangenheit                   | past      |
+| die Gegenwart                       | present   |
+| die Zukunft                         | future    |
+| gestern                             | yesterday |
+| heute                               | today     |
+| morgen                              | tomorrow  |
+| der Vormittag (e)                   | morning   |
+| der Mittag (e)                      | noon      |
+| das Mittagessen                     | lunch     |
+| der Nachmittag (e)                  | afternoon |
+| der Abend (e)                       | evening   |
+| die Nacht (Nächte)                  | night     |
+| das Jahr (e)                        | year      |
+| der Monat (e)                       | month     |
+| die Woche (n)                       | week      |
+| der Tag (e)                         | day       |
+| die Stunde (n)                      | hour      |
+| die Minute (n)                      | minute    |
+| die Sekunde (n)                     | second    |
+| der Montag (e)                      | Monday    |
+| der Dienstag (e)                    | Tuesday   |
+| der Mittwoch (e)                    | Wednesday |
+| der Donnerstag (e)                  | Thursday  |
+| der Freitag (e)                     | Friday    |
+| der Samstag (e)                     | Saturday  |
+| der Sonntag (e)                     | Sunday    |
+| der Januar                          | January   |
+| der Februar                         | February  |
+| der März                            | March     |
+| der April                           | April     |
+| der Mai                             | May       |
+| der Juni                            | June      |
+| der Juli                            | July      |
+| der August                          | August    |
+| der September                       | September |
+| der Oktober                         | October   |
+| der November                        | November  |
+| der Dezember                        | December  |
+| das Frühjahr / der Frühling (e / e) | spring    |
+| der Sommer                          | summer    |
+| der Herbst (e)                      | fall      |
+| der Winter                          | winter    |
 
 Das Theater
 
@@ -331,34 +348,48 @@ Die Stadt (Städte)
 | berichten     | to report        | im Kurs berichten      |
 | bestellen     | to order         | Sie bestellt einen Tee |
 | bezahlen      | to pay (for)     | Er bezahlt den Kaffee  |
+| bieten        | to provide       | Er bietet              |
 | brauchen      | to need          | Ich brauche            |
+| bringen       | to bring         | Sie bringt             |
 | diskutieren   | to discuss       | Wir diskutieren        |
+| entdecken     | to discover      | Er entdeckt            |
 | erfinden      | to invent        | Sie erfindet           |
+| erklären      | to explain       | Er erklärt             |
+| erscheinen    | to be released   |                        |
 | essen         | to eat           | Du isst                |
 | fahren        | to drive         | Wir fahren Fahrrad     |
 | fehlen        | to lack          | Ihr fehlt              |
+| feiern        | to party         | Ihr feiert             |
 | finden        | to find          | Er findet              |
 | fotografieren | to photograph    | Sie fotografiert       |
 | forschen      | to research      | im Internet forschen   |
 | geben         | to give          | Es gibt                |
 | gehen         | to go            | Du gehst               |
 | gestalten     | to design        | Ich gestalte           |
+| gewinnen      | to win           | gewinnt                |
 | haben         | to have          | viel zu tun haben      |
+| hassen        | to hate          | hasst                  |
 | heißen        | to be called     | Wir heißen             |
 | hören         | to listen        | Er hört Musik          |
 | kaufen        | to buy           | Ich kaufe              |
 | kennen        | to know          | Du kennst              |
 | klagen        | to complain      | Er klagt               |
+| kochen        | to cook          | Er kocht               |
 | kommen        | to come (from)   | Sie kommen             |
 | kosten        | to cost          | Es kostet              |
 | kriegen       | to get           | Ihr kreigt             |
+| lachen        | to laugh         | Er lacht               |
 | laufen        | to run           | Du laufst              |
 | lesen         | to read          | Sie liest              |
 | liegen        | to be located    | Ich liege              |
 | machen        | to make / to do  | Du machst              |
+| merken        | to realize       | Du merkst              |
 | nehmen        | to take          | Du nimmst              |
 | öffnen        | to open          | Öffne die Tür          |
+| pflegen       | to maintain      | Er pflegt              |
 | rachen        | to smoke         | Du rauchst             |
+| reden         | to talk          | Ihr redet              |
+| sammeln       | to collect       | Sie sammelt            |
 | sehen         | to see           | Er seiht               |
 | sein          | to be            | Du bist                |
 | schlafen      | to sleep         | Ich schlafe            |
@@ -368,6 +399,7 @@ Die Stadt (Städte)
 | spielen       | to play          | Du spielst             |
 | sprechen      | to talk / speak  | Er spricht Deutsch     |
 | studieren     | to be a student  | Ihr studiert           |
+| tanzen        | to dance         | Wir tanzen             |
 | treffen       | to meet          | Sie trifft             |
 | treten        | to step          | Ich trete zurück       |
 | trinken       | to drink         | Er trinkt              |
@@ -377,21 +409,26 @@ Die Stadt (Städte)
 | versprechen   | to promise       | Der Abend verspricht   |
 | verstehen     | to understand    | Ich verstehe           |
 | vorlesen      | to recite        | Ich vorlese            |
+| warten        | to wait          | Du wartest             |
 | waschen       | to wash          | Ihr wascht             |
 
 Separable Prefixes
 
-| Deutsch       | Englisch         | Beispiel                                |
-| ------------- | ---------------- | --------------------------------------- |
-| anfangen      | to begin         | Martinas Tag **fängt** sehr früh **an** |
-| anrufen       | to call          | Sie **ruft** ihre Freundin **an**       |
-| aufpassen     | to pay attention | passt auf                               |
-| aufräumen     | to clean up      | **Räumt** Martina **auf**               |
-| einkaufen     | to shop          | Sie **kaufen** in Berlin **ein**        |
-| einschlafen   | to fall asleep   | Er **schläft** sehr spät **ein**        |
-| fernsehen     | to watch TV      | Du **siehst** am Abend **fern**         |
-| mitkommen     | to come along    | **Kommst** du ins Kino **mit**?         |
-| sich befinden | to be located    | befindet sich                           |
+| Deutsch       | Englisch            | Beispiel                                |
+| ------------- | ------------------- | --------------------------------------- |
+| anfangen      | to begin            | Martinas Tag **fängt** sehr früh **an** |
+| anrufen       | to call             | Sie **ruft** ihre Freundin **an**       |
+| aufnehmen     | to record           | Er **nimmt auf**                        |
+| aufpassen     | to pay attention    | Sie **passt auf**                       |
+| aufräumen     | to clean up         | **Räumt** Martina **auf**               |
+| auftreten     | to appear / perform | Es **tritt auf**                        |
+| einkaufen     | to shop             | Sie **kaufen** in Berlin **ein**        |
+| einschlafen   | to fall asleep      | Er **schläft** sehr spät **ein**        |
+| fernsehen     | to watch TV         | Du **siehst** am Abend **fern**         |
+| mitkommen     | to come along       | **Kommst** du ins Kino **mit**?         |
+| mitmachen     | to participate      | Wir **machen mit**                      |
+| sich befinden | to be located       | Es **befindet sich**                    |
+| stattfinden   | to happen           | Es **findet statt**                     |
 
 Modalverbs
 
@@ -413,6 +450,7 @@ mit Dativobjekt
 | antworten            | to answer s.o.        | Er **antowortet dem** Regisseur                 |
 | auf die Nerven gehen | to get on s.o. nerves | Er **geht mir auf** die Nerven (also separable) |
 | besprechen           | to discuss s.t.       | Wir **besprichen**                              |
+| einfallen            | to occur to s.o.      | fällt ein (also separable)                      |
 | gefallen             | to look good to s.o.  | Das Bühnenbild **gefällt den** Zuschauern       |
 | gehören              | to belong to s.o.     | Das Handy **gehört dem** Direktor               |
 | glauben              | to believe s.o.       | Er **glaubt mir**                               |
@@ -561,7 +599,7 @@ Priority
 | Wiederholen Sie bitte?    | Please repeat             |
 |                           |                           |
 
-## Numbers
+## Zahlen
 
 | #    |        | #    |          | #    |                  | #    |         |
 | ---- | ------ | ---- | -------- | ---- | ---------------- | ---- | ------- |
