@@ -506,10 +506,16 @@ Die Farbe (Farben)
 
 Priority
 
-| Deutsch | Englisch | Deutsch | Englisch |
-| ------- | -------- | ------- | -------- |
-| erste   | first    |         |          |
-|         |          |         |          |
+| Deutsch     | Englisch | Deutsch              | Englisch     |
+| ----------- | -------- | -------------------- | ------------ |
+| **erste**   | first    | *9-19 + te*          |              |
+| zwei**te**  | second   | neun**te**           | ninth        |
+| dr**itte**  | third    | zehn**te**           | tenth        |
+| vier**te**  | fourth   | *20… + ste*          |              |
+| fünf**te**  | fifth    | zwanzig**ste**       | twentieth    |
+| sechs**te** | sixth    | einundzwanzig**ste** | twenty-first |
+| sieb**te**  | seventh  |                      |              |
+| acht**e**   | eighth   |                      |              |
 
 ## Adverbien
 
@@ -579,10 +585,25 @@ Priority
 
 ## Konjunktionen
 
-| Deutsch | Englisch |
-| ------- | -------- |
-| aber    | but      |
-| und     | and      |
+Beiordnende Konjunktionen (coordinating conjunctions)
+
+| Deutsch | Englisch        | Bespiel |
+| ------- | --------------- | ------- |
+| aber    | but             |         |
+| denn    | because         |         |
+| oder    | or              |         |
+| sondern | on the contrary |         |
+| und     | and             |         |
+
+Unterordnende Konjunktionen (subordinating conjunctions) - change word order
+
+| Deutsch | Englisch           | Bespiel |
+| ------- | ------------------ | ------- |
+| als     | when               |         |
+| dass    | that               |         |
+| seit    | since / for (time) |         |
+| weil    | because            |         |
+| wenn    | if / when          |         |
 
 ## Präpositionen
 

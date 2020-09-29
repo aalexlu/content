@@ -1,6 +1,6 @@
 # Grammar
 
-## Special Conjugations
+## Konjugationen
 
 Sein / Haben
 
@@ -72,3 +72,56 @@ Artikels
 |            | ein Deutsch**er**       | ein Deutsch**es** | eine Deutsch**e** | Deutsch**e**      |
 | Accusative | **den** Deutsch**en**   | das Deutsch**e**  | die Deutsch**e**  | die Deutsch**en** |
 |            | **einen** Deutsch**en** | ein Deutsch**es** | eine Deutsch**e** | Deutsch**e**      |
+
+## Das Perfekt (past)
+
+Reguläre Verben: add **[ge-]** as prefix and **[-t]** as suffix
+
+| Reguläre Verben                             |
+| ------------------------------------------- |
+| hören → hat gehört                          |
+| fragen → hat gefragt                        |
+| wandern → ist gewandert                     |
+| *sometimes **[-e-]** before final **[-t]*** |
+| arbeiten → hat gearbeitet                   |
+| öffnen → hat geöffnet                       |
+| warten → hat gewartet                       |
+
+Irreguläre Verben: add **[ge-]** as prefix and **[-en]** as suffix
+
+| Irreguläre Verben                            |
+| -------------------------------------------- |
+| kommen →                                     |
+| sehen →                                      |
+| waschen →                                    |
+| *vowel or stem change*                       |
+| werden →                                     |
+| gehen →                                      |
+| bleiben →                                    |
+| sein →                                       |
+| *sometimes end in **[-t]** and vowel change* |
+| bringen →                                    |
+| denken →                                     |
+| rennen →                                     |
+
+Verben mit trennbaren Präfixen: separable prefix *then* **[-ge-]**
+
+| Verben mit trennbaren Präfixen       |
+| ------------------------------------ |
+| einkaufen →                          |
+| ankommen →                           |
+| mitbringen →                         |
+| **Verben mit untrennbaren Präfixen** |
+| versuchen →                          |
+| bekommen →                           |
+| unterschreiben →                     |
+| **Verben mit [-ieren]**              |
+| studieren →                          |
+| reparieren →                         |
+| gratulieren →                        |
+
+
+
+**5.3.1: **[time] : [manner] : [place]
+
+- Hilli geht [heute] [mit Freundin] [auf ein Konzert von Philipp Poisel]
