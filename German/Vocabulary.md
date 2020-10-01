@@ -22,7 +22,7 @@ Der Mensch (en)
 | der Krankenpfleger / die Krankenpflegerin (en / nen) | nurse                 |
 | der Künstler / die Künstlerin (en / nen)             | artist                |
 | der Lehrer / die Lehrerin (en / nen)                 | teacher               |
-| die Mädchen                                          | girl                  |
+| das Mädchen                                          | girl                  |
 | der Mörder / die Mörderin (en / nen)                 | murderer              |
 | der Postbote / die Postbotin (en / nen)              | letter carrier        |
 | der Professor / die Professorin (en / nen)           | professor             |
@@ -576,28 +576,31 @@ Priority
 
 ## Phrasen
 
-| Deutsch                   | Englisch                  |
-| ------------------------- | ------------------------- |
-| Auf Wiedersehen           | goodbye                   |
-| bis bald                  | see you soon              |
-| bis später                | see you later             |
-| Es gibt…                  | There is…                 |
-| Guten Tag                 | hello                     |
-| hallo                     | hello                     |
-| Es gibt…                  | There is…                 |
-| Guten Morgen              | good morning              |
-| Guten Abend               | good evening              |
-| Gute Nacht                | good night                |
-| Ja / nein                 | yes / no                  |
-| Schade                    | A pity / What a shame     |
-| tchüss                    | bye                       |
-| Warum?                    | Why?                      |
-| Wie bitte?                | Pardon me?                |
-| Wie geht es dir?          | How are you?              |
-| Wie sagt man…auf Deutsch? | How do you say…in German? |
-| Wie schreibt man…?        | How do you spell…?        |
-| Wiederholen Sie bitte?    | Please repeat             |
-|                           |                           |
+| Deutsch                   | Englisch                        |
+| ------------------------- | ------------------------------- |
+| Auf Wiedersehen           | goodbye                         |
+| bis bald                  | see you soon                    |
+| bis später                | see you later                   |
+| bitte                     | please / you're welcome / sorry |
+| danke                     | thank you                       |
+| Es gibt…                  | There is…                       |
+| Es tut mir leid           | sorry                           |
+| Guten Tag                 | hello                           |
+| hallo                     | hello                           |
+| Es gibt…                  | There is…                       |
+| Guten Morgen              | good morning                    |
+| Guten Abend               | good evening                    |
+| Gute Nacht                | good night                      |
+| Ja / nein                 | yes / no                        |
+| Schade                    | A pity / What a shame           |
+| tchüss                    | bye                             |
+| Warum?                    | Why?                            |
+| Wie bitte?                | Pardon me?                      |
+| Wie geht es dir?          | How are you?                    |
+| Wie sagt man…auf Deutsch? | How do you say…in German?       |
+| Wie schreibt man…?        | How do you spell…?              |
+| Wiederholen Sie bitte?    | Please repeat                   |
+|                           |                                 |
 
 ## Zahlen
 
