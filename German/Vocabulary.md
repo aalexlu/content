@@ -490,9 +490,11 @@ mit Dativobjekt
 | gut           | good              |
 | hässlich      | ugly              |
 | heiß          | hot               |
+| hoch          | high              |
 | intelligent   | intelligent       |
 | interessant   | interesting       |
 | jeder         | every             |
+| jung          | young             |
 | kalt          | cold              |
 | klein         | small             |
 | krank         | sick / ill        |
@@ -502,13 +504,17 @@ mit Dativobjekt
 | lieb          | kind              |
 | mehr          | more              |
 | menschlich    | human             |
+| müde          | tired             |
 | nächsten      | next              |
 | neu           | new               |
 | peinlich      | embarrassing      |
 | perfekt       | perfect           |
 | raffiniert    | refined           |
 | ruhig         | quiet             |
+| sauber        | clean             |
 | schlect       | bad               |
+| schmutzig     | dirty             |
+| schnell       | fast              |
 | schön         | beautiful         |
 | schwach       | weak              |
 | schwer        | heavy / difficult |
@@ -516,6 +522,7 @@ mit Dativobjekt
 | stark         | strong            |
 | stolz         | proud             |
 | streng        | strict            |
+| tief          | deep              |
 | toll          | great             |
 | unattraktiv   | unattractive      |
 | unauffällig   | inconspicuous     |
