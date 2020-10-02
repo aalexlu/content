@@ -22,16 +22,16 @@
 
 ## Up Next
 
-| Title           | Author            |
-| --------------- | ----------------- |
-| 1984            | Orwell, George    |
-| Dune            | Herbert, Frank    |
-| Norse Mythology | Rothfuss, Patrick |
+| Title           | Author            | Notes |
+| --------------- | ----------------- | ----- |
+| 1984            | Orwell, George    |       |
+| Dune            | Herbert, Frank    |       |
+| Norse Mythology | Rothfuss, Patrick |       |
 
 # Other Literature
 
 ## Read
 
-| Title | Author | Date(s) | Notes |
-| ----- | ------ | ------- | ----- |
-|       |        |         |       |
+| Title       | Author           | Date(s) | Notes                                                        |
+| ----------- | ---------------- | ------- | ------------------------------------------------------------ |
+| The Lottery | Jackson, Shirley | 10/20   | The dangers of blindly following tradition; contrast between the setting and the events of the lottery |

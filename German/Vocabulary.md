@@ -12,6 +12,7 @@ Der Mensch (en)
 | der Arzt / die Ärztin (Ärzte / nen)                  | physician             |
 | der Dozent / die Dozentin (en / nen)                 | instructor            |
 | der Freund / die Freundin (en / nen)                 | friend                |
+| der Held / die Heldin (en / nen)                     | hero                  |
 | der Hersteller                                       | manufacturer          |
 | der Ingenieur / die Ingenieurin (en / nen)           | engineer              |
 | der Journalist / die Journalistin (en / nen)         | journalist            |
@@ -20,8 +21,10 @@ Der Mensch (en)
 | das Kind (er)                                        | child                 |
 | der Kollege / die Kollegin (en / nen)                | colleague             |
 | der Krankenpfleger / die Krankenpflegerin (en / nen) | nurse                 |
+| der Kritiker / Kritikerin ( / nen)                   | critic                |
 | der Künstler / die Künstlerin (en / nen)             | artist                |
 | der Lehrer / die Lehrerin (en / nen)                 | teacher               |
+| die Leute                                            | people                |
 | das Mädchen                                          | girl                  |
 | der Mörder / die Mörderin (en / nen)                 | murderer              |
 | der Postbote / die Postbotin (en / nen)              | letter carrier        |
@@ -63,6 +66,7 @@ Die Universität (en) und der Arbeitsplatz (Arbeitsplätze)
 | die Ahnung (en)            | inkling / notion         |
 | das Arbeit (en)            | work                     |
 | die Beschäftigung (en)     | occupation               |
+| der Buckdruck (e)          | printing                 |
 | der Computer               | computer                 |
 | der Durchschnitt (e)       | average                  |
 | das Ding (e)               | thing                    |
@@ -94,6 +98,8 @@ Die Universität (en) und der Arbeitsplatz (Arbeitsplätze)
 | die Studie (n)             | study / research project |
 | die Umfrage (n)            | survey                   |
 | das Unternehmen            | company / corporation    |
+| der Unterricht             | instruction / lesson     |
+| die Veranstaltung (en)     | event                    |
 | die Zeitschrift (en)       | magazine                 |
 | die Zeitung (en)           | newspaper                |
 
@@ -138,10 +144,11 @@ Das Hauptfach
 | Wirtschaftsingenieurwesen | business + engineering  |
 | Wirtschaftswissenschafte  | economics               |
 
-Das Tier (e)
+Das Tier (e) und die Natur
 
 | Deutsch           | Englisch |
 | ----------------- | -------- |
+| die Blume (n)     | flower   |
 | die Katze (n)     | cat      |
 | das Haustier (e)  | pet      |
 | das Huhn (Hühner) | chicken  |
@@ -153,7 +160,7 @@ Das Tier (e)
 | der Vogel (Vögel) | bird     |
 | die Spinne (n)    | spider   |
 
-Das Essen und das Getränk
+Das Essen und das Getränk (e)
 
 | Deutsch               | Englisch   |
 | --------------------- | ---------- |
@@ -312,6 +319,27 @@ Das Material (ien)
 | der Stoff (e)     | fabric   |
 | die Qualität (en) | quality  |
 
+Musik
+
+| Deutsch             | Englisch     |
+| ------------------- | ------------ |
+| der Auftritt (e)    | performance  |
+| das Album (Alben)   | album        |
+| die CD (CDs)        | CD           |
+| der Club / Klub (s) | (dance) club |
+| das Interesse (n)   | interest     |
+| der Jazz            | jazz         |
+| das Lied (er)       | song         |
+| die Mischung (en)   | mixture      |
+| der Motor (en)      | motor        |
+| die Oper (n)        | opera        |
+| das Orchester       | orchestra    |
+| die Party (s)       | party        |
+| die Sendung (en)    | broadcast    |
+| die Stimmung (en)   | mood         |
+
+
+
 Das Land (Länder)
 
 | Deutsch     | Englisch    | die Menschen     | die Sprache (n) |
@@ -355,7 +383,7 @@ Die Stadt (Städte)
 | entdecken     | to discover      | Er entdeckt            |
 | erfinden      | to invent        | Sie erfindet           |
 | erklären      | to explain       | Er erklärt             |
-| erscheinen    | to be released   |                        |
+| erscheinen    | to appear        |                        |
 | essen         | to eat           | Du isst                |
 | fahren        | to drive         | Wir fahren Fahrrad     |
 | fehlen        | to lack          | Ihr fehlt              |
@@ -462,77 +490,121 @@ mit Dativobjekt
 
 ## Adjektive
 
-| Deutsch       | Englisch          |
-| ------------- | ----------------- |
-| aktiv         | active            |
-| alle          | all               |
-| alt           | old               |
-| attraktiv     | attractive        |
-| auffällig     | striking          |
-| aufmerksam    | attentive         |
-| berühmt       | popular           |
-| bequem        | comfortable       |
-| blöd          | stupid            |
-| bunt          | colorful          |
-| dick          | thick             |
-| dünn          | thin              |
-| echt          | real              |
-| ehrlich       | honest            |
-| einfach       | simple / easy     |
-| einfarbig     | monochrome        |
-| erfolgreich   | successful        |
-| ernst         | serious           |
-| fertig        | finished          |
-| freundlich    | friendly          |
-| froh          | glad              |
-| genial        | nice              |
-| groß          | big               |
-| gut           | good              |
-| hässlich      | ugly              |
-| heiß          | hot               |
-| hoch          | high              |
-| intelligent   | intelligent       |
-| interessant   | interesting       |
-| jeder         | every             |
-| jung          | young             |
-| kalt          | cold              |
-| klein         | small             |
-| krank         | sick / ill        |
-| kurz          | short             |
-| lang          | long              |
-| licht         | light             |
-| lieb          | kind              |
-| mehr          | more              |
-| menschlich    | human             |
-| müde          | tired             |
-| nächsten      | next              |
-| neu           | new               |
-| peinlich      | embarrassing      |
-| perfekt       | perfect           |
-| raffiniert    | refined           |
-| ruhig         | quiet             |
-| sauber        | clean             |
-| schlect       | bad               |
-| schmutzig     | dirty             |
-| schnell       | fast              |
-| schön         | beautiful         |
-| schwach       | weak              |
-| schwer        | heavy / difficult |
-| stabil        | sturdy            |
-| stark         | strong            |
-| stolz         | proud             |
-| streng        | strict            |
-| tief          | deep              |
-| toll          | great             |
-| unattraktiv   | unattractive      |
-| unauffällig   | inconspicuous     |
-| uninteressant | uninteresting     |
-| verrückt      | crazy             |
-| verschieden   | different         |
-| vorsichtig    | careful           |
-| warm          | warm              |
-| weniger       | less              |
-| wichtig       | important         |
+| Deutsch            | Englisch                 |
+| ------------------ | ------------------------ |
+| aktiv              | active                   |
+| alle               | all                      |
+| alt                | old                      |
+| arm                | poor                     |
+| attraktiv          | attractive               |
+| auffällig          | striking                 |
+| aufmerksam         | attentive                |
+| berühmt            | popular                  |
+| beschäftigt        | busy                     |
+| bequem             | comfortable              |
+| billig             | cheap                    |
+| blöd               | stupid                   |
+| bunt               | colorful                 |
+| dick               | thick                    |
+| dumm               | dumb                     |
+| dünn               | thin                     |
+| echt               | real                     |
+| ehrlich            | honest                   |
+| einfach            | simple / easy            |
+| einfarbig          | monochrome               |
+| enttäuscht         | disappointed             |
+| erfolgreich        | successful               |
+| ernst              | serious                  |
+| europäisch         | European                 |
+| extrem             | extreme                  |
+| fern               | far                      |
+| fertig             | finished                 |
+| freundlich         | friendly                 |
+| froh               | glad                     |
+| geboren            | born                     |
+| gefährlich         | dangerous                |
+| genial             | nice                     |
+| geografisch        | geographic               |
+| gesund             | healthy                  |
+| grob               | coarse                   |
+| groß               | big                      |
+| günstig            | affordable               |
+| gut                | good                     |
+| hart               | hard                     |
+| hässlich           | ugly                     |
+| heiß               | hot                      |
+| historisch         | historic                 |
+| hoch               | high                     |
+| innovativ          | innovative               |
+| intelligent        | intelligent              |
+| interessant        | interesting              |
+| jeder              | every                    |
+| jung               | young                    |
+| kalt               | cold                     |
+| klein              | small                    |
+| klug               | clever                   |
+| krank              | sick / ill               |
+| kurz               | short                    |
+| lächerlich         | ridiculous               |
+| lang               | long                     |
+| längerfristig      | long-term                |
+| leer               | empty                    |
+| leicht             | light                    |
+| lieb               | kind                     |
+| lustig             | funny                    |
+| mehr               | more                     |
+| menschlich         | human                    |
+| müde               | tired                    |
+| nächsten           | next                     |
+| nahe               | near                     |
+| natürlich          | natural                  |
+| negativ            | negative                 |
+| neu                | new                      |
+| nördlich           | north                    |
+| notwendig          | necessary                |
+| optimistisch       | optimistic               |
+| östlich            | east                     |
+| peinlich           | embarrassing             |
+| perfekt            | perfect                  |
+| pessimistisch      | pessimistic              |
+| positiv            | positive                 |
+| preiswert          | reasonable               |
+| raffiniert         | refined                  |
+| recht              | right                    |
+| ruhig              | quiet                    |
+| sauber             | clean                    |
+| scharf             | spicy                    |
+| schlect            | bad                      |
+| schlimm            | bad                      |
+| schmutzig          | dirty                    |
+| schnell            | fast                     |
+| schön              | beautiful                |
+| schwach            | weak                     |
+| schwer             | heavy / difficult        |
+| selbstverständlich | naturally                |
+| sinnvoll           | useful                   |
+| stabil             | sturdy                   |
+| stark              | strong                   |
+| stolz              | proud                    |
+| streng             | strict                   |
+| südlich            | south                    |
+| teuer              | expensive                |
+| tief               | deep                     |
+| toll               | great                    |
+| umweltfreundlich   | environmentally friendly |
+| unattraktiv        | unattractive             |
+| unauffällig        | inconspicuous            |
+| uninteressant      | uninteresting            |
+| verrückt           | crazy                    |
+| verschieden        | different                |
+| viefältig          | diverse                  |
+| voll               | full                     |
+| vorsichtig         | careful                  |
+| warm               | warm                     |
+| weniger            | less                     |
+| westlich           | west                     |
+| wichtig            | important                |
+| wunderbar          | wonderful                |
 
 Die Farbe (Farben)
 
@@ -567,19 +639,44 @@ Priority
 | Deutsch     | Englisch       |
 | ----------- | -------------- |
 | auch        | also           |
+| außerdem    | in addition    |
+| bald        | soon           |
+| besonders   | special        |
+| daher       | therefore      |
+| damals      | (back) then    |
+| dennoch     | nevertheless   |
+| deshalb     | because of     |
 | doch        | but            |
+| einmal      | once           |
 | fast        | almost         |
 | gern        | gladly         |
+| gestern     | yesterday      |
 | hier        | here           |
+| hinten      | behind         |
 | immer       | always         |
+| inzwischen  | meanwhile      |
+| irgendwann  | sometime       |
+| jetzt       | now            |
 | leider      | unfortunately  |
 | manchmal    | sometimes      |
 | morgens     | in the morning |
 | nimmer      | never          |
+| oben        | above          |
+| oft         | often          |
 | schließlich | finally        |
 | sehr        | very           |
+| später      | later          |
+| täglich     | daily          |
+| trotzdem    | in spite of    |
+| überhaupt   | in general     |
+| unten       | below          |
 | vielleicht  | maybe          |
+| vorher      | previously     |
+| vorn        | in front       |
 | vorsichtig  | carefully      |
+| wohl        | well           |
+| zurzeit     | currently      |
+| zuerst      | first          |
 
 ## Phrasen
 
