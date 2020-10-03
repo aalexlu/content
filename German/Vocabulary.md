@@ -146,19 +146,23 @@ Das Hauptfach
 
 Das Tier (e) und die Natur
 
-| Deutsch           | Englisch |
-| ----------------- | -------- |
-| die Blume (n)     | flower   |
-| die Katze (n)     | cat      |
-| das Haustier (e)  | pet      |
-| das Huhn (Hühner) | chicken  |
-| der Hund (e)      | dog      |
-| die Fliege (n)    | fly      |
-| die Kuh (Kühe)    | cow      |
-| das Schwein (e)   | pig      |
-| die Ente (n)      | duck     |
-| der Vogel (Vögel) | bird     |
-| die Spinne (n)    | spider   |
+| Deutsch             | Englisch |
+| ------------------- | -------- |
+| der Bär (Bären)     | bear     |
+| die Blume (n)       | flower   |
+| der Fisch (e)       | fish     |
+| die Katze (n)       | cat      |
+| der Hai (e)         | shark    |
+| das Haustier (e)    | pet      |
+| das Huhn (Hühner)   | chicken  |
+| der Hund (e)        | dog      |
+| die Fliege (n)      | fly      |
+| die Kuh (Kühe)      | cow      |
+| die Schildkröte (n) | turtle   |
+| das Schwein (e)     | pig      |
+| die Ente (n)        | duck     |
+| der Vogel (Vögel)   | bird     |
+| die Spinne (n)      | spider   |
 
 Das Essen und das Getränk (e)
 
