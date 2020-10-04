@@ -56,8 +56,8 @@ ex: la split to auipc, addi
 
 ``````
 0x002cff00:	loop:	add t1, t2, t0
-0x002cff04:				jal ra, foo
-0x002cff08:				bne t1, zero, loop
+0x002cff04:		jal ra, foo
+0x002cff08:		bne t1, zero, loop
 ...
 0x002cff2c:	foo:	jr ra
 ``````
