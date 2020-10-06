@@ -567,6 +567,7 @@ mit Dativobjekt
 | nördlich           | north                    |
 | notwendig          | necessary                |
 | optimistisch       | optimistic               |
+| organisiert        | organized                |
 | östlich            | east                     |
 | peinlich           | embarrassing             |
 | perfekt            | perfect                  |
@@ -599,6 +600,7 @@ mit Dativobjekt
 | unattraktiv        | unattractive             |
 | unauffällig        | inconspicuous            |
 | uninteressant      | uninteresting            |
+| unhöflich          | impolite                 |
 | verrückt           | crazy                    |
 | verschieden        | different                |
 | viefältig          | diverse                  |
