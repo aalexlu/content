@@ -65,7 +65,7 @@ fastest you can clock this single cycle datapath
 
 - 1 / 800 ps
 - 1 / (800 * 10^-12) seconds
-- 1250000000  s^-1
+- 1,250,000,000  s^-1
 - 1.25 GHz
 
 inefficient since based on slowest instruction and there are idle resources

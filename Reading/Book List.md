@@ -27,6 +27,7 @@
 | 1984            | Orwell, George    |       |
 | Dune            | Herbert, Frank    |       |
 | Norse Mythology | Rothfuss, Patrick |       |
+| Legend          |                   |       |
 
 # Other Literature
 

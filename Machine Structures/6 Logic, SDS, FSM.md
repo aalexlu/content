@@ -14,9 +14,38 @@
 | Inverse      |          A(Ā) = 0          |         A + Ā = 1          |
 | De Morgan's  | (<u>AB</u>) = Ā + <u>B</u> | <u>A + B</u> = Ā(<u>B</u>) |
 
+Example 1 (De Morgan's):
+
+````
+not(A) + AB
+not(A) + not(not(AB))
+not(A(not(AB)))
+not(A(not(A) + not(B)))
+not(Anot(A) + Anot(B))
+not(Anot(B))
+not(A) + B
+````
+
+Example 2:
+
+````
+(A + B)(A + not(B))C
+(AA + Anot(B) + AB + Bnot(B))C
+(A + A(not(B) + B) + 0)
+AC
+````
+
+*view worksheet*
+
+## Logic Gates
+
+| not  | and  | or   | xor  | nand | nor  | nxor |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| \|>o | \|)  | ))   | )))  | \|)o | ))o  | )))o |
+
 ## State Design System
 
-**state elements:** keeps state / keeps memory of previous signals
+**state elements:** keeps state / keeps memory of previous signals - change based on clock signal
 
 **clock (clk):** heartbeat of system; keeps track of timing; keeps everything in sync
 
@@ -42,5 +71,11 @@ Simplifying boolean logic expressions optimize gates: reduced gates; performance
 
 Speed of circuit: depends on parallel / series setup
 
+**Problems:** line by line draw waves - *view hw05, disc*
+
 ## Finite State Machine
+
+**next state and output** depend on **current state and input**
+
+0/1 - input/output(input to next)
 
