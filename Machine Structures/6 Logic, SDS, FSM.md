@@ -17,13 +17,13 @@
 Example 1 (De Morgan's):
 
 ````
-not(A) + AB
-not(A) + not(not(AB))
-not(A(not(AB)))
-not(A(not(A) + not(B)))
-not(Anot(A) + Anot(B))
-not(Anot(B))
-not(A) + B
+!A + AB
+!A + !(!(AB))
+!(A(!(AB)))
+!(A!A + !B))
+!(A!A + A!B)
+!(A!B)
+!A + B
 ````
 
 Example 2:
@@ -39,9 +39,30 @@ AC
 
 ## Logic Gates
 
-| not  | and  | or   | xor  | nand | nor  | nxor |
+| not  | and  | or   | xor  | nand | nor  | xnor |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| \|>o | \|)  | ))   | )))  | \|)o | ))o  | )))o |
+| \|>o | \|>  | )>   | ))>  | \|>o | )>o  | ))>o |
+
+**Gates to Boolean:** 
+
+| A    | B    | NAND(A, B) | XOR(A, B) | XNOR(A, B) |      |
+| ---- | ---- | ---------- | --------- | ---------- | ---- |
+| 0    | 0    | 1          | 0         | 1          | !A!B |
+| 0    | 1    | 1          | 1         | 0          | !AB  |
+| 1    | 0    | 1          | 1         | 0          | A!B  |
+| 1    | 1    | 0          | 0         | 1          | AB   |
+
+**NAND to Boolean: **(!A!B + !AB + A!B) or (!(AB) = !A + !B)
+
+**XOR to Boolean:** (!AB + A!B)
+
+**XNOR to Boolean:** (!A!B + AB)
+
+Create AND from NANDs
+
+- NAND-NOT→AND
+- *NOT(A) = NAND(A, A)*
+- NAND(A, B)-NAND(A, A)→AND
 
 ## State Design System
 
