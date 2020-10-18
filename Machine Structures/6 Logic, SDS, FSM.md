@@ -78,13 +78,15 @@ Create AND from NANDs
 
 **hold time:** amount of time <u>after</u> rising clock edge that the input has to stay stable for for
 
-**clk-to-q:** amount of time <u>after</u> rising clock edge until outout is registered
+**clk-to-q:** amount of time <u>after</u> rising clock edge until register's input is reflected on output
 
 **critical path:** clk-to-q + max CL block + set-up time
 
 - (reg1) (amt of delay) (reg2)
-- min. clk period = critical path time
-- max clk frequency (cycles / s) = 1 / (min. clk period)
+- <u>min. clk period</u> = critical path time
+- <u>max clk frequency</u> (cycles / s) = 1 / (min. clk period)
+
+**max hold time:** clk-to-q (from prev register) + shortest CL
 
 **Other**
 
@@ -100,3 +102,8 @@ Speed of circuit: depends on parallel / series setup
 
 0/1 - input/output(input to next)
 
+**Examples:**
+
+- pattern in a bitstring - move through states
+- repeating recent bits - having start, last bit 0, and last bit 1 states
+- regex pattern - start, pattern begin, pattern hasn't begun states
