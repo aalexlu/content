@@ -9,9 +9,9 @@
 | ------- | ----------------------------------------------- |
 | **!**   | returns 0 if value is non-zero, 1 if value is 0 |
 | **~**   | bitwise not                                     |
-| **&**   | and                                             |
-| **\|**  | or                                              |
-| **^**   | bitwise xor                                     |
+| **&**   | and (turn bits OFF)                             |
+| **\|**  | or (turn bits ON)                               |
+| **^**   | bitwise xor (flipping bits)                     |
 | >>      | shift right                                     |
 | **<<**  | shift left                                      |
 | *****   | evaluate                                        |
