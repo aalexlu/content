@@ -39,25 +39,27 @@ Der Mensch (en)
 
 Die Familie (n)
 
-| Deutsch                     | Englisch       |
-| --------------------------- | -------------- |
-| der Bruder (Brüder)         | brother        |
-| das Ehepaar (e)             | married couple |
-| die Eltern                  | parents        |
-| der Enkelkind (er)          | grandchild     |
-| die Frau (en)               | woman / wife   |
-| die Großmutter (Großmütter) | grandmother    |
-| der Großvater (Großväter)   | grandfather    |
-| die Hausfrau (en)           | housewife      |
-| der Haushalt (e)            | household      |
-| der Onkel                   | uncle          |
-| der Mann (Männer)           | man / husband  |
-| die Mutter (Mütter)         | mother         |
-| die Schwester (n)           | sister         |
-| der Sohn (Söhne)            | son            |
-| die Tante (n)               | aunt           |
-| die Tochter (Töchter)       | daughter       |
-| der Vater (Väter)           | father         |
+| Deutsch                     | Englisch            |
+| --------------------------- | ------------------- |
+| der Bruder (Brüder)         | brother             |
+| das Ehepaar (e)             | married couple      |
+| die Eltern                  | parents             |
+| der Enkel / die Enkelin     | granddaughter / son |
+| der Enkelkind (er)          | grandchild          |
+| die Frau (en)               | woman / wife        |
+| die Großeltern              | grandparents        |
+| die Großmutter (Großmütter) | grandmother         |
+| der Großvater (Großväter)   | grandfather         |
+| die Hausfrau (en)           | housewife           |
+| der Haushalt (e)            | household           |
+| der Onkel                   | uncle               |
+| der Mann (Männer)           | man / husband       |
+| die Mutter (Mütter)         | mother              |
+| die Schwester (n)           | sister              |
+| der Sohn (Söhne)            | son                 |
+| die Tante (n)               | aunt                |
+| die Tochter (Töchter)       | daughter            |
+| der Vater (Väter)           | father              |
 
 Die Universität (en) und der Arbeitsplatz (Arbeitsplätze)
 
