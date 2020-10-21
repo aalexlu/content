@@ -22,6 +22,7 @@ TBU: *in autosegmental phonology* any element on the segmental tier which is cap
 
 tone stability: the deletion of a vowel does not result in the deletion of the tone *borne by* the vowel
 
+- ex: èk**é ò**kpá → èk**ô**kpá
 - ó = H	ò = L	ô = HL	ǒ = LH
 
 well-formedness condition: all vowels must *bear* some tone, and all tones must be *borne by* some vowel
