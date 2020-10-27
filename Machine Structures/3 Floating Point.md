@@ -16,13 +16,15 @@ Binary representation for floating point values
 | ---- | -------- | ----------------------------- |
 | Sign | Exponent | Mantissa/Significand/Fraction |
 
-**Normalized floats:**
+**Normalized floats (to binary):**
 
-- (-1)^*Sign* * 2^*(Exp + Bias)* * 1.significand
+- (-1)^Sign^ * 2^(Exp+Bias)^ * 1.significand
 
 **Denormalized floats:**
 
-- (-1)^*Sign* * 2^*(Exp + Bias **+ 1**)* * 0.significand
+- (-1)^Sign^ * 2^(Exp+Bias+1)^ * 0.significand
+
+**Bias:** 2^(Exp-1)^ - 1
 
 | Exponent | Significand | Meaning  |
 | -------- | ----------- | -------- |
@@ -43,7 +45,13 @@ next smallest number larger than 2:
 
 next smallest number larger than 4:
 
-**stepsize:**
+smallest denorm: 2^(-num_significand_bits)^ * 2^(-bias+1)^
+
+in range [1,2): 2^(num_significant_bits)^
+
+total numbers represented: 2^32^ - 2^(num_significant_bits)^ + 2
+
+**stepsize:** 
 
 | Decimal     | Binary         |
 | ----------- | -------------- |

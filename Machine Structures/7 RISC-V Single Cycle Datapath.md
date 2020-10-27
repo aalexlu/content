@@ -42,6 +42,7 @@
 
 **critical path:** longest delay path between state elements in circuit
 
+- clk-to-q + max CL block + set-up time
 - circuit cannot be clocked faster than this
 - placing registers in critical path <u>reduces the amount of logic between registers</u>
 
