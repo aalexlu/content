@@ -56,12 +56,12 @@ cycle time = 300 ns
 
 - when an instruction <u>reads</u> a register before a previous instruction has finished <u>writing</u> to that register
 
-- **without forwarding** requires 3 stalls
+- **without forwarding** requires 3 stalls (without double pumping)
 
   - | Instruction        | C1   | C2   | C3   | C4   | C5   | C6   |
     | ------------------ | ---- | ---- | ---- | ---- | ---- | ---- |
     | sub **t1**, s0, s1 | IF   | ID   | EX   | MEM  | WB   |      |
-    | or s0, t0, **t1**  |      | IF   | —    | —    | —    | ID   |
+    | or s0, t0, **t1**  |      | IF   | *    | *    | *    | ID   |
 
 - **with forwarding** still cannot resolve **lw** (done after WB)
   - EX ⟶ EX :)
@@ -83,39 +83,37 @@ cycle time = 300 ns
 
 <u>with forwarding</u> to fix data hazard
 
-| Instruction        | C1   | C2   | C3       | C4       | C5       | C6   | C7   |
-| ------------------ | ---- | ---- | -------- | -------- | -------- | ---- | ---- |
-| 1. addi t0, a0, -1 | IF   | ID   | **EX •** | MEM      | WB       |      |      |
-| 2. add s2, t0, a0  |      | IF   | ID       | **• EX** | MEM      | WB   |      |
-| 3. altiu a0, t0, 5 |      |      | IF       | ID       | **• EX** | MEM  | WB   |
+| Instruction            | C1   | C2   | C3       | C4       | C5       | C6   | C7   |
+| ---------------------- | ---- | ---- | -------- | -------- | -------- | ---- | ---- |
+| 1. addi t0, a0, -1     | IF   | ID   | **EX •** | MEM      | WB       |      |      |
+| 2. add s2, **t0**, a0  |      | IF   | ID       | **• EX** | MEM      | WB   |      |
+| 3. altiu a0, **t0**, 5 |      |      | IF       | ID       | **• EX** | MEM  | WB   |
 
 *we know the value of t0 after EX and can then send to EX to fix both data hazards*
 
 <u>without forwarding</u>
 
-| Instruction        | C1   | C2   | C3   | C4   | C5   | C6   | C7   | C8   | C9   | C10    |
-| ------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ------ |
-| 1. addi t0, a0, -1 | IF   | ID   | EX   | MEM  | WB   |      |      |      |      |        |
-| 2. add s2, t0, a0  |      | *    | *    | *    | IF   | ID   | EX   | MEM  | WB   |        |
-| 3. altiu a0, t0, 5 |      |      |      |      |      | IF   | ID   | EX   | MEM  | WB</u> |
+| Instruction        | C1   | C2   | C3   | C4   | C5   | C6   | C7   | C8   | C9   |
+| ------------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 1. addi t0, a0, -1 | IF   | ID   | EX   | MEM  | WB   |      |      |      |      |
+| 2. add s2, t0, a0  |      | IF   | *    | *    | *    | ID   | EX   | MEM  | WB   |
 
 *would affect three instructions with data hazards*
 
 <u>without forwarding with double pumping</u>
 
-| Instruction        | C1   | C2   | C3   | C4   | C5     | C6   | C7   | C8   | C9   | C10  |
-| ------------------ | ---- | ---- | ---- | ---- | ------ | ---- | ---- | ---- | ---- | ---- |
-| 1. addi t0, a0, -1 | IF   | ID   | EX   | MEM  | **WB** |      |      |      |      |      |
-| 2. add s2, t0, a0  |      | *    | *    | IF   | **ID** | EX   | MEM  | WB   |      |      |
-| 3. altiu a0, t0, 5 |      |      |      |      |        | IF   | ID   | EX   | MEM  | WB   |
+| Instruction        | C1   | C2   | C3   | C4   | C5     | C6   | C7   | C8   |
+| ------------------ | ---- | ---- | ---- | ---- | ------ | ---- | ---- | ---- |
+| 1. addi t0, a0, -1 | IF   | ID   | EX   | MEM  | **WB** |      |      |      |
+| 2. add s2, t0, a0  |      | IF   | *    | *    | **ID** | EX   | MEM  | WB   |
 
-*can read from RegFile in ID in the same cycle of WB - would affect two instructions with data hazards*
+*same cycle can write to WB and read from RegFile in ID - would affect two instructions with data hazards*
 
 ### Example 2
 
 **Forwarding and Stalling:**
 
-data hazard from lw instruction
+data hazard from **lw** instruction
 
 | Instruction             | C1   | C2   | C3   | C4       | C5       | C6        | C7       | C8   | C9   |
 | ----------------------- | ---- | ---- | ---- | -------- | -------- | --------- | -------- | ---- | ---- |
@@ -124,7 +122,7 @@ data hazard from lw instruction
 | 3. lw **t1**, 0(**t0**) |      |      | IF   | ID       | **• EX** | **MEM •** | WB       |      |      |
 | 4. add t2, **t1**, x0   |      |      |      | *        | IF       | ID        | **• EX** | MEM  | WB   |
 
-*only way to resolve is with a stall as well*
+*only way to resolve is with a stall as well - result ready in MEM as opposed to EX*
 
 **Rearranging Code:**
 
@@ -135,21 +133,21 @@ data hazard from lw instruction
 | **1. addi s0, s0, 1** |      |      | IF       | ID       | EX        | MEM      | WB   |      |      |
 | 4. add t2, t1, x0     |      |      |          | IF       | ID        | **• EX** | MEM  | WB   |      |
 
-*instruction 1 does not rely on the other instructions, so can act as the stall for lw*
+*instr 1 does not rely on the other instructions, so can act as the 1 stall needed for lw*
 
 ### Extra Example
 
 <u>without forwarding with double pumping</u>
 
-| Instruction           | C1   | C2   | C3   | C4   | C5   | C6      | C7   | C8   | C9   | C10  | C11  | C12  |      |
-| --------------------- | ---- | ---- | ---- | ---- | ---- | ------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1. sub t1, s0, s1     | IF   | ID   | EX   | MEM  | WB   |         |      |      |      |      |      |      |      |
-| 2. or s0, t0, **t1**  |      | IF   | ID   | –    | –    | EX      | MEM  | WB   |      |      |      |      |      |
-| 3. sw s1, 100(**s0**) |      |      | IF   | –    | –    | ID free | –    | –    | EX   | MEM  | WB   |      |      |
-| 4. bgeu **s0**, s2, 1 |      |      |      |      |      | IF      | –    | –    | ID   | EX   | MEM  | WB   |      |
-| 5. add t2, x0, x0     |      |      |      |      |      |         |      |      | IF   | ID   | EX   | MEM  | WB   |
+| Instruction           | C1   | C2   | C3   | C4   | C5     | C6        | C7   | C8     | C9   | C10  | C11  | C12  | C13  |
+| --------------------- | ---- | ---- | ---- | ---- | ------ | --------- | ---- | ------ | ---- | ---- | ---- | ---- | ---- |
+| 1. sub t1, s0, s1     | IF   | ID   | EX   | MEM  | **WB** |           |      |        |      |      |      |      |      |
+| 2. or s0, t0, **t1**  |      | IF   | *    | *    | **ID** | EX        | MEM  | **WB** |      |      |      |      |      |
+| 3. sw s1, 100(**s0**) |      |      | IF   | *    | *      | *ID free* | *    | **ID** | EX   | MEM  | WB   |      |      |
+| 4. bgeu **s0**, s2, 1 |      |      |      |      |        | IF        | *    | *      | ID   | EX   | MEM  | WB   |      |
+| 5. add t2, x0, x0     |      |      |      |      |        |           |      |        | IF   | ID   | EX   | MEM  | WB   |
 
-*one instruction in a stage at once - control hazard between 4, 5
+*one instruction in a stage at once - control hazard between 4, 5*
 
 ## Detecting Data Hazards
 
