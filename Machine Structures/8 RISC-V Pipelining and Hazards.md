@@ -1,8 +1,8 @@
 # RISC-V Pipelining and Hazards
 
-## Pipelining Registers
+<img src="images/8pipelinedatapath.png" alt="pipelinedatapath" />
 
-<img src="images/8pipelining.png" alt="vc" style="width:800px;" />
+## Pipelining Registers
 
 Purpose of new registers: save values between stages; work that is done each stage
 
@@ -16,18 +16,29 @@ save instruction in a register multiple times - each stage has its own snapshot 
 
 **Throughput:** number of instructions processed per unit time
 
+### Example (Sp 18 MT 2)
+
+Max delays: IF = 200ns, ID = 150 ns, EX = 100 ns, MEM = 300 ns, WB = 250 ns
+
+cycle time = 300 ns
+
+- Latency:
+  - 5 stages = 5 * 300 ns = **1500 ns**
+- Throughput:
+  - 1/cycle time = **1/300 ns**
+
 *both latency and throughput increased with pipelining*
 
 ## Performance Analysis
 
-|                  | Single Cycle | Pipelined  |
-| ---------------- | ------------ | ---------- |
-| fastest clk time | 950 ps       | 300 ps     |
-| frequency        | 1.05 GHz     | 3.33 GHz   |
-| latency          | 950 ps       | 1500 ps    |
-| throughput       | 950 ps       | **300 ps** |
+|                  | Single Cycle | Pipelined   |
+| ---------------- | ------------ | ----------- |
+| fastest clk time | 950 ps       | 300 ps      |
+| frequency        | 1.05 GHz     | 3.33 GHz    |
+| latency          | 950 ps       | **1500 ps** |
+| throughput       | 950 ps       | **300 ps**  |
 
-950/300 = 3.2x
+950/300 = **3.2x**
 
 - not 5x because adding clk-to-q / setup everytime (also hazards)
 

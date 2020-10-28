@@ -1,5 +1,7 @@
 # RISC-V Single Cycle Datapath
 
+<img src="images/7singlecycledatapath.png" alt="singlecycledatapath"/>
+
 |      | Stage              |                                                              |
 | ---- | ------------------ | ------------------------------------------------------------ |
 | IF   | Instruction Fetch  | **PC** and **IMEM** (gives 32 bit instruction)               |
@@ -8,12 +10,10 @@
 | MEM  | Memory             | **DMEM** (holds all of our non instruction data - used for loads and stores) |
 | WB   | Write Back         | Wire back to RegFile (writing back to the rd - for jump and links / arithmetic / load words) |
 
-## ---VIEW DIAGRAM---
-
-| PCSel                                                        | inst | RegWEn                                   | ImmSel | BrEq | BrLt | BSel                                     | ASel                                    | ALUSel              | MemRW                                           | WBSel                                                       |
-| ------------------------------------------------------------ | ---- | ---------------------------------------- | ------ | ---- | ---- | ---------------------------------------- | --------------------------------------- | ------------------- | ----------------------------------------------- | ----------------------------------------------------------- |
-| 0→PC+4, 1→ALU (for jumps, branches) decided by result of ALU |      | whether we want to write back at the end |        |      |      | if need to operate on imm instead of rs2 | if need to operate on PC instead of rs1 | 0→add, 1→sub, 2→mul | will get write data - but may not want to write | what will be written back to rd - 0→PC+4, 1→ALU, 2→mem (lw) |
-| EX                                                           | IF   | ID                                       | ID     | EX   | EX   | EX                                       | EX                                      | EX                  | MEM                                             | WB                                                          |
+| PCSel                                                        | inst | RegWEn                                   | ImmSel | BrEq | BrLt | BSel        | ASel       | ALUSel              | MemRW                                           | WBSel                                                       |
+| ------------------------------------------------------------ | ---- | ---------------------------------------- | ------ | ---- | ---- | ----------- | ---------- | ------------------- | ----------------------------------------------- | ----------------------------------------------------------- |
+| 0→PC+4, 1→ALU (for jumps, branches) decided by result of ALU |      | whether we want to write back at the end |        |      |      | 0→rs2 1→imm | 0→rs1 1→PC | 0→add, 1→sub, 2→mul | will get write data - but may not want to write | what will be written back to rd - 0→PC+4, 1→ALU, 2→mem (lw) |
+| EX                                                           | IF   | ID                                       | ID     | EX   | EX   | EX          | EX         | EX                  | MEM                                             | WB                                                          |
 
 **Single Cycle Datapath:**
 
