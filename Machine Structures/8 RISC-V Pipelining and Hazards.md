@@ -66,6 +66,7 @@ cycle time = 300 ns
 - **with forwarding** still cannot resolve **lw** (done after WB)
   - EX ⟶ EX :)
   - MEM ⟶ EX :(
+    - need 1 stall *(see ex.2)*
 
 **Control Hazards:** caused by jump and branch instructions
 
