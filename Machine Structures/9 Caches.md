@@ -74,7 +74,7 @@ increasing cache size by adding more blocks does not always increase hit rate
 
 **Cache Coherency:** Write-through (Instant Update), Write-back (mark block as dirty, update RAM when a cache block is kicked out)
 
-## Cache Example (Disc)
+## Cache Example
 
 ### Steps
 
@@ -91,17 +91,17 @@ address 32B, capacity 32B, block size 8B
 - 8B (2^3^) block size ⟶  **3 bits for offset**
 - 32 - 3 - 2 ⟶ **27 bits for tag**
 
-|      | Address    | T/I/O            | Hit, Miss, Replace |      |
-| ---- | ---------- | ---------------- | ------------------ | ---- |
-| 1    | 0x00000004 | …0000 / 00 / 100 | M                  |      |
-| 2    | 0x00000005 | …0000 / 00 / 101 | H                  |      |
-| 3    | 0x00000068 | …0011 / 01 / 000 | M                  |      |
-| 4    | 0x000000C8 | …0110 / 01 / 000 | R                  |      |
-| 5    | 0x00000068 | …0011 / 01 / 000 | R                  |      |
-| 6    | 0x000000DD | …0110 / 11 / 101 | M                  |      |
-| 7    | 0x00000045 | …0010 / 00 / 101 | R                  |      |
-| 8    | 0x00000004 | …0000 / 00 / 100 | R                  |      |
-| 9    | 0x000000C8 | …0110 / 01 / 000 | R                  |      |
+|      | Address    | T/I/O            | Hit, Miss, Replace | T/I    |
+| ---- | ---------- | ---------------- | ------------------ | ------ |
+| 1    | 0x00000004 | …0000 / 00 / 100 | M (compulsory)     | 000000 |
+| 2    | 0x00000005 | …0000 / 00 / 101 | H                  | 000000 |
+| 3    | 0x00000068 | …0011 / 01 / 000 | M (compulsory)     | 001101 |
+| 4    | 0x000000C8 | …0110 / 01 / 000 | R (compulsory)     | 011001 |
+| 5    | 0x00000068 | …0011 / 01 / 000 | R (conflict)       | 001101 |
+| 6    | 0x000000DD | …0110 / 11 / 101 | M (compulsory)     | 011011 |
+| 7    | 0x00000045 | …0010 / 00 / 101 | R (compulsory)     | 001000 |
+| 8    | 0x00000004 | …0000 / 00 / 100 | R (capacity)       | 000000 |
+| 9    | 0x000000C8 | …0110 / 01 / 000 | R (capacity)       | 011001 |
 
 Process
 
@@ -114,12 +114,12 @@ Process
 
 Fully Associative Cache (to identify <u>conflict type</u>)
 
-| Tag (T/I)       |      |
-| --------------- | ---- |
-| 000000 → 001000 | ~    |
-| 001101 → 011001 | ~    |
-| 011001 → 000000 | ~    |
-| 011011          | ~    |
+| Tag (T/I)           |      |
+| ------------------- | ---- |
+| 000000 → 001000 (7) | ~    |
+| 001101 → 011001 (9) | ~    |
+| 011001 → 000000 (8) | ~    |
+| 011011              | ~    |
 
 Cache - 2 bit <u>index</u> **by** 3 bit <u>offset</u>
 
@@ -140,17 +140,17 @@ Cache - 2 bit <u>index</u> **by** 3 bit <u>offset</u>
 - num sets = log((32/8)/2) ⟶  **1 bit for index**
 - 8 - 3 - 1 ⟶  **4 bit for tag**
 
-|      | Address     | T/I/O           | Hit, Miss, Replace        | Miss Type                                |
-| ---- | ----------- | --------------- | ------------------------- | ---------------------------------------- |
-| 1    | 0b0000 0100 | …0000 / 0 / 100 | M (compulsory)            | compulsory                               |
-| 2    | 0b0000 0101 | …0000 / 0 / 101 | H (same I, T as 1)        |                                          |
-| 3    | 0b0110 1000 | …0110 / 1 / 000 | M (compulsory)            | compulsory                               |
-| 4    | 0b1100 1000 | …1100 / 1 / 000 | M (compulsory)            | compulsory                               |
-| 5    | 0b0110 1000 | …0110 / 1 / 000 | H (same I, T as 3)        | conflict                                 |
-| 6    | 0b1101 1101 | …1101 / 1 / 101 | R (compulsory, replace 4) | compulsory                               |
-| 7    | 0b0100 0101 | …0100 / 0 / 101 | M (compulsory)            | compulsory                               |
-| 8    | 0b0000 0100 | …0000 / 0 / 100 | H (same I, T as 1)        | capacity (fully associative also misses) |
-| 9    | 0b1100 1000 | …1100 / 1 / 000 | R                         | capacity (just replaced)                 |
+|      | Address     | T/I/O           | Hit, Miss, Replace | T/I   |
+| ---- | ----------- | --------------- | ------------------ | ----- |
+| 1    | 0b0000 0100 | …0000 / 0 / 100 | M (compulsory)     | 00000 |
+| 2    | 0b0000 0101 | …0000 / 0 / 101 | H                  | 00000 |
+| 3    | 0b0110 1000 | …0110 / 1 / 000 | M (compulsory)     | 01101 |
+| 4    | 0b1100 1000 | …1100 / 1 / 000 | M (compulsory)     | 11001 |
+| 5    | 0b0110 1000 | …0110 / 1 / 000 | H                  | 01101 |
+| 6    | 0b1101 1101 | …1101 / 1 / 101 | R (compulsory)     | 11011 |
+| 7    | 0b0100 0101 | …0100 / 0 / 101 | M (compulsory)     | 01000 |
+| 8    | 0b0000 0100 | …0000 / 0 / 100 | H                  | 00000 |
+| 9    | 0b1100 1000 | …1100 / 1 / 000 | R (capacity)       | 11001 |
 
 Process
 
@@ -167,12 +167,12 @@ Hit Rate:
 
 Fully Associative Cache (to identify <u>conflict type</u>)
 
-| Tag (T/I)     |      |
-| ------------- | ---- |
-| 00000 → 01000 | ~    |
-| 01101 → 11001 | ~    |
-| 11001 → 00000 | ~    |
-| 11011         | ~    |
+| Tag (T/I)         |      |
+| ----------------- | ---- |
+| 00000 → 01000 (7) | ~    |
+| 01101 → 11001 (9) | ~    |
+| 11001 → 00000 (8) | ~    |
+| 11011             | ~    |
 
 ## Cache Example (Guerilla)
 
@@ -250,10 +250,29 @@ Miss Rates:
 2. Reduce miss rate
 3. Reduce miss penalty
 
-Example
+### Example
 
+if L2$: miss 20 / 100 total accesses ⟶ L2% global miss rate = 20%
 
+if L1$: 50% miss rate ⟶ L2$ local miss rate = 20% / 50% = 40%
 
+**Then suppose:**
 
+- L1$ with hit time of 2 cycles, local miss rate of 20%
+- L2$ with hit time of 15 cycles, global miss rate of 5%
+- main memory where accesses take 100 cycles
 
-problems 4, 6
+L2$ local miss rate
+
+- #L2 misses / #L2 accesses = 5/20 = 25%
+
+AMAT of the system
+
+- hit time + miss rate * miss penalty
+- 2 + 0.2 (15 + 0.25 (100)) = 10 cycles
+
+Largest L3$ hit time - if we want 8 cycles or lower by adding an L3$ with miss rate of 30%
+
+- 8 >= 2 + 0.2 (15 + 0.25 (**X** + 0.3(100)))
+- **X** <= 30 cycles
+
