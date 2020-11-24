@@ -1,9 +1,11 @@
 # Syllable Weight and Moraic Theory
 
-**The Mora:** unit of syllable weight
+**The Mora:** unit of syllable (prosodic) weight
 
-- light syllable - monomoraic
-- heavy syllable - bimoraic
+- **light syllable** - monomoraic
+  - without a long vowel
+- **heavy syllable** - bimoraic
+  - with a long vowel
 
 | CV                                       | CVC                   | CVV                        |
 | ---------------------------------------- | --------------------- | -------------------------- |

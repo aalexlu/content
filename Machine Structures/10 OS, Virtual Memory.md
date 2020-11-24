@@ -15,7 +15,7 @@ Motivation for VM
 
 ## Addressing
 
-**Virtual Address (VA):** what your program uses (usually VPN > PPN)
+**Virtual Address (VA):** what your program uses (*user program knows about* - usually VPN > PPN)
 
 **Physical Address (PA):** what actually determines where in memory to go
 

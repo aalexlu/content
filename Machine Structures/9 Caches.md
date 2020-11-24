@@ -8,19 +8,27 @@ when cache is full, if new data then compulsory, otherwise capacity, also can be
 
 increasing cache size by adding more blocks does not always increase hit rate
 
+### *Hierarchy*
+
+registers ↔ memory *(by compiler)*
+
+<u>cache ↔ main memory *(by the cache controller hardware)*</u>
+
+main memory ↔ disks *(by the operating system (virtual memory) assisted by hardware)*
+
 ## T / I / O
 
-| Tag                                                          | Index                                               | Offset                                |
-| ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------- |
-| Used to distinguish different blocks that use the same index | The set that this piece of memory will be placed in | The location of the byte in the block |
-| num bits = # bits in memory address - Index Bits - Offset Bits | num bits = log2 (# of indices)                      | num bits = log2 (size of block)       |
+| Tag                                                          | Index                                                      | Offset                                       |
+| ------------------------------------------------------------ | ---------------------------------------------------------- | -------------------------------------------- |
+| Used to distinguish different <u>blocks</u> that use the same index | The <u>set</u> that this piece of memory will be placed in | The location of the <u>byte</u> in the block |
+| num bits = # bits in memory address - Index Bits - Offset Bits | num bits = log2 (# of indices)                             | num bits = log2 (size of block)              |
 
 ### Equations
 
 - *log2(memory size) = address bit-width = # tag bits + # index bits + # offset bits*
-- **cache size = block size * num blocks**
+- **cache size = block size * num blocks** (A = H * W)
 - N-way associative cache: **N * # sets = # blocks**
-  - direct-mapped: N = 1
+  - direct-mapped: N = 1, fully-associative: N = M
   - each set has N elements
 
 ### Why TIO
@@ -30,29 +38,35 @@ increasing cache size by adding more blocks does not always increase hit rate
 
 ## Types of Caches
 
-| Direct Mapped                                                | Fully Associative                                 | N-way Set Associative                                        |
-| ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
-| every "block" in memory maps into a specific slot in the cache *(hashing)* | data blocks go anywhere → the next available spot | consists of M sets with N blocks in each set *(can go in either slot in set)*; |
-| pro: quick access to cache                                   | pro: fewer conflict misses                        | each maps into a specific set, similar to DM and the blocks within a set are used based on FA |
-| con: a lot of conflict misses                                | con: slower accesses                              |                                                              |
+|         | Direct Mapped                                                | Fully Associative                                 | N-way Set Associative                                        |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
+| add     | every memory address is associated with one possible "block" within the cache | data blocks go anywhere → the next available spot | consists of M sets with N blocks in each set *(can go in either slot in set)*; |
+| pros    | quick access to cache                                        | fewer conflict misses                             | each maps into a specific set, similar to DM and the blocks within a set are used based on FA |
+| cons    | a lot of conflict misses                                     | slower accesses                                   |                                                              |
+| replace | index completely specifies which position a block can go in  | block can be written into any position            | index specifies a set, block can occupy any position within set |
 
 ## Calculating Size
 
-2^XY^ means
+2^XY^ (2^34^ = 16 gibi)
 
-| X = 0     | ---          | IEC   | Y = 0     | 1       |
-| --------- | ------------ | ----- | --------- | ------- |
-| **X = 1** | kibi ~10^3^  | 2^10^ | **Y = 1** | **2**   |
-| **X = 2** | mebi ~10^6^  | 2^20^ | **Y = 2** | **4**   |
-| **X = 3** | gibi ~10^9^  | 2^30^ | **Y = 3** | **8**   |
-| **X = 4** | tebi ~10^12^ | 2^40^ | **Y = 4** | **16**  |
-| **X = 5** | pebi ~10^15^ | 2^50^ | **Y = 5** | **32**  |
-| **X = 6** | exbi ~10^18^ | 2^60^ | **Y = 6** | **64**  |
-| **X = 7** | zebi ~10^21^ | 2^70^ | **Y = 7** | **128** |
-| **X = 8** | yobi ~10^24^ | 2^80^ | **Y = 8** | **256** |
-|           |              |       | **Y = 9** | **512** |
+| Name | Abbr | IEC Factor |
+| ---- | ---- | ---------- |
+| kibi | Ki   | 2^10^      |
+| mebi | Mi   | 2^20^      |
+| gibi | Gi   | 2^30^      |
+| tebi | Ti   | 2^40^      |
+| pebi | Pi   | 2^50^      |
+| exbi | Ei   | 2^60^      |
+| zebi | Zi   | 2^70^      |
+| yobi | Yi   | 2^80^      |
 
 ## Cache Misses
+
+**cache hit:** block is valid and contains proper address, read desired word
+
+**cache miss:** nothing in cache in appropriate block, fetch from memory
+
+**cache miss, block replafement:** wrong data in appropriate block, discard it and fetch desired from memory
 
 | Compulsory                                          | Conflict                                                     | Capacity                                                     |
 | --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -60,19 +74,17 @@ increasing cache size by adding more blocks does not always increase hit rate
 |                                                     | running fully associative cache: <u>is not a miss</u> for that specific access | running fully associative cache: <u>is a miss</u> for that specific access |
 | reduce by having longer cache lines (bigger blocks) | increasing associativity or improving the replacement policy would remove the miss | remove this miss by increasing cache capacity                |
 
-*(checking whether it's a conflict or capacity cache miss: if hypothetically, you ran the ENTIRE string of memory accesses with a fully associative cache of the same size as your cache…)*
+*(Algorithm lec26-slide39: checking whether it's a conflict or capacity cache miss: if hypothetically, you ran the ENTIRE string of memory accesses with a fully associative cache of the same size as your cache…)*
 
 ## Other
 
-**Cache Blocking:** 
+**Temporal Locality:** if accessing <u>similar memory addresses over time</u>, for example going through an array multiple times
 
-**Temporal Locality:** if accessing similar memory addresses over time, for example going through an array multiple times
+**Spatial Locality:** if accessing <u>contiguously</u> in memory, instead of bringing in one byte, we can bring in a bunch together
 
-**Spatial Locality:** if accessing contiguously in memory, instead of bringing in one byte, we can bring in a bunch together
+**Replacement Policies:** <u>LRU</u> (Least Recently Used), <u>RR</u> (Random Replacement)
 
-**Replacement Policies:** LRU (Least Recently Used), RR (Random Replacement)
-
-**Cache Coherency:** Write-through (Instant Update), Write-back (mark block as dirty, update RAM when a cache block is kicked out)
+**Cache Coherency:** <u>Write-through</u> (instant update both cache and memory), <u>Write-back</u> (mark block as dirty, update RAM when a cache block is kicked out)
 
 ## Cache Example
 
@@ -236,13 +248,15 @@ Miss Rates:
 
 ## Average Memory Access Time (AMAT)
 
-**AMAT = Hit Time + Miss Rate * Miss Penalty**
+want to minimize **AMAT = Hit Time + Miss Rate * Miss Penalty**
 
-- **Hit time:** the time for the cache to verify our data exists in the cache
+- **Hit time:** the time for the cache to access memory (verify our data exists in the cache)
 - **Miss Penalty:** the time taken to get our data from memory (or the next level cache) when we miss
 - **Miss Rate:** the number of accesses that missed at that level / total number of accesses…
   1. Global: *to the cache system*
   2. Local: *to the cache level*
+- <u>Multi-level:</u> AMAT = L1 Hit Time + L1 Miss Rate * (L2 Hit Time + L2 Miss Rate * L2 Miss Rate)
+- <u>Paging Impact:</u> *take a look at hw!*
 
 <u>Improve AMAT:</u>
 

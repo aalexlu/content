@@ -6,9 +6,11 @@
 - if there are common patterns in language, they must be part of UG
 - if there are uncommon patterns, they must not be a part of UG
 
-**Variation:** languages differ in how much they vary from common UG patterns
+constraints are ranked: higher a constraint is ranked, the more important it is for that language
 
-**Markedness**
+**faithfulness constraints:** seek to preserve underlying structure
+
+**markedness constraints:** seek to avoid certain structures or patterns
 
 - common patterns are <u>unmarked</u>
 - uncommon patterns are <u>marked</u>

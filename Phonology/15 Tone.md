@@ -6,7 +6,7 @@
 
 pitch: phonetic manifestation of tone - purely physical
 
-Can be
+Can be:
 
 - **lexical:** part of a word's underlying form
 - **grammatical:** functioning like an affix
@@ -26,6 +26,8 @@ TBU: *in autosegmental phonology* any element on the segmental (melodic usually)
 
 - most often a syllabic nucleus
 
+**tone melody:** a sequence of tones which is mapped on a word
+
 ## Tone Stability
 
 tone stability: the deletion of a vowel does not result in the deletion of the tone *borne by* the vowel
@@ -37,7 +39,7 @@ well-formedness condition: all vowels must *bear* some tone, and all tones must 
 
 ## Tone Association
 
-tone melodies: left-to-right association and spreading
+tone melodies: L→R or R→L  association and spreading
 
 - if underlying tones < TBUs: last tone to get assigned will spread to all remaining TBUs
 - if underlying tones > TBUs: sometimes multiple tones link to same TBU

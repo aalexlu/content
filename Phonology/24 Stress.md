@@ -6,7 +6,12 @@
 
 **Metrical foot:** a constituent that groups together <u>syllables</u>
 
-- each metrical foot has one peak - **stress**
+- each metrical foot has one peak - **stressed syllable**
+
+**Stress:** has relative prosodic prominance
+
+- primary stress: syllable in a word with the greatest prosodic prominance *(')*
+- secondary stress: syllable with more prosodic prominance than other syllables, but not primary *(ˌ)*
 
 <u>Characteristics of stressed syllables</u>
 

@@ -1,3 +1,19 @@
+### Terms
+
+**harmony:** a long-distance phonological process involving assimilation
+
+**trigger:** any segment whose underlying representation contains the harmonizing feature; originating point of the harmonizing feature
+
+**target:** any segment to which the harmonizing feature spreads; *could* potentialy host the relevant feature
+
+**opaque (blocking) segment:** stops the spreading of the feature and thus stops the harmony process
+
+**transparent segment:** neither targets nor blockers of harmony
+
+**directionality:** depends on if the harmony process spreads L→R or R→L from the trigger
+
+**domain:** harmony process will apply from a trigger until it reaches a domain edge
+
 # Vowel Harmony
 
 the phenomenon whereby vowels in different syllables are required to agree with respect to one or more distinctive features
@@ -94,3 +110,10 @@ Examples
      - θɛ**θ**<u>ð</u>ɛɬ, nɑ**θ**<u>tθʼ</u>ɛt - *s → θ followed by /dð/ series*
      - e**ʃ**<u>dʒ</u>mi, ɬɛnɛ**ʃ**<u>tʃ</u>uːʃ - *s → ʃ followed by /dʒ/ series*
    - /θ/ assimilates in place to [s] or [ʃ] if followed by member of /dz/ or /dʒ/ series
+   - *generalization: coronal obstruents must agree in their secondary features*
+     - [+distributed] for the /dð/ series, [+strident] for the /dʒ/ series, [-anterior] for the /dz/ series
+
+
+
+
+
