@@ -66,7 +66,7 @@ main memory ↔ disks *(by the operating system (virtual memory) assisted by har
 
 **cache miss:** nothing in cache in appropriate block, fetch from memory
 
-**cache miss, block replafement:** wrong data in appropriate block, discard it and fetch desired from memory
+**cache miss, block replacement:** wrong data in appropriate block, discard it and fetch desired from memory
 
 | Compulsory                                          | Conflict                                                     | Capacity                                                     |
 | --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |

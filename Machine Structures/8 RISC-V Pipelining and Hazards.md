@@ -64,6 +64,7 @@ cycle time = 300 ns
     | or s0, t0, **t1**  |      | IF   | *    | *    | *    | ID   |
 
 - **with forwarding** still cannot resolve **lw** (done after WB)
+  
   - EX ⟶ EX :)
   - MEM ⟶ EX :(
     - need 1 stall *(see ex.2)*
@@ -99,7 +100,7 @@ cycle time = 300 ns
 | 1. addi t0, a0, -1 | IF   | ID   | EX   | MEM  | WB   |      |      |      |      |
 | 2. add s2, t0, a0  |      | IF   | *    | *    | *    | ID   | EX   | MEM  | WB   |
 
-*would affect three instructions with data hazards*
+*would affect **three** instructions with data hazards*
 
 <u>without forwarding with double pumping</u>
 

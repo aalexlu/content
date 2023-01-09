@@ -23,9 +23,9 @@ ex: 4 KiB pages and byte addresses
 
 - 4 KiB = 2^12^ B = 4096 B ⟶ **12 page offset bits**
 
-| Page Number | Page Offset                |
-| ----------- | -------------------------- |
-| which page  | which byte within the page |
+| Page Number (PPN / VPN) | Page Offset                |
+| ----------------------- | -------------------------- |
+| which page              | which byte within the page |
 
 Operation System is the translator between Virtual Memory and Physical Memory
 
@@ -73,7 +73,7 @@ Full Translation Process
 | 5. 0x20ff (Read)  | hit    |                                                              |
 | 6. 0x3415 (Write) | miss   | add to PTE, replace line 8, dirty                            |
 
-TLB
+TLB (8-entry fully associative)
 
 | VPN         | PPN         | Valid | Dirty | LRU 0 | LRU 1 | LRU 2 | LRU 3 | LRU 4 | LRU 5 | LRU 6 |
 | ----------- | ----------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -94,15 +94,20 @@ PTE
 | 0x23 (4) | 0x18 | 1     |
 | 0x34 (6) | 0x19 | 1     |
 
+New Process after?
+
+1. Update page table address register
+2. Clear TLB valid bits
+
 ## VM Examples (Guerilla)
 
 ### <u>6 Size Calculation Practice</u>
 
 4 GiB physical memory, 8 GiB virtual memory, 4 KiB page size
 
+- 4 KiB page size = 2^12^ ⟶ **12 bit offset**
 - physical mem: 4 GiB = 2^2^ * 2^30^ = 2^32^ ⟶ 32 bit PA ⟶ **20 bit PPN** 
 - virtual mem: 8 GiB = 2^33^ ⟶ 33 bit VA ⟶ **21 bit VPN** 
-- 4 KiB page size = 2^12^ ⟶ **12 bit offset**
 
 64 MiB of virtual memory, 24 bit physical address space, 128 virtual pages
 

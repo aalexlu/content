@@ -40,6 +40,8 @@ Examples:
 | Biased     | 128     | 0-127 = 127   | 01111111 | 10000000 | 01111110 | 01101110 | 10010000 |
 | Two's Comp | 127     | (-2)^7 = -128 | 00000000 | 00000001 | 11111111 | 11101111 | 00010001 |
 
+Normal bias for 2 bits: 2^n-1^ - 1 for N bits
+
 ## Two's Complement
 
 cannot overflow

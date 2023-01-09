@@ -6,7 +6,7 @@
 | :----------------------------------------------------------: |
 |                       C program: foo.c                       |
 | **Compiler** - compiles from C to assembly (can output pseudo) |
-|                   Assembly program: foo.a                    |
+|                   Assembly program: foo.s                    |
 | **Assembler** - replaces pseudo; labels replaced so offsets to absolute addresses; everything absolute |
 |                      Object Code: foo.o                      |
 | **Linker** ← lib.o - resolves / relocates absolute file addresses |
