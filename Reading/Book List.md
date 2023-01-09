@@ -12,6 +12,7 @@
 | Fun Home: A Family Tragicomic | Bechdel, Alison      | 12/18            | Unapologetic graphic memoir. Distinct imagery; at times uncomfortable, but a very raw read. |
 | The Great Gatsby              | Fitzgerald, F. Scott | 3/18             |                                                              |
 | The Scarlet Letter            | Hawthorne, Nathaniel | 2/18             | Verbose but eloquent. Pervasive symbolism.                   |
+| The Fifth Season              | Jemisin, N.K.        | 1/23             | Fantastic world building. Great twist.                   |
 
 ## Reading Now
 
