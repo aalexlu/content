@@ -1,7 +1,0 @@
-## KEY Points
-
----
-
-## Notes
-
----
