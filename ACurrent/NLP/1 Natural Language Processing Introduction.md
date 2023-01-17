@@ -121,3 +121,6 @@ Midterm
 **NLP Subfield survey** (instead of final)
 - 4 page survey for a specific NLP subfield of your choice synthesizing at least 25 papers
 - give newcomer to the field context
+
+3 late days
+cite ChatGPT or Copilot and be clear what code/text came from it
