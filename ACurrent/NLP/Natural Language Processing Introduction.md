@@ -40,4 +40,13 @@ Most difficult aspects to solve:
 processing as representation
 - NLP generally involves representing language for some end, whether dialogue, translation, speech recognition, or text analysis
 
+views on language models
 Information theoretic view
+- encode(X) -> decode(encode(X))
+- sent along communication channel
+Rational speech act view
+- Communication involves recursive reasoning: how can X choose words to maximize understanding Y?
+Pragmativ view
+- Meaning is co-constructed by the interlocutors and the context of the utterance
+Whorfian view:
+we
