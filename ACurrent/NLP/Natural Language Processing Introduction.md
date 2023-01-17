@@ -27,3 +27,17 @@ Conversational implicature ("The opera singer was amazing; she sang all of the n
 - describes the bare minimum; implies not that good
 - ChatGPT doesn't understand the conversational implicature
 Shared knowledge ("Warren ran for president")
+- depends on context such as when this was said
+Variation/Indexicality ("This homework is wicked hard")
+
+Most difficult aspects to solve:
+- Ambiguity ("One morning I shot an elephant in my pajamas")
+	- due to syntax
+	- "shot" could refer to gun, camera, basketball
+
+---
+
+processing as representation
+- NLP generally involves representing language for some end, whether dialogue, translation, speech recognition, or text analysis
+
+Info
