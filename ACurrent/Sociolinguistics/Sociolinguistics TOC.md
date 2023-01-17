@@ -1,1 +1,1 @@
-[[1 Sociolinguistics Introduction]]
+[[1 Introduction to Sociolinguistics]]

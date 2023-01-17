@@ -1,3 +1,5 @@
+David Bamman
+
 ### Core Ideas
 
 ---
