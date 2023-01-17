@@ -40,4 +40,4 @@ Most difficult aspects to solve:
 processing as representation
 - NLP generally involves representing language for some end, whether dialogue, translation, speech recognition, or text analysis
 
-Info
+Information theoretic view
