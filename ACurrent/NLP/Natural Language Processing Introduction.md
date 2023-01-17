@@ -46,7 +46,8 @@ Information theoretic view
 - sent along communication channel
 Rational speech act view
 - Communication involves recursive reasoning: how can X choose words to maximize understanding Y?
-Pragmativ view
+Pragmatic view
 - Meaning is co-constructed by the interlocutors and the context of the utterance
 Whorfian view:
-we
+- Weak relativism: structure of language influences thought.
+- 
