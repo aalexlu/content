@@ -72,8 +72,38 @@ syntactic structure useful for sentiment analysis
 
 ---
 
-## Computational Social Science
+## NLP + X
 
-- inferring ideal points of politicains based on voting behavior, speeches
+Computational Social Science
+- inferring ideal points of politicians based on voting behavior, speeches
 - detecting triggers of censorship in blogs/social media
 - inferring power differentials in language use
+Computational Journalism
+Computational Humanities
+
+---
+
+## Methods
+
+- finite state automata/transducers (tokenization, morphological analysis)
+- rule-based systems
+- probabilistic models
+- naive bayes, logistic regression, HMM, MEMM, CRF, language models
+- dynamic programming (combining solutions to subproblems)
+- dense representations for features/labels (inputs and outputs)
+- neural networks: multiple, highly parameterized layers of (usually non-linear) interactions mediating the input/output
+- latent variable models (specify probabilistic strcture between variables and inferring likely latent values)
+- pretrained models
+
+---
+
+## This class
+
+- about models and linguistic representation of text
+
+Homeworks
+**Annotation project**
+- course covers many of the met
+**Weekly quizzes**
+Midterm
+**NLP Subfield survey**
