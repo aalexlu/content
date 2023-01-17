@@ -13,6 +13,13 @@ Where we are now
 - Siri: lack of state information / persistence
 - ChatGPT
 
+Uses:
+- machine translation
+- question answering
+- information extraction
+- conversational agents
+- summarization
+
 ---
 
 ## What makes language hard?
@@ -50,4 +57,23 @@ Pragmatic view
 - Meaning is co-constructed by the interlocutors and the context of the utterance
 Whorfian view:
 - Weak relativism: structure of language influences thought.
-- 
+
+---
+
+## Decoding
+
+*One morning I shot an elephant in my pajamas*
+*I didn't shoot an elephant*
+
+Different representations
+- discourse, semantics, syntax, morphology, words
+- parts of speech, named entities, syntax
+syntactic structure useful for sentiment analysis
+
+---
+
+## Computational Social Science
+
+- inferring ideal points of politicains based on voting behavior, speeches
+- detecting triggers of censorship in blogs/social media
+- inferring power differentials in language use
