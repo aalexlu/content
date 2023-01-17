@@ -102,8 +102,22 @@ Computational Humanities
 - about models and linguistic representation of text
 
 Homeworks
-**Annotation project**
-- course covers many of the met
+**Annotation project (AP)**
+- course covers many of the methods / existing tasks in NLP
+- most exciting applications of NLP eyt to be invented
+- design a new NLP task and annotate data to support it
+- Examples
+	- Respect: predictive model mapping text to respect
+	- Time: how much literary time is passing in the text of a novel
+	- Dogmatism: how much in a reddit comment
+- Deliverables
+	- AP1: design a new task and gather data to support it
+	- AP2: annotate the data, creating labeled examples and guidelines
+	- AP3: different group will annotate your data using your guidelines
+	- AP4: build a classifier to automatically predict the labelsusing the data you've annotated
 **Weekly quizzes**
 Midterm
-**NLP Subfield survey**
+- max(Midterm 1, Midterm 2)
+**NLP Subfield survey** (instead of final)
+- 4 page survey for a specific NLP subfield of your choice synthesizing at least 25 papers
+- give newcomer to the field context
