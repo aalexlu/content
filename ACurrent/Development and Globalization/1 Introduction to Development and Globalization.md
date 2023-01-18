@@ -18,8 +18,8 @@ Development includes conversations of history and power
 Development not as purely economic
 - political and social
 - just as cultural and identity driven
-
-
+Globalization provides the context for development
+- we are talking about countries engaged with one another for the sake of development/progress/modernization
 
 ---
 
