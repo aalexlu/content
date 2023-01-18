@@ -10,7 +10,14 @@ Growth, Natural (plants, people), Trajectory (upwards), Inevitable
 - Escobar defines it as "the process of articulating knowledge and power through which particular concpets, theories, and practices for social change are created and reproduced"
 - egrarian -> industrial
 	- implies evolution or improvement rather than a neutral perspective
-- UNDP recruitment video: hierarchical
+- UNDP recruitment video
+
+Development includes conversations of history and power
+- remnants of post-WWII legacies
+- Soviet history in the context of the Ukraine War
+Development not as purely economic
+- political and social
+- just as cultural and identity driven
 
 
 
