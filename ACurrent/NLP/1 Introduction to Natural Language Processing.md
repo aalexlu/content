@@ -1,7 +1,5 @@
 David Bamman
 
-### Core Ideas
-
 ---
 
 ## NLP

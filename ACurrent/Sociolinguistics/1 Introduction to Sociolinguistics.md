@@ -1,7 +1,5 @@
 Isaac Bleaman
 
-### Core Ideas
-
 ---
 
 ## Canonical and Vernacular uses/functions of *like*
@@ -31,4 +29,10 @@ performance:
 
 ---
 
-## Formal linguistic vs Sociolingui
+## Formal linguistic vs Sociolinguistic perspective
+
+
+
+What is sociolinguistics?
+
+

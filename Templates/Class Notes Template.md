@@ -1,13 +1,13 @@
-### Core Ideas
+### Core Idea
 
 ---
 
-## Topic 1
+## Topic
 
 lorum ipsum
 
 ---
 
-## Topic 2
+## Topic
 
 lorem ipsum
