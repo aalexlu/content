@@ -29,10 +29,12 @@ performance:
 
 ---
 
-## Formal linguistic vs Sociolinguistic perspective
+## Sociolinguistics
 
+Formal linguistic vs Sociolinguistic perspective
 
 
 What is sociolinguistics?
 
 
+Broad questions
