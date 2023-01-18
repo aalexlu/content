@@ -2,9 +2,14 @@ Isaac Bleaman
 
 ---
 
-## Canonical and Vernacular uses/functions of *like*
-
+What would you use to describe somebody who says *like* a lot?
 - Ex. of Emilia Clarke
+	- vocal fry
+	- rising intonation – uptalk
+Uses/functions of *like*
+- similar to – comparison
+- be like (to say)
+- 
 - women use 'be like' in the quotative manner more often than men
 
 Social correlates of langauge variation *(um/uh)*
