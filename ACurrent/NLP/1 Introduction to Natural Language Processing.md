@@ -118,3 +118,8 @@ Midterm
 
 3 late days
 cite ChatGPT or Copilot and be clear what code/text came from it
+
+
+
+
+next: [[2 Words, Lexical Semantics, and Static Word Embeddings]]

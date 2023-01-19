@@ -1,3 +1,4 @@
+*January 17, 2023*
 Edwin Lin
 
 ---
@@ -21,3 +22,30 @@ Globalization provides the context for development
 - we are talking about countries engaged with one another for the sake of development/progress/modernization
 
 ---
+
+# 2 What is Development?
+
+*January 19, 2023*
+
+---
+
+## What is development?
+Amartya Sen, nobel prize winning economist
+- "A process of expanding the real freedoms that people enjoy"
+	- We don't just expand for progress sake
+- What is the point of $
+	- Expand your freedoms
+	- About capabilities
+
+## Development as freedoms
+1. Political freedoms  
+2. Economic facilities  
+3. Social opportunities  
+4. Transparency guarantees  
+5. Protective security
+- Increasing freedoms -> large capability sets
+- Goal of development: increase all capabilities
+- Freedom as both ends AND means
+- 2 roles: evaluation and effectiveness
+
+

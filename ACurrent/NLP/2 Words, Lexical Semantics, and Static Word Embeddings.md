@@ -1,4 +1,5 @@
 *January 19, 2023*
+previous: [[1 Introduction to Natural Language Processing]]
 
 ---
 
@@ -144,3 +145,8 @@ node2vec
 
 ## Word Embeddings
 bit.ly/3wfq5AK
+
+
+
+
+next: 
