@@ -30,12 +30,23 @@ All linguists agree on the following:
 
 ---
 
-## All Spoken languages change
-  
+## All spoken languages change
+
 Change affects all levels of the linguistic system:
 - Sounds (phonetics, phonology), the structure of words (morphology, lexicon), the way sentences are put together (syntax), and meaning (semantics)
 - The only languages that don’t change are moribund/dead languages
 - Corollary: language change cannot be stopped unless the language dies/is killed off
 - Standardization tries to curb language change, and succeeds to some degree
 
---
+Old English -> Middle English -> Shakespeare
+
+## All spoken languages are equal for expression
+- All languages are capable of being used for similar expressive purposes
+- Vocabulary size ≠ expressive capacity
+- Morphological richness ≠ communicative efficiency
+- Speakers will compensate for “gaps” in certain areas using other strategies
+
+## Standard language
+- Standard Language Ideology (SLI) sometimes imposes restrictions that are unnatural and require careful maneuvering
+- Singular *they*: stands in for a person whose gender is not known or not important often w/ indefinite or quantifier antecedents
+	- "Anyone who cares about their ch"
