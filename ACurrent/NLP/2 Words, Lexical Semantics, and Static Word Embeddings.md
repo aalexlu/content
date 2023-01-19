@@ -121,4 +121,5 @@ Word embeddings
 - can you predict the output word from a vector representation of the input word
 
 Anological Inference
-- vector representations have some potential for analogical reasoning through vec
+- vector representations have some potential for analogical reasoning through vector arithmetic.
+- 
