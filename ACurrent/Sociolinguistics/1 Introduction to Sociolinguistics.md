@@ -40,7 +40,7 @@ Formal linguistic vs Sociolinguistic perspective
 	- perform elicitations – translation exercises and proposing minimal pairs
 - Sociolinguistic competence: allows us to use language appropriately depending on the context of the interaction
 
-What is sociolinguistics?
+**What is sociolinguistics?**
 - The study of language in society; how it reflects social patterns, how it contributes to them
 - 
 

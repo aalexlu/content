@@ -12,7 +12,7 @@
 - Accent: Phonological component of a dialect (how people sound, without respect to grammatical differences)
 - Variety: A neutral term to refer to languages and dialects; avoids the terminological controversy of 'language' vs. 'dialect' and the associations associated with them(~"lect")
 	- not the same as *variation, variable, variant*
-	- Variable: /t/-deletion -> [t], ø (West side, East end)
+	- Variable: /t/-deletion -> [t], ø (Wes side, East end)
 - Jargon
 - Sociolect, ethnolect
 
@@ -50,6 +50,8 @@ Old English -> Middle English -> Shakespeare
 	- "…tell a woman what they can or can't do with their own bodies."
 - Singular *they* with known referents (e.g., gender non-binary) is a newer development; met with a ton of resistance from, among others, purists who care about “grammar”
 	- "John and Sue went out for pasta. John loved his spaghetti, but Sue hated their fettucini."
+## Why does SLI persist?
+- "circle of intimidation"
 
 ## "Grammar"
 Linguists: The rules that govern language structures (syntax and beyond), which children acquire in their early years  
@@ -61,3 +63,16 @@ Non-linguists: The prescriptive norms that govern sentence structure but also st
 	- Can be violated and often is (e.g., preposition stranding in English)  
 
 **When we are evaluating/judging a speaker’s language, often we are actually evaluating the speaker.**
+
+## Spoken language ≠ written language  
+- Widespread literacy and the advent of cheap printing necessitated written standards
+- Most salient difference between spoken language and written norms is conformity, or the suppression of variation
+- Linguists are generally more interested in speech than in writing, but this interest is not matched by lay people
+- “Punctuation is irrelevant to the kind of work sociolinguists do, and has nothing to do with grammaticality” (Lippi-Green 2012)
+	- Really?
+	- Twitter studies: word-lengthening (wordddd) and ;) vs ;-)
+
+## Variation is intrinsic to all spoken language
+- Variation occurs naturally from utterance to utterance; usually isn't random
+- Three main sources:
+- Language-internal pressures, e.g., due to production or perce

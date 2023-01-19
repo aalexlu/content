@@ -3,7 +3,6 @@ David Bamman
 ---
 
 ## NLP
-
 Interdisciplinary
 - AI, ML, Linguistics (rep of language), Social sciences
 Processing language with computers
@@ -23,7 +22,6 @@ Uses:
 ---
 
 ## What makes language hard?
-
 - language is a complex social process
 - tremendous ambiguity at every level of representation
 - modeling it is AI-complete (requires first solving AI)
@@ -61,7 +59,6 @@ Whorfian view:
 ---
 
 ## Decoding
-
 *One morning I shot an elephant in my pajamas*
 *I didn't shoot an elephant*
 
@@ -73,7 +70,6 @@ syntactic structure useful for sentiment analysis
 ---
 
 ## NLP + X
-
 Computational Social Science
 - inferring ideal points of politicians based on voting behavior, speeches
 - detecting triggers of censorship in blogs/social media
@@ -84,7 +80,6 @@ Computational Humanities
 ---
 
 ## Methods
-
 - finite state automata/transducers (tokenization, morphological analysis)
 - rule-based systems
 - probabilistic models
@@ -98,7 +93,6 @@ Computational Humanities
 ---
 
 ## This class
-
 - about models and linguistic representation of text
 
 Homeworks

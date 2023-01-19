@@ -3,7 +3,6 @@ Edwin Lin
 ---
 
 ## Development
-
 Growth, Natural (plants, people), Trajectory (upwards), Inevitable
 **"development discourse"**
 - discourse: ways of constituting knowledge and talking about them–usually involving power dynamics
@@ -22,7 +21,3 @@ Globalization provides the context for development
 - we are talking about countries engaged with one another for the sake of development/progress/modernization
 
 ---
-
-## Topic 2
-
-lorem ipsum
