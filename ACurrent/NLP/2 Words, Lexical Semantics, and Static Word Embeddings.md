@@ -77,12 +77,27 @@ lemmas=[token.lemma_ for token in nlp(text)]
 - Words that appear in similar contexts have similar representations (and similar meanings, by the distributional hypothesis)
 - We have several different ways we can encode the notion of **"context"**
 	- Term-document matrix: content = appearing in the same document
-	- Vectors: Vector representation of the term; vector size = number of documents
-		- Cosine Similarity
-			- calculate the cosine similarity of two vectors to judge the degree of their similarity
-			- Euclidean distance measures the magnitude of distance between two points
-			- Cosine similarity measures their orientation
+		- Vectors: Vector representation of the term; vector size = number of documents
+			- Cosine Similarity
+				- calculate the cosine similarity of two vectors to judge the degree of their similarity
+				- Euclidean distance measures the magnitude of distance between two points
+				- Cosine similarity measures their orientation
 	- Term-context matrix
 		- Rows and columns are both words
 		- cell counts = the number of times word wi and wj show up in the same context (e.g., a window of 2 tokens).
+	- Directional ngrams
+		- a defined order occurring to the left or right of the term
+	- Syntactic context
 
+
+Weighting dimentions
+- not all dimensions are equally informative
+## TF-IDF (Term frequency-inverse document frequency)
+- A scaling to represent a feature as function of how frequently it appears in a data point but accounting for its frequency in the overall collection
+- IDF for a given term = the number of documents in collection / number of documents that contain term
+- Term frequency (tft,d) = the number of times term t occurs in document d; several variants (e.g., passing through log function)
+- Inverse document frequency = inverse fraction of number of documents containing (Dt) among total number of documents N
+	- IDF for words that appear in every document => 0
+## PMI
+- Mutual information provides a measure of how independent two variables (X and Y) are
+- Pointwise mutual information measures the independence of two outcomes (x and y)
