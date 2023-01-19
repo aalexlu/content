@@ -110,3 +110,15 @@ Weighting dimensions
 
 Intrinsic Evaluation
 - Relatedness: correlation between vector similarity of pair of words and human judgements
+
+Sparse Vectors vs Dense Vectors
+
+Dense vectors from prediction
+- how do we predict the target word using the context words in the window around it 
+- given a single word in a sentence, predict the words in a context window around it
+
+Word embeddings
+- can you predict the output word from a vector representation of the input word
+
+Anological Inference
+- vector representations have some potential for analogical reasoning through vec
