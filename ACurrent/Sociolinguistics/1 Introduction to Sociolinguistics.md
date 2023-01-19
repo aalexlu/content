@@ -27,12 +27,12 @@ Language shift and maintenance, impact of standardization on language variation 
 
 ---
 
+## What is Sociolinguistics?
+
 ## Chomsky
 competence: somebody who has learned the grammar and can form sentences and judge grammaticality
 vs
 performance: what people actually do / say
-
----
 
 ## Sociolinguistics
 Formal linguistic vs Sociolinguistic perspective
@@ -42,6 +42,10 @@ Formal linguistic vs Sociolinguistic perspective
 
 **What is sociolinguistics?**
 - The study of language in society; how it reflects social patterns, how it contributes to them
-- 
+	- Traditionally, interest in the “grammar” of the speech community as a whole (which is inherently variable)  
+○ Traditionally, interest in the vernacular, which is where genuine language patterns are to  
+be found  
+● How people use language to build relationships, to construct or perform  
+their identity (gender, ethnicity, group membership, individual style, etc.)
 
 Broad questions

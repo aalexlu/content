@@ -43,6 +43,23 @@ Old English -> Middle English -> Shakespeare
 - Morphological richness ≠ communicative efficiency
 - Speakers will compensate for “gaps” in certain areas using other strategies
 
+## Spoken language ≠ written language  
+- Widespread literacy and the advent of cheap printing necessitated written standards
+- Most salient difference between spoken language and written norms is conformity, or the suppression of variation
+- Linguists are generally more interested in speech than in writing, but this interest is not matched by lay people
+- “Punctuation is irrelevant to the kind of work sociolinguists do, and has nothing to do with grammaticality” (Lippi-Green 2012)
+	- Really?
+	- Twitter studies: word-lengthening (wordddd) and ;) vs ;-)
+
+## Variation is intrinsic to all spoken language
+- Variation occurs naturally from utterance to utterance; usually isn't random
+- Three main sources:
+	- Language-internal pressures, e.g., due to production or perception phenomena (dive -> dove or dived)
+	- Language-external pressures: e.g., social pressures to speak a certain way when pursuing higher education or moving to a new area
+	- Variation due to language being a creative vehicle of expression
+
+---
+
 ## Standard language
 - Standard Language Ideology (SLI) sometimes imposes restrictions that are unnatural and require careful maneuvering
 - Singular *they*: stands in for a person whose gender is not known or not important often w/ indefinite or quantifier antecedents
@@ -64,16 +81,13 @@ Non-linguists: The prescriptive norms that govern sentence structure but also st
 
 **When we are evaluating/judging a speaker’s language, often we are actually evaluating the speaker.**
 
-## Spoken language ≠ written language  
-- Widespread literacy and the advent of cheap printing necessitated written standards
-- Most salient difference between spoken language and written norms is conformity, or the suppression of variation
-- Linguists are generally more interested in speech than in writing, but this interest is not matched by lay people
-- “Punctuation is irrelevant to the kind of work sociolinguists do, and has nothing to do with grammaticality” (Lippi-Green 2012)
-	- Really?
-	- Twitter studies: word-lengthening (wordddd) and ;) vs ;-)
-
-## Variation is intrinsic to all spoken language
-- Variation occurs naturally from utterance to utterance; usually isn't random
-- Three main sources:
-- Language-internal pressures, e.g., due to production or perception phenomena
-- L
+## Standard language myths – Pinker
+- on the American Heritage Dictionary usage panel
+The standard language myth holds that…
+- There is a correct English (or X-ish) that speakers are constantly subverting
+	- Speakers who just happen to hold less power... (often stigmatized groups)
+- The language needs to be protected from its speakers
+	- Without any standard, chaos ensues
+- **Non**standard language = **sub**standard language
+	- Well, if it weren’t substandard, why would we bother to correct it?
+	- Well, if it’s the language of the under-educated, why wouldn’t it be substandard?
