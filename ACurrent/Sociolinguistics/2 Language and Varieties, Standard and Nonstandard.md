@@ -75,4 +75,5 @@ Non-linguists: The prescriptive norms that govern sentence structure but also st
 ## Variation is intrinsic to all spoken language
 - Variation occurs naturally from utterance to utterance; usually isn't random
 - Three main sources:
-- Language-internal pressures, e.g., due to production or perce
+- Language-internal pressures, e.g., due to production or perception phenomena
+- L
