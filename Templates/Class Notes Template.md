@@ -4,10 +4,7 @@
 
 ## Topic
 
-lorum ipsum
 
 ---
 
 ## Topic
-
-lorem ipsum
