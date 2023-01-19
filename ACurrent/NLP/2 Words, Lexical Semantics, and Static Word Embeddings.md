@@ -89,8 +89,9 @@ lemmas=[token.lemma_ for token in nlp(text)]
 		- a defined order occurring to the left or right of the term
 	- Syntactic context
 
+---
 
-Weighting dimentions
+Weighting dimensions
 - not all dimensions are equally informative
 ## TF-IDF (Term frequency-inverse document frequency)
 - A scaling to represent a feature as function of how frequently it appears in a data point but accounting for its frequency in the overall collection
@@ -101,3 +102,11 @@ Weighting dimentions
 ## PMI (Pointwise mutual information)
 - Mutual information provides a measure of how independent two variables (X and Y) are
 - Measures the independence of two outcomes (x and y)
+- ex: PMI(w = sword, c = stab)
+
+---
+
+## Evaluation
+
+Intrinsic Evaluation
+- Relatedness: correlation between vector similarity of pair of words and human judgements
