@@ -26,6 +26,7 @@ Whitespace – `text.split("")`
 	- emoticons are strong signals (e.g. sentiment)
 Regular Expressions
 - Most tokenization algorithms (for languages delimited by whitespace) use regex to segment a string into discrete tokens.
+## Tokenization
 https://bit.ly/3XCiOGQ
 
 ## Sentence Segmentation (Syntax)
@@ -121,5 +122,25 @@ Word embeddings
 - can you predict the output word from a vector representation of the input word
 
 Anological Inference
-- vector representations have some potential for analogical reasoning through vector arithmetic.
-- 
+- vector representations have some potential for analogical reasoning through vector arithmetic
+	- apple - apples ≈ car - cars
+	- king - man + woman ≈ queen
+
+
+## Bias
+- Allocational harms: automated systems allocate resources unfairly to different groups (access to housing, credit, parole)
+- Representational harms: automated systems represent one group less favorably than another (including demeaning them or erasing their existence).
+
+Low-dimensional distributed representations
+- powerful and responsible for much of gains that NNM have in NLP
+
+
+Two kinds of "training" data
+- the labeled data for a specific task (labeled sentiment for movie reviews) -> use to train a supervised model
+- general text -> used to train word distributed representations
+
+emoji2vec
+node2vec
+
+## Word Embeddings
+bit.ly/3wfq5AK
