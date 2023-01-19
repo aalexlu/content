@@ -42,10 +42,12 @@ Formal linguistic vs Sociolinguistic perspective
 
 **What is sociolinguistics?**
 - The study of language in society; how it reflects social patterns, how it contributes to them
-	- Traditionally, interest in the “grammar” of the speech community as a whole (which is inherently variable)  
-○ Traditionally, interest in the vernacular, which is where genuine language patterns are to  
-be found  
-● How people use language to build relationships, to construct or perform  
-their identity (gender, ethnicity, group membership, individual style, etc.)
+	- Traditionally, interest in the “grammar” of the speech community as a whole (which is inherently variable)
+	- Traditionally, interest in the vernacular, which is where genuine language patterns are to be found
+- How people use language to build relationships, to construct or perform their identity (gender, ethnicity, group membership, individual style, etc.)
 
-Broad questions
+## Broad questions
+- Who uses different forms or language varieties? Who do they use them  with? Are they aware of their choice?
+- Why do some forms or languages ‘win out’ over others? (And is it always the same ones?)
+- What kind of social information do we ascribe to different forms in a language or different language varieties?
+- How much can we change or control the language we use?

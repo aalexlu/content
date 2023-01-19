@@ -91,3 +91,14 @@ The standard language myth holds that…
 - **Non**standard language = **sub**standard language
 	- Well, if it weren’t substandard, why would we bother to correct it?
 	- Well, if it’s the language of the under-educated, why wouldn’t it be substandard?
+
+## The “logic” of Standard English  
+- Double negatives make a positive
+	- “I can’t get no satisfaction” vs. “I can’t get any satisfaction.”  
+- Singular antecedents (like everyone) cannot be used with plural pronouns (like their)
+- Number agreement
+- There’s a cat under the table.
+	- ( * ) There’s a cat and a dog under the table.
+- There are many ways to solve the problem.
+	- (✓) There are one way of solving the problem that is very difficult and another way of solving the problem that is very hard.
+		- the length of the phrases make it unnatural to use "are"
