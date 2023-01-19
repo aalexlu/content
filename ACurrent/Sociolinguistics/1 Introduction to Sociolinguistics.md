@@ -22,14 +22,12 @@ Social correlates of langauge variation *(um/uh)*
 ---
 
 ## Bleaman Research
-
 Language shift and maintenance, impact of standardization on language variation across individuals and communities (in immigrant context)
 - difference in how Yiddish is spoken and written today, based on their community affiliations: either Hasidic Jews or Yiddishists
 
 ---
 
 ## Chomsky
-
 competence: somebody who has learned the grammar and can form sentences and judge grammaticality
 vs
 performance: what people actually do / say
@@ -37,7 +35,6 @@ performance: what people actually do / say
 ---
 
 ## Sociolinguistics
-
 Formal linguistic vs Sociolinguistic perspective
 - Formal linguistics interested in general linguistic competence
 	- perform elicitations – translation exercises and proposing minimal pairs
