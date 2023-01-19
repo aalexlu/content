@@ -67,4 +67,22 @@ lemmas=[token.lemma_ for token in nlp(text)]
 ## Lexical Semantics
 
 "You shall know a word by the company it keeps"
-- 
+- everyone likes __ (noun)
+- a bottle of __ is on the table (liquid)
+- __ makes you drunk (can be metaphorical)
+
+## Distributed representation
+- Vector representation that encodes information about the distribution of contexts a word appears in
+	- distribution of words around the word we're looking at
+- Words that appear in similar contexts have similar representations (and similar meanings, by the distributional hypothesis)
+- We have several different ways we can encode the notion of **"context"**
+	- Term-document matrix: content = appearing in the same document
+	- Vectors: Vector representation of the term; vector size = number of documents
+		- Cosine Similarity
+			- calculate the cosine similarity of two vectors to judge the degree of their similarity
+			- Euclidean distance measures the magnitude of distance between two points
+			- Cosine similarity measures their orientation
+	- Term-context matrix
+		- Rows and columns are both words
+		- cell counts = the number of times word wi and wj show up in the same context (e.g., a window of 2 tokens).
+
