@@ -98,6 +98,6 @@ Weighting dimentions
 - Term frequency (tft,d) = the number of times term t occurs in document d; several variants (e.g., passing through log function)
 - Inverse document frequency = inverse fraction of number of documents containing (Dt) among total number of documents N
 	- IDF for words that appear in every document => 0
-## PMI
+## PMI (Pointwise mutual information)
 - Mutual information provides a measure of how independent two variables (X and Y) are
-- Pointwise mutual information measures the independence of two outcomes (x and y)
+- Measures the independence of two outcomes (x and y)
