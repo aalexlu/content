@@ -66,7 +66,7 @@ Amartya Sen, nobel prize winning economist
 - The framework’s unit of analysis is the individual (or maybe household)
 	- Might be comfortable for economic theorist
 	- But how does this work for a political scientist? Political economist? Sociologist? 
-- What if freedoms conflict?? Between households? Ethnic groups?
+- The problem of conficting freedoms
 	- Example: US COVID, mask wearing/vaccines
 	1. Often times, short term vs. long term
 	2. Different groups of people (who benefits)
@@ -76,16 +76,33 @@ Amartya Sen, nobel prize winning economist
 	3. Differences in values
 		- Valuing some freedom over others
 		- Tradition vs. modernization
-Sen's solution
-- 
-- 
+## Sen's solution
+- democracy and self-determination (aka social choice)
+- Ideally, democracy allows deliberation and debate -> society chooses for itself
+- Ultimately, individual capabilities depend on collective capabilities!
+	- What you want to value has to be also valued from the collective
+	- This means CULTURE/RACE matters too!
+		- Economists don’t like to think about how people develop their preferences E.g. utility maximization, but how much utility is gained from something?
+		- On individual level, this isn’t a problem (you just choose what you want), but on collective level this IS a problem!
+		- The result: your capability set may depend on what everyone else wants
 
 
+## Summary of different dimensions/aspects of development
+1.   As progress (stages with tangible results)  
+2. As discourse (power and underlying values)  
+3. As freedom (capabilities of individuals/collective)
 
-
-- 
-- 
-
+## Why develop?
+- Why do most countries choose the traditional route of development?
+	- Industrialization and capitalism
+	- Big economies, connected to the world (requiring a military and foreign relations)
+	- Democratic government
+- If you can be the happiest country without all these things, why such convergence?
+- Remember, development is a discourse, which means it has a power dynamic
+- Globalization of culture spreads in a top-down way
+	- Ex: McDonalds, Hollywood, West becomes standards of development
+- Comparison breeds jealousy which breeds dissatisfaction
+	- Evans suggests this (comparison/culture)
 
 
 
