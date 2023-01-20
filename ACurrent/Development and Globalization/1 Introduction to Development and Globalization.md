@@ -37,17 +37,54 @@ Amartya Sen, nobel prize winning economist
 	- Expand your freedoms
 	- About capabilities
 
-## Development as freedoms
+## Development as Freedom
 1. Political freedoms  
 2. Economic facilities  
 3. Social opportunities (land rights)
 4. Transparency guarantees (ethics)
 5. Protective security (retirement fund, employment fund)
+
 - Increasing freedoms -> large capability sets
 - Goal of development: increase all capabilities
 	- what is development? how should we get there?
-- Freedom as both ends AND means
+- Freedom as both ends (the goal) AND means
 - 2 roles: evaluation and effectiveness
+- Ex: free markets
+- Opposes slavery or government control
+	- allows for high degree of freedom
+	- got there through unfreedoms
+- Markets provide immediate increase in economic freedom (freedom as an end)
+	- evaluative role of freedom
+- but does it also serve as a means to increasing freedom (freedom as a means)
+	- effectiveness role of freedom
+- Development involves increasing freedoms both as means and ends
+	- Evaluating development in terms of how many freedoms one has
+	- Also evaluating in terms of whether the means of development promotes freedom
+- Also involves eliminating sources of unfreedom (e.g. poverty)
+
+## Problems with trying to define development this way
+- The framework’s unit of analysis is the individual (or maybe household)
+	- Might be comfortable for economic theorist
+	- But how does this work for a political scientist? Political economist? Sociologist? 
+- What if freedoms conflict?? Between households? Ethnic groups?
+	- Example: US COVID, mask wearing/vaccines
+	1. Often times, short term vs. long term
+	2. Different groups of people (who benefits)
+		- Ethnic or racial divides
+		- Inequality and poverty (social class)
+		- Global implications (e.g. environmental concerns)
+	3. Differences in values
+		- Valuing some freedom over others
+		- Tradition vs. modernization
+Sen's solution
+- 
+- 
+
+
+
+
+- 
+- 
 
 
 
