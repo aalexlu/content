@@ -86,6 +86,7 @@ Amartya Sen, nobel prize winning economist
 		- On individual level, this isn’t a problem (you just choose what you want), but on collective level this IS a problem!
 		- The result: your capability set may depend on what everyone else wants
 
+---
 
 ## Summary of different dimensions/aspects of development
 1.   As progress (stages with tangible results)  
