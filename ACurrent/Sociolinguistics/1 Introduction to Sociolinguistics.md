@@ -1,3 +1,4 @@
+*January 17, 2023*
 Isaac Bleaman
 
 ---
@@ -51,3 +52,8 @@ Formal linguistic vs Sociolinguistic perspective
 - Why do some forms or languages ‘win out’ over others? (And is it always the same ones?)
 - What kind of social information do we ascribe to different forms in a language or different language varieties?
 - How much can we change or control the language we use?
+
+
+
+
+next: [[2 Language and Varieties, Standard and Nonstandard]]

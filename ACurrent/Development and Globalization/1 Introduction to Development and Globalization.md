@@ -40,12 +40,17 @@ Amartya Sen, nobel prize winning economist
 ## Development as freedoms
 1. Political freedoms  
 2. Economic facilities  
-3. Social opportunities  
-4. Transparency guarantees  
-5. Protective security
+3. Social opportunities (land rights)
+4. Transparency guarantees (ethics)
+5. Protective security (retirement fund, employment fund)
 - Increasing freedoms -> large capability sets
 - Goal of development: increase all capabilities
+	- what is development? how should we get there?
 - Freedom as both ends AND means
 - 2 roles: evaluation and effectiveness
 
+
+
+
+next:
 
