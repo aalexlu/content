@@ -67,7 +67,7 @@ Amartya Sen, nobel prize winning economist
 	- Might be comfortable for economic theorist
 	- But how does this work for a political scientist? Political economist? Sociologist? 
 - The problem of conficting freedoms
-	- Example: US COVID, mask wearing/vaccines
+	- Example: US COVID, mask wearing/vaccines, child labor
 	1. Often times, short term vs. long term
 	2. Different groups of people (who benefits)
 		- Ethnic or racial divides
