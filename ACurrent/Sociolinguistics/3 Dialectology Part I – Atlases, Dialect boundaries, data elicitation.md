@@ -41,5 +41,13 @@ Dialectology: dialect geogrophy
 - *Linguistic* not just phonological or phonetic
 	- accent but also broader
 
-Dialectoloigy across domains
-- soda . pop / coke 
+Dialectology across domains
+- soda / pop / coke / other
+- NEW Haven / new HAVEN (native) / interchangeable / other (phonological bc of stress)
+- all same / marry = mary ≠ merry / all different
+
+Methodology
+- NORMs (Chambers & Trudgill 1998)
+	- Ideal subjects for dialectology
+	- **N**onmobile, **O**lder, **R**ural, **M**ale
+- 
