@@ -49,5 +49,11 @@ Dialectology across domains
 Methodology
 - NORMs (Chambers & Trudgill 1998)
 	- Ideal subjects for dialectology
-	- **N**onmobile, **O**lder, **R**ural, **M**ale
+	- **N**onmobile, **O**lder, **R**ural, **M**ale (less likely to be contaminated, not affected by 'innovations', women leaders of language change)
+- 
+*Deutscher Sprachatlas*
+- postal questionnaires – Wenker's technique to collect data
+- What are some of the problems?
+	- response bias – who responds
+	- bias toward standard
 - 
