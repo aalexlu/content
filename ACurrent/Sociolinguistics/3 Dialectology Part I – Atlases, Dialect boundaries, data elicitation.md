@@ -35,7 +35,6 @@ Important to establish standards because
 ---
 
 ## Core Concepts in Dialectology
-
 Dialectology: dialect geogrophy
 - the study of region patterning of linguistic variation
 - *Linguistic* not just phonological or phonetic
@@ -50,10 +49,24 @@ Methodology
 - NORMs (Chambers & Trudgill 1998)
 	- Ideal subjects for dialectology
 	- **N**onmobile, **O**lder, **R**ural, **M**ale (less likely to be contaminated, not affected by 'innovations', women leaders of language change)
-- 
+
+---
+
+## Dialectological Research
 *Deutscher Sprachatlas*
 - postal questionnaires – Wenker's technique to collect data
 - What are some of the problems?
 	- response bias – who responds
 	- bias toward standard
-- 
+Why dialectological research?
+- language change
+- why there are boundaries
+- breakdown in communication -> historical value (migration of populations, settlement patterns)
+
+## US Dialect Atlases
+- Linguistic Atlas of the United States and Canada (LAUSC)
+	- 
+- Dictionary of American Regional English (DARE)
+	- 80 fieldworkers (grad students); 2,777 people in 1,002 communities
+	- primarily lexical data
+- The Atlas of North American English (ANAE)
