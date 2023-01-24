@@ -3,6 +3,18 @@ previous: [[2 Language and Varieties, Standard and Nonstandard]]
 
 ---
 
+## Core Ideas / Roadmap
+Methods in dialectology: *traditional* and *computational*  
+- Core concepts in dialectology
+- Dialect atlases: motivation & data collection methods
+- Mapping dialects & types of dialect boundaries
+- Dialectology in the 21st century
+- Perceptual dialectology  
+Objective: to understand how dialectology is used to identify the factors that influence language change (esp. regional, but also ethnic)
+- Dialectology as a precursor to contemporary sociolinguistic analysis (“urban dialectology”)
+
+---
+
 Attendance: I can tell if somebody is from California just from speaking with them.
 Phonological: CVS - California Vowel Shift
 Lexical: Like, hella
@@ -18,8 +30,16 @@ Where do people speak correct English? perception of Southern Indiana undergrads
 - largest stdev in New York
 Important to establish standards because
 - disseminating information 
-- 
+- prevent miscommunications 
 
 ---
 
-## Topic
+## Core Concepts in Dialectology
+
+Dialectology: dialect geogrophy
+- the study of region patterning of linguistic variation
+- *Linguistic* not just phonological or phonetic
+	- accent but also broader
+
+Dialectoloigy across domains
+- soda . pop / coke 
