@@ -63,10 +63,17 @@ Why dialectological research?
 - why there are boundaries
 - breakdown in communication -> historical value (migration of populations, settlement patterns)
 
-## US Dialect Atlases
+## Major US Dialect Atlases
 - Linguistic Atlas of the United States and Canada (LAUSC)
-	- 
 - Dictionary of American Regional English (DARE)
 	- 80 fieldworkers (grad students); 2,777 people in 1,002 communities
 	- primarily lexical data
 - The Atlas of North American English (ANAE)
+	-  most influential in sociolinguistics
+	- focus on phonological change and vowel chain shifts
+
+Elicitation of regional forms
+- Weather: When it’s raining very heavily, you say, “It’s raining ________.”
+- Money: If you buy something for much less than it usually costs, you say, “At ten dollars it was a what!”
+- The past tense of *creep*; get them to
+- 
