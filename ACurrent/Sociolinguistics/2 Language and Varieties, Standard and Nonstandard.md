@@ -103,3 +103,8 @@ The standard language myth holds that…
 - There are many ways to solve the problem.
 	- (✓) There are one way of solving the problem that is very difficult and another way of solving the problem that is very hard.
 		- the length of the phrases make it unnatural to use "are"
+
+
+
+
+next: [[3 Dialectology Part I – Atlases, Dialect boundaries, data elicitation]]

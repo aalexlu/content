@@ -73,7 +73,13 @@ Why dialectological research?
 	- focus on phonological change and vowel chain shifts
 
 Elicitation of regional forms
+- prompt them to say a word without influencing them by saying it yourself
+	- play recordings for people and ask them to categorize
 - Weather: When it’s raining very heavily, you say, “It’s raining ________.”
 - Money: If you buy something for much less than it usually costs, you say, “At ten dollars it was a what!”
-- The past tense of *creep*; get them to
-- 
+- The past tense of *creep*
+
+
+
+
+next: [[4 Dialectology]]
