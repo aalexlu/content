@@ -18,7 +18,7 @@ Objective: to understand how dialectology is used to identify the factors that i
 Attendance: I can tell if somebody is from California just from speaking with them.
 Phonological: CVS - California Vowel Shift
 Lexical: Like, hella
-Shiboleth: distinguishes someone
+Shibboleth: distinguishes someone
 
 ## From Thursday:  [[2 Language and Varieties, Standard and Nonstandard]]
 William Labov on where standard English comes from
@@ -43,7 +43,7 @@ Dialectology: dialect geogrophy
 Dialectology across domains
 - soda / pop / coke / other
 - NEW Haven / new HAVEN (native) / interchangeable / other (phonological bc of stress)
-- all same / marry = mary ≠ merry / all different
+- all same (merger: phonemes have merged) / marry = mary ≠ merry / all different
 
 Methodology
 - NORMs (Chambers & Trudgill 1998)
@@ -83,3 +83,6 @@ Elicitation of regional forms
 
 
 next: [[4 Dialectology]]
+
+
+
