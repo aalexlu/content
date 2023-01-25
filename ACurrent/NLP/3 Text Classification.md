@@ -50,6 +50,8 @@ Representation for SA
 - conjunctions of words (sequential, skip ngrams, other non-linear combinations)
 - higher-order linguistic structure (e.g., syntax)
 
+--- 
+
 Math Stuff
 - exp(x) = e^x  = 2.7^x
 - log(x) = y -> e^y = x
@@ -59,13 +61,16 @@ Math Stuff
 	- P(y = 1 | x, β) = 
 	- x = feature vector, β = coefficients
 
-Features
+## Features
 - logistic regression doesn't assume indep. features; discriminative classifier
 - power partly comes in the ability to create richly expressive features without the burden of independence
 - can represent text through features that is scoped over the entirety of the input
-- ex: contains 'like', has a word that shows up in positive sentiment dictionary, review begins with 'I like', at least 5 mentions of positive affectual verbs
+	- ex: contains 'like', has a word that shows up in positive sentiment dictionary, review begins with 'I like', at least 5 mentions of positive affectual verbs
 - Features are where you can encode your own *domain understanding* of the problem.
+	- ex: unigrams ('like'), bigrams ('not like'), prefixes ('-un')
 
+How do we get good values for β?
+- For all training data, we want the probability of the true label y for each data point x to be high.
 
 
 ---
