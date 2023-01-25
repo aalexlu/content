@@ -23,9 +23,20 @@ Let h(x) be the "true" mapping. We never know it. How do we find the best ĥ(x)
 | genre classification | novel | {detective, romance, gothic, …} |
 | sentiment analysis | text | {positive, negative, neutral, mixed} |
 
+---
+
 ## Sentiment analysis
-- Document-level SA: is the entire text positive or negative (or both / neither) with respect to an implicit target
+- Document-level SA: is the entire text positive or negative (or both / neither) with respect to an implicit target OR explicit target within the text?
 - Movie reviews
+Sentiment as Tone: No longer the speaker’s attitude with respect to some particular target, but rather the positive/negative tone that is evinced.
+- People happiest at 8am
+
+Sentiment Dictionaries
+- list of positive vs negative words
+- LIWC: 73 separate lexicons designed for applications in social psychology (e.g. Emotion, Insight, Inhibition, Family, Negate)
+
+Why is Snetiment Analysis (SA) hard?
+
 
 
 ---
