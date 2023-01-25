@@ -99,7 +99,10 @@ L1 regularization
 
 ---
 
-## Topic
+## Evaluation
+
+training, development, testing (80%, 10%, 10%)
+- purpose: training models, model selection, evaluation; never look at it until the very end
 
 
 
