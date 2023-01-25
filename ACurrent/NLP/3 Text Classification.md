@@ -64,7 +64,7 @@ Representation for SA
 | -- | -- |
 | Sentiment classification | Words, presence in sentiment dictionaries, etc |
 | Fake news detection | Credibility of author, sources cited, engagement, extreme language, typos |
-|
+| Respect | … |
 
 ## Math Stuff
 - exp(x) = e^x  = 2.7^x
