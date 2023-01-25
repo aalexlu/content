@@ -52,6 +52,20 @@ Representation for SA
 
 --- 
 
+## Features
+- logistic regression doesn't assume indep. features; discriminative classifier
+- power partly comes in the ability to create richly expressive features without the burden of independence
+- can represent text through features that is scoped over the entirety of the input
+	- ex: contains 'like', has a word that shows up in positive sentiment dictionary, review begins with 'I like', at least 5 mentions of positive affectual verbs
+- Features are where you can encode your own *domain understanding* of the problem.
+	- ex: unigrams ('like'), bigrams ('not like'), prefixes ('-un')
+
+| Task | Features |
+| -- | -- |
+| Sentiment classification | Words, presence in sentiment dictionaries, etc |
+| Fake news detection | Credibility of author, sources cited, engagement, extreme language, typos |
+|
+
 ## Math Stuff
 - exp(x) = e^x  = 2.7^x
 - log(x) = y -> e^y = x
@@ -60,14 +74,6 @@ Representation for SA
 - Binary logistic regression
 	- P(y = 1 | x, β) = 
 	- x = feature vector, β = coefficients
-
-## Features
-- logistic regression doesn't assume indep. features; discriminative classifier
-- power partly comes in the ability to create richly expressive features without the burden of independence
-- can represent text through features that is scoped over the entirety of the input
-	- ex: contains 'like', has a word that shows up in positive sentiment dictionary, review begins with 'I like', at least 5 mentions of positive affectual verbs
-- Features are where you can encode your own *domain understanding* of the problem.
-	- ex: unigrams ('like'), bigrams ('not like'), prefixes ('-un')
 
 How do we get good values for β?
 - For all training data, we want the probability of the true label y for each data point x to be high.
@@ -86,7 +92,6 @@ When calculating the P(y|x) or in calculating the gradient, only need to loop th
 Many features that show up rarely may likeley only appear (by chance) with one label
 - Easy to overfit to the randomness of the data
 We can account for this with feature selection.
-
 1. We can threshold features by minimum count but that also throws away information
 2. We can take a probabalistic approach and encode a prior belief that all β should be 0 unless we have strong evidence otherwise.
 
