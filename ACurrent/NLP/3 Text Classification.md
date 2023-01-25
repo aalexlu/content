@@ -92,6 +92,10 @@ We can account for this with feature selection.
 
 L2 regularization
 - add a penalty for having values of β that are high
+- no L2 regularization vs. some L2 regularization vs. high L2 regularization
+L1 regularization
+- encourage coefficients to be exactly 0
+- n controls for how much of a penalty to pay for coeff. that are far from 0
 
 ---
 
