@@ -59,6 +59,13 @@ Math Stuff
 	- P(y = 1 | x, β) = 
 	- x = feature vector, β = coefficients
 
+Features
+- logistic regression doesn't assume indep. features; discriminative classifier
+- power partly comes in the ability to create richly expressive features without the burden of independence
+- can represent text through features that is scoped over the entirety of the input
+- ex: contains 'like', has a word that shows up in positive sentiment dictionary, review begins with 'I like', at least 5 mentions of positive affectual verbs
+- Features are where you can encode your own *domain understanding* of the problem.
+
 
 
 ---
