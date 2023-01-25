@@ -104,6 +104,18 @@ L1 regularization
 training, development, testing (80%, 10%, 10%)
 - purpose: training models, model selection, evaluation; never look at it until the very end
 
+Multiclass confusion matrix
+- diagonal is correct
+- Accuracy: sum of diagonal / rest of matrix
+- Precision: proportion of predicted class that are actually that class
+	- can measure for each specific category
+- Recall: proportion of true class that are predicted to be that class
+- F score = (2 x precision x recall) / (precision + recall)
+
+Majority class baseline
+- pick the label that occurs the most frequently in the training data
+- Predict that label for every data point in the test data
+
 
 
 next: 
