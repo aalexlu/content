@@ -52,7 +52,7 @@ Representation for SA
 
 --- 
 
-Math Stuff
+## Math Stuff
 - exp(x) = e^x  = 2.7^x
 - log(x) = y -> e^y = x
 - exp(x + y) = exp(x) exp(y)
@@ -72,6 +72,26 @@ Math Stuff
 How do we get good values for β?
 - For all training data, we want the probability of the true label y for each data point x to be high.
 
+## Logistic regression Gradient descent
+- Algorithm –
+- If y is 1 and p(x) = 0, then tthis still pushes the weights a lot
+- if y is 1 and p(x) = 0.99 then this still pushes the weights just a little bit
+## Logistic regression Stochastic Gradient descent
+- batch gradient descent reasons over every training data point for each update of β. Can be slow to converge
+
+When calculating the P(y|x) or in calculating the gradient, only need to loop through features with nonzero values
+- makes sparse, binary values useful
+
+## Feature Selection
+Many features that show up rarely may likeley only appear (by chance) with one label
+- Easy to overfit to the randomness of the data
+We can account for this with feature selection.
+
+1. We can threshold features by minimum count but that also throws away information
+2. We can take a probabalistic approach and encode a prior belief that all β should be 0 unless we have strong evidence otherwise.
+
+L2 regularization
+- add a penalty for having values of β that are high
 
 ---
 
