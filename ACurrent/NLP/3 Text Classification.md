@@ -12,8 +12,12 @@ A mapping *h* from input data x (drawn from instance space X) to a categorical l
 discrete class
 
 Let h(x) be the "true" mapping. We never know it. How do we find the best ĥ(x) to approximate it?
-1. Rule based: if x has characters in unicode point range 0370-03FF: ĥ(x) = greek
-2. Supervised learning: Given training data in the form of <x, y> pairs, learn ĥ(x)
+1. **Rule based**: if x has characters in unicode point range 0370-03FF: ĥ(x) = greek
+2. **Supervised learning**: Given training data in the form of <x, y> pairs, learn ĥ(x)
+ĥ(x): The classification function that we want to learn has two different components:
+1. the formal structure of the learning method (what’s the relationship between the input and output?) → Naive Bayes, logistic regression, convolutional neural network, etc.
+2. the representation of the data
+
 
 | task | x | y |
 |--|--|---|
@@ -35,7 +39,25 @@ Sentiment Dictionaries
 - list of positive vs negative words
 - LIWC: 73 separate lexicons designed for applications in social psychology (e.g. Emotion, Insight, Inhibition, Family, Negate)
 
-Why is Snetiment Analysis (SA) hard?
+Why is Sentiment Analysis (SA) hard?
+- Sentiment is a measure of a speaker's private state, which is unobservable
+- Sometimes words are a good indicator of sentiment (love, amazing, hate, terrible); many times it requires deep world + contextual knowledge
+
+Representation for SA
+- only positive / negative words in MPQA
+- only words in isolation (bag of words)
+	- Bag of words: Representation of text only as the counts of words that it contains (or binary indicator of presence / absence)
+- conjunctions of words (sequential, skip ngrams, other non-linear combinations)
+- higher-order linguistic structure (e.g., syntax)
+
+Math Stuff
+- exp(x) = e^x  = 2.7^x
+- log(x) = y -> e^y = x
+- exp(x + y) = exp(x) exp(y)
+- log(xy) = log(x) + log(y)
+- Binary logistic regression
+	- P(y = 1 | x, β) = 
+	- x = feature vector, β = coefficients
 
 
 
