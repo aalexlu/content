@@ -107,4 +107,4 @@ The standard language myth holds that…
 
 
 
-next: [[3 Dialectology Part I – Atlases, Dialect boundaries, data elicitation]]
+next: [[3 Dialectology I – Atlases, Dialect boundaries, data elicitation]]

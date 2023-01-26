@@ -1,5 +1,5 @@
 *January 26, 2023*
-previous: [[3 Dialectology Part I – Atlases, Dialect boundaries, data elicitation]]
+previous: [[3 Dialectology I – Atlases, Dialect boundaries, data elicitation]]
 
 ---
 Written dialect surveys
@@ -26,8 +26,22 @@ Written dialect surveys
 - shift west and shift north of the green areas vs purple
 - 
 
+## Recap
+Dialectology as dialect geography
+- Documentation of regional differences
+- Regional diffusion of variants, may indicate pathways of language change  
+Methods of distinguishing and drawing dialect boundaries
+- Isoglosses
+- Correlates of isoglosses? (Rivers, borders, etc.)  
+Dialects exist because we talk like the people we talk to
 
 
+## Perceptual dialectology
+- or folk dialectology
+- non-linguists' perceptions of regional dialect variation
+	- ex: asking "Where do they speak the most correct English?"
+		- Michigan respondents: most identified the South, then NYC – linguistic security
+		- Alabama respondents: linguistic insecurity but associates the dialect with pleasantness
 
 
 
