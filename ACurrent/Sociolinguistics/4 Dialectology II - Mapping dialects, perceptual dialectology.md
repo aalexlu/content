@@ -18,16 +18,14 @@ Written dialect surveys
 	- Still can reveal a lot
 - Non-linguistic correlates of isoglosses: never a linguistic reason; usually because of communication between communities
 	- correlation between the way communities speak but also maybe cultural things
-	- 
+
+21st century dialectology – statistical models to detect regional hotspots
+
+## "Big data" in dialectology
+- 
 
 
 
-
-
-
----
-
-## Topic
 
 
 
