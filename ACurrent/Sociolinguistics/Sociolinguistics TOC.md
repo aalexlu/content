@@ -7,8 +7,10 @@
 
 # Key terms
 
-| Term     | Definition                                                                                  |
-| -------- | ------------------------------------------------------------------------------------------- |
-| Isogloss | geographic boundaries that separate two areas that differ along a specific language feature |
-|          |                                                                                             |
+| Term     | Definition                                                                                  |     |
+| -------- | ------------------------------------------------------------------------------------------- | --- |
+| A        |                                                                                             |     |
+| Isogloss | geographic boundaries that separate two areas that differ along a specific language feature |     |
+| Merger   | words that merge phonetically                                                               |     |
+
 
