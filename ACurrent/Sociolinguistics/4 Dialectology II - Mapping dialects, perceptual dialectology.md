@@ -43,9 +43,13 @@ Dialects exist because we talk like the people we talk to
 		- Michigan respondents: most identified the South, then NYC – linguistic security
 		- Alabama respondents: linguistic insecurity but associates the dialect with pleasantness
 
+in CA
+- a perceptual study of a single state, by its own residents
+- stereotypes about CA exist that aren’t matched by stereotypes about other Western states
+	- Californians participate in sounds change: fronting of (uw) and (ow) (=GOOSE and GOAT)
+
+Attendance: familiarity of (a) grip (of) meaning 'a lot of'
 
 
 
-
-
-next: 
+next: [[5 Dialectology]]
