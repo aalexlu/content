@@ -43,7 +43,7 @@ Why is Sentiment Analysis (SA) hard?
 - Sentiment is a measure of a speaker's private state, which is unobservable
 - Sometimes words are a good indicator of sentiment (love, amazing, hate, terrible); many times it requires deep world + contextual knowledge
 
-Representation for SA
+#### Representation for SA
 - only positive / negative words in MPQA
 - only words in isolation (bag of words)
 	- Bag of words: Representation of text only as the counts of words that it contains (or binary indicator of presence / absence)
