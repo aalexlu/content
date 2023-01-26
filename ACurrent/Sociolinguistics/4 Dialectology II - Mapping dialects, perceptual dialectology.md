@@ -16,6 +16,11 @@ Written dialect surveys
 	2. Isogloss placement can be subjective
 	3. Might not reflect differences in how speakers self-identify regionally
 	- Still can reveal a lot
+- Non-linguistic correlates of isoglosses: never a linguistic reason; usually because of communication between communities
+	- correlation between the way communities speak but also maybe cultural things
+	- 
+
+
 
 
 
