@@ -22,6 +22,8 @@ Written dialect surveys
 21st century dialectology – statistical models to detect regional hotspots
 
 ## "Big data" in dialectology
+- 'fixing to' vs 'finna'
+- shift west and shift north of the green areas vs purple
 - 
 
 
