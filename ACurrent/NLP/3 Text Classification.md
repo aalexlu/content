@@ -19,13 +19,13 @@ Let h(x) be the "true" mapping. We never know it. How do we find the best ĥ(x)
 2. the representation of the data
 
 
-| task | x | y |
-|--|--|---|
-| language ID | text | {english, mandarin, greek, …} |
-| spam classification | email | {spam, not spam} |
-| authorship attribution | text | {jk rowling, james joyce, …} |
-| genre classification | novel | {detective, romance, gothic, …} |
-| sentiment analysis | text | {positive, negative, neutral, mixed} |
+| task                   | x     | y                                    |
+| ---------------------- | ----- | ------------------------------------ |
+| language ID            | text  | {english, mandarin, greek, …}        |
+| spam classification    | email | {spam, not spam}                     |
+| authorship attribution | text  | {jk rowling, james joyce, …}         |
+| genre classification   | novel | {detective, romance, gothic, …}      |
+| sentiment analysis     | text  | {positive, negative, neutral, mixed} |
 
 ---
 
