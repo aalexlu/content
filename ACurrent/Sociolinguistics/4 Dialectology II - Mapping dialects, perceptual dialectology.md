@@ -3,7 +3,7 @@ previous: [[3 Dialectology Part I – Atlases, Dialect boundaries, data elicitat
 
 ---
 
-## Topic
+## Mapping Dialects
 
 
 ---

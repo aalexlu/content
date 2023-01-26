@@ -44,6 +44,7 @@ Dialectology across domains
 - soda / pop / coke / other
 - NEW Haven / new HAVEN (native) / interchangeable / other (phonological bc of stress)
 - all same (merger: phonemes have merged) / marry = mary ≠ merry / all different
+	- merger ex: cot caught, bot bought
 
 Methodology
 - NORMs (Chambers & Trudgill 1998)
@@ -69,10 +70,10 @@ Why dialectological research?
 	- 80 fieldworkers (grad students); 2,777 people in 1,002 communities
 	- primarily lexical data
 - The Atlas of North American English (ANAE)
-	-  most influential in sociolinguistics
+	- most influential in sociolinguistics
 	- focus on phonological change and vowel chain shifts
 
-Elicitation of regional forms
+## Elicitation of regional forms (via question frames)
 - prompt them to say a word without influencing them by saying it yourself
 	- play recordings for people and ask them to categorize
 - Weather: When it’s raining very heavily, you say, “It’s raining ________.”
@@ -82,7 +83,8 @@ Elicitation of regional forms
 
 
 
-next: [[4 Dialectology]]
+
+next: [[4 Dialectology II - Mapping dialects, perceptual dialectology]]
 
 
 
