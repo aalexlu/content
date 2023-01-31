@@ -2,7 +2,7 @@
 [[2 Language and Varieties, Standard and Nonstandard]]
 [[3 Dialectology I – Atlases, Dialect boundaries, data elicitation]]
 [[4 Dialectology II - Mapping dialects, perceptual dialectology]]
-[[5 Dialectology]]
+[[5 Variation and Variables in Sociolinguistics]]
 
 
 # Key terms
@@ -25,6 +25,7 @@
 | Variable                          |                                                                                                                                                                         |
 | Variation                         |                                                                                                                                                                         |
 | Variety                           | A neutral term to refer to languages and dialects; avoids the terminological controversy of 'language' vs. 'dialect' and the associations associated with them(~"lect") |
+| Orthography                       | Standardized writing system with rules for spelling, punctuation, and capitalization; standard English cannot classify all phonetis sounds                              |
 |                                   |                                                                                                                                                                         |
 
 

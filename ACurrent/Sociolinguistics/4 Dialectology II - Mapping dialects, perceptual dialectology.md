@@ -52,4 +52,4 @@ Attendance: familiarity of (a) grip (of) meaning 'a lot of'
 
 
 
-next: [[5 Dialectology]]
+next: [[5 Variation and Variables in Sociolinguistics]]
