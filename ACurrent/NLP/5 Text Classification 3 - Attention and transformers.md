@@ -28,14 +28,30 @@ Attention gives us a normalized weight for every tokeni n a sequence that tells 
 
 ## Transformers
 Transformers map an input *sequence* of vectos to an output *sequence* of vectors of the same dimensionality
-
-Core idea behind transformers; how attention operates
+Core idea behind transformers; How attention operates
 
 #### Self-Attention
 1. Let's assume that our input vectors are static word2vec embeddings of words
 2. The value for time step j at layer i is the result of attention over all time steps in the previous layer i-1
 
-Separate out representations into query and key
+Separate out representations into query and key and value
+- These are all parameters we learn. 100 is the original input dimension; 37 is a hyperparameter we choose.
+Self attention from "**The**" at position 1 to every token in the sentence ("The dog barked")
+- The compatibility score between two words is the dot product between their respective *query* and *key* vectors
+	- score(ei, ej) = qi * kj
+- The output of attention is a weighted sum over the values of the previous layer
+	- The (0.07), dog (0.58), barked (0.35)
+	- If the dimensionality of v is 100, the resulting vector is also size 100
+
+---
+
+## Multihead attention
+Attention in transformers is essentially a set of *learned parameters* (WQ, WK, WV) and a mathematical expression for *how an input is transformed into an output* through operations involving those parameters.
+- Q = XWQ; K = XWK; V = XWV
+- SelfAttention(Q,K, V) =
+Attention provides one view on the data
+- just like we use multiple filters in CNNs to provide multiple perspectives (by learning separate parameters for each one), we learn multiple perspectives in a transformer by learning multiple (WQ, WK, WV) sets.
+
 
 
 next:
