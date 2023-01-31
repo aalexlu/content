@@ -51,6 +51,10 @@ Attention in transformers is essentially a set of *learned parameters* (WQ, WK, 
 - SelfAttention(Q,K, V) =
 Attention provides one view on the data
 - just like we use multiple filters in CNNs to provide multiple perspectives (by learning separate parameters for each one), we learn multiple perspectives in a transformer by learning multiple (WQ, WK, WV) sets.
+With multihead attention, each attention head generates its own output vector i based on its own WiQ, WiK, and WiV
+- each generate another 100-dimensional vector
+
+#### Layer Normalization
 
 
 
