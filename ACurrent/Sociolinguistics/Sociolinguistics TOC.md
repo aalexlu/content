@@ -28,6 +28,7 @@
 | Orthography                       | Standardized writing system with rules for spelling, punctuation, and capitalization; standard English cannot classify all phonetis sounds                              |
 | Monophthong                       | Simple ("pure") vowel, only one vowel sound                                                                                                                             |
 | Diphthong                         | Sequence of two vowel sounds, more than one target                                                                                                                      |
-|                                   |                                                                                                                                                                         |
+| Phoneme                           | The abstract representation that surfaces as a particular phone in certan contexts                                                                                      |
+| Phone                             | The form that surfaces in a particular context                                                                                                                          |
 
 

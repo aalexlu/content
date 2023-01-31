@@ -123,4 +123,6 @@ Majority class baseline
 
 
 
-next: 
+
+
+next: [[4 Text classification 2 - MLP and CNN]]
