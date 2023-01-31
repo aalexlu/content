@@ -59,8 +59,6 @@ Residual layers add a layer's input to its output, giving later layers access to
 
 This whole process defines one attention block
 - input is a sequence of (e.g. 100-dimensional) vectors; output of each block is a sequence of (100-dimensional) vectors
-![[Pasted image 20230131150204.png]]
-
 
 ---
 
@@ -69,6 +67,16 @@ This whole process defines one attention block
 - large representation sizes (768 per layer)
 - BERT also encodes each sentence by appending a special token to the beginning ([CLS]) and end ([SEP]) of each sequence.
 - This helps provide a single token that can be optimized to represent the entire sequence (e.g., for document classification)
+
+CNNs can reason over text inputs of arbitrary length; FFNN require transformation into a fixed-dimensional feature vector.
+Transformers *can* reason over inputs of arbitrary length
+
+Would the output probability for “Dr. No was amazing” be different from “was Dr. No amazing”? 
+- Representation at the moment has no knowledge of positioning =>
+#### Position Encodings
+1. Let's assume that our input vectors are static word2vec embeddings of words **+ position encodings**
+2. One option is to add learnable position embeddings pe[i] to each word embedding e at position i
+	1. Use sinusoidal functions to deterministically create a vector of position encodings the same dimensionality as the input
 
 
 
