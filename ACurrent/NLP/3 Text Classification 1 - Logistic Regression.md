@@ -1,6 +1,8 @@
 *January 24, 2023*
 previous: [[2 Words, Lexical Semantics, and Static Word Embeddings]]
 
+featurized
+
 ---
 
 ## Classification
@@ -125,4 +127,4 @@ Majority class baseline
 
 
 
-next: [[4 Text classification 2 - MLP and CNN]]
+next: [[4 Text Classification 2 - MLP and CNN]]
