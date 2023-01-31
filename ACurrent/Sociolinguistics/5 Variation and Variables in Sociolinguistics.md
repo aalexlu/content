@@ -60,6 +60,11 @@ Abstract representation vs. surface forms
 	- “Style effects” (we’ll discuss this in more depth) includes how formal or casual a speaker is being, and that will involve an increase or decrease of a variant
 - **Indicator**: a variable that speakers are not aware of, which does not display style shifting; it may distinguish groups/communities, though
 
+## Motivations for variation / change
+- A desire to show how you fit in with some people and are diff from others
+- A desire to do things that have value in the community
+- A desire not to do things that are looked down on in the communituy
+- A desire to work out how others are orienting themselves to the concerns above
 
 
 
