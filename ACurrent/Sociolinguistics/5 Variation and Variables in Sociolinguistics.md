@@ -40,19 +40,25 @@ Abstract representation vs. surface forms
 - Reallocation (reanalysis) of the regional distinction to be a phonological one (PRICE)
 
 #### Labov's Martha's Vineyard study
-- studied PRICE (ay) and MOUTH (aw) vowels
-- **Interspeaker variation:** Not all speakers used the local variant
-- **Intraspeaker variation:** Not all speakers who use the local variant always use it
-- The **envelope of variation:** All, and only, the contexts in which a variable occurs
+- Studied PRICE (ay) and MOUTH (aw) vowels
+- **Interspeaker variation**: Not all speakers used the local variant
+- **Intraspeaker variation**: Not all speakers who use the local variant always use it
+- The **envelope of variation**: All, and only, the contexts in which a variable occurs
 	- For (ay), the eov is all words containing a low vowel onset with a front offglide
 - Conclusion
 	- Linguistic factors explain most of the variation: (ay) followed by voiceless fricatives or stops (/t, s, p, f/) were likelier to favor the centralized variant ([əi]); Following sonorants (/l, r, n, m/) favored the lower variant ([ai])
 	- non-ling factors also relevant
 **The Labovian Revolution**:
-1. record what people say, not what they *say* they say
+1. Record what people say, not what they *say* they say
 2. Test for correlations between linguistic behavior and social factors; *locally relevant* factors
-3. 
+3. Language change can be studied while it's still happening; synchronic variation (happening now) often leads to diachronic variation (language change over time)
 
+## Awareness of specific linguistic features
+- **Stereotype**: a feature widely recognized, often the subject of commentary, impersonation, performance (accurate or not)
+	- Canadian “eh?”, Valley girl “like”, Singapore “lah”, creaky voice
+- **Marker**: a variable that speakers are less aware of, but which shows consistent style effects
+	- “Style effects” (we’ll discuss this in more depth) includes how formal or casual a speaker is being, and that will involve an increase or decrease of a variant
+- **Indicator**: a variable that speakers are not aware of, which does not display style shifting; it may distinguish groups/communities, though
 
 
 

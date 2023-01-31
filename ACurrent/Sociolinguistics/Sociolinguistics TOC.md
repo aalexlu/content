@@ -31,6 +31,8 @@
 | Phoneme                           | The abstract representation that surfaces as a particular phone in certan contexts                                                                                      |
 | Phone                             | The form that surfaces in a particular context                                                                                                                          |
 | Envelope of variation             | All, and only, the contexts in which a variable occurs                                                                                                                  |
-|                                   |                                                                                                                                                                         |
+| Stereotype                        | A feature widely recognized, often the subject of commentary, impersonation, performance (accurate or not)                                                              |
+| Marker                            | A variable that speakers are less aware of, but which shows consistent style effects (how formal or casual a speaker is being)                                           |
+| Indicator                         | A variable that speakers are not aware of, which does not display style shifting; it may distinguish groups/communities                                                                                                                                                                        |
 
 
