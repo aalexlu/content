@@ -20,12 +20,22 @@ Variations on attention:
 3. “Multi-head attention”: multiple v vectors to capture different phenomena that can be attended to in the input.
 4. Hierarchical attention (sentence representation with attention over words + document representation with attention over sentences).
 
-
+Attention gives us a normalized weight for every tokeni n a sequence that tells us how imp. that word was for the prediction
+- Can be useful for visualization
 
 
 ---
 
+## Transformers
+Transformers map an input *sequence* of vectos to an output *sequence* of vectors of the same dimensionality
 
+Core idea behind transformers; how attention operates
+
+#### Self-Attention
+1. Let's assume that our input vectors are static word2vec embeddings of words
+2. The value for time step j at layer i is the result of attention over all time steps in the previous layer i-1
+
+Separate out representations into query and key
 
 
 next:
