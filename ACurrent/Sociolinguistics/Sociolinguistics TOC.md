@@ -22,10 +22,10 @@
 | NORMs                             | **N**onmobile, **O**lder, **R**ural, **M**ale                                                                                                                           |
 | Performance                       | what people actually do / say                                                                                                                                           |
 | SLI                               | Standard Language Ideology (SLI)                                                                                                                                        |
-| Variable                          |                                                                                                                                                                         |
+| Variable                          | A linguistic feature that varies; it can surface, or be realized, as two or more variants                                                                               |
 | Variation                         |                                                                                                                                                                         |
 | Variety                           | A neutral term to refer to languages and dialects; avoids the terminological controversy of 'language' vs. 'dialect' and the associations associated with them(~"lect") |
 | Orthography                       | Standardized writing system with rules for spelling, punctuation, and capitalization; standard English cannot classify all phonetis sounds                              |
-|                                   |                                                                                                                                                                         |
+| Monophthong                       |                                                                                                                                                                         |
 
 
