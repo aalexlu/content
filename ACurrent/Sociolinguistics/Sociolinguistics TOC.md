@@ -3,7 +3,9 @@
 [[3 Dialectology I – Atlases, Dialect boundaries, data elicitation]]
 [[4 Dialectology II - Mapping dialects, perceptual dialectology]]
 [[5 Variation and Variables in Sociolinguistics]]
+[[6 Var]]
 
+---
 
 # Key terms
 
