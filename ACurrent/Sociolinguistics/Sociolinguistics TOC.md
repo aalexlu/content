@@ -30,6 +30,7 @@
 | Diphthong                         | Sequence of two vowel sounds, more than one target                                                                                                                      |
 | Phoneme                           | The abstract representation that surfaces as a particular phone in certan contexts                                                                                      |
 | Phone                             | The form that surfaces in a particular context                                                                                                                          |
+| Envelope of variation             | All, and only, the contexts in which a variable occurs                                                                                                                  |
 |                                   |                                                                                                                                                                         |
 
 

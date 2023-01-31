@@ -35,11 +35,23 @@ Abstract representation vs. surface forms
 ---
 
 ## From dialectology to sociolinguistic variation
-- David Britain's study of the Fens
-	- Used to be swamp, barrier to movement -> as swamps drained, less variation overall
-	- Reallocation (reanalysis) of the regional distinction to be a phonological one (PRICE)
-- Labov's Martha's Vineyard study
-	- 
+#### David Britain's study of the Fens
+- Used to be swamp, barrier to movement -> as swamps drained, less variation overall
+- Reallocation (reanalysis) of the regional distinction to be a phonological one (PRICE)
+
+#### Labov's Martha's Vineyard study
+- studied PRICE (ay) and MOUTH (aw) vowels
+- **Interspeaker variation:** Not all speakers used the local variant
+- **Intraspeaker variation:** Not all speakers who use the local variant always use it
+- The **envelope of variation:** All, and only, the contexts in which a variable occurs
+	- For (ay), the eov is all words containing a low vowel onset with a front offglide
+- Conclusion
+	- Linguistic factors explain most of the variation: (ay) followed by voiceless fricatives or stops (/t, s, p, f/) were likelier to favor the centralized variant ([əi]); Following sonorants (/l, r, n, m/) favored the lower variant ([ai])
+	- non-ling factors also relevant
+**The Labovian Revolution**:
+1. record what people say, not what they *say* they say
+2. Test for correlations between linguistic behavior and social factors; *locally relevant* factors
+3. 
 
 
 
