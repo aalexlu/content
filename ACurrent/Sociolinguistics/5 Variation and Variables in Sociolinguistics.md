@@ -12,6 +12,8 @@ previous: [[4 Dialectology II - Mapping dialects, perceptual dialectology]]
 - Vowels: height (tongue), backness (tongue body), rounding (lips), tenseness
 	- monophthong: simple ("pure") vowel, only one vowel sound
 	- diphthong: sequence of two vowel sounds, more than one target
+- Transcribed examples
+	- [pʰæst], [pʰɪtʃ], [bal], [fit]
 
 
 ---

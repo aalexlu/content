@@ -149,4 +149,4 @@ bit.ly/3wfq5AK
 
 
 
-next: [[3 Text Classification]]
+next: [[3 Text Classification 1 - Logistic Regression]]

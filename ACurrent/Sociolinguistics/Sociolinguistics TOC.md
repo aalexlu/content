@@ -26,6 +26,8 @@
 | Variation                         |                                                                                                                                                                         |
 | Variety                           | A neutral term to refer to languages and dialects; avoids the terminological controversy of 'language' vs. 'dialect' and the associations associated with them(~"lect") |
 | Orthography                       | Standardized writing system with rules for spelling, punctuation, and capitalization; standard English cannot classify all phonetis sounds                              |
-| Monophthong                       |                                                                                                                                                                         |
+| Monophthong                       | Simple ("pure") vowel, only one vowel sound                                                                                                                             |
+| Diphthong                         | Sequence of two vowel sounds, more than one target                                                                                                                      |
+|                                   |                                                                                                                                                                         |
 
 
