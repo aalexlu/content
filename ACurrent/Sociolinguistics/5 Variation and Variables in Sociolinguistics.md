@@ -28,6 +28,19 @@ Abstract representation vs. surface forms
 - /n/ -> [n̪] / _ θ
 - **phoneme** is the abstract representation; it surfaces as a particular **phone** in a particular conttext
 	- deterministic: whenever a rule can apply, it will 100% of the time
+**Free variation:** when we haven't yet determined the constraints; still might exist
+- constrants can be linguistic or non-ling
+	- non-ling constraints can be social or cognitive
+
+---
+
+## From dialectology to sociolinguistic variation
+- David Britain's study of the Fens
+	- Used to be swamp, barrier to movement -> as swamps drained, less variation overall
+	- Reallocation (reanalysis) of the regional distinction to be a phonological one (PRICE)
+- Labov's Martha's Vineyard study
+	- 
+
 
 
 
