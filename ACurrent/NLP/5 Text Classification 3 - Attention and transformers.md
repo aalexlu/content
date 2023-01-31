@@ -55,6 +55,24 @@ With multihead attention, each attention head generates its own output vector i 
 - each generate another 100-dimensional vector
 
 #### Layer Normalization
+Residual layers add a layer's input to its output, giving later layers access to unmediated information.
+
+This whole process defines one attention block
+- input is a sequence of (e.g. 100-dimensional) vectors; output of each block is a sequence of (100-dimensional) vectors
+![[Pasted image 20230131150204.png]]
+
+
+---
+
+## BERT
+- deep layers (12 for BERT base, 24 for BERT large)
+- large representation sizes (768 per layer)
+- BERT also encodes each sentence by appending a special token to the beginning ([CLS]) and end ([SEP]) of each sequence.
+- This helps provide a single token that can be optimized to represent the entire sequence (e.g., for document classification)
+
+
+
+
 
 
 
