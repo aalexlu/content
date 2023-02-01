@@ -19,6 +19,12 @@ Perceptual dialectology is non-linguists' perceptions of regional dialects and d
 Prescriptivism: How people *should* use language
 Descriptivism: How people *do* use language
 
+Georgetown speech accent
+- slower
+- vowel reduction
+- diphthongizaton
+- vowel raising
+- 
 
 
 
