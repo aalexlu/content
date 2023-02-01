@@ -2,6 +2,16 @@
 previous: [[3 Dialectology I – Atlases, Dialect boundaries, data elicitation]]
 
 ---
+
+## Dialectology Overview
+*February 1, 2023*
+
+- Dialec
+
+
+
+
+---
 Written dialect surveys
 - pro: a lot of data at once
 - con: range of variants may change, who is likely to respond to NYT
@@ -49,7 +59,7 @@ in CA
 	- Californians participate in sounds change: fronting of (uw) and (ow) (=GOOSE and GOAT)
 
 Attendance: familiarity of (a) grip (of) meaning 'a lot of'
-
+Discussion question.
 
 
 next: [[5 Variation and Variables in Sociolinguistics]]

@@ -66,6 +66,11 @@ Abstract representation vs. surface forms
 - A desire not to do things that are looked down on in the communituy
 - A desire to work out how others are orienting themselves to the concerns above
 
+---
+
+
+
+
 
 
 
