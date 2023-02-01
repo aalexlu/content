@@ -16,19 +16,11 @@ Discussion Section
 #### Why is perceptual dialectology relevant to the field of sociolinguistics? In other words, how can perceptual dialectology research contribute to the work of sociolinguists?
 Perceptual dialectology is non-linguists' perceptions of regional dialects and dialect variation. This subject is relevant to the field of sociolinguistics because it can help researchers understand speaker attitudes and biases, and aid sociolinguists in documenting dialect change over time.
 
-1. Book [bʊk]
-2. Cat [kæt]
-3. Linguistics [liŋgwɪstɪks]
-4. tree [tɹi]
-5. trend [tɹɛnd]
-6. move [muv]
-7. icy [aɪsi] 
-8. say [seɪ]
-9. said [sɛd]
-10. though [ðow]
-11. august [ɑgəst]
-12. cringe [ k]
-13. love [ləv]
+Prescriptivism: How people *should* use language
+Descriptivism: How people *do* use language
+
+
+
 
 
 ---

@@ -7,6 +7,23 @@ previous: [[4 Dialectology II - Mapping dialects, perceptual dialectology]]
 **Orthography:** standardized writing system with rules for spelling, punctuation, and capitalization
 - cannot use English orthography to classify sounds in phonetics. ex: fish
 
+#### Discussion Section
+*February 1, 2023*
+Transcription practice
+1. Book [bʊk]
+2. Cat [kæt]
+3. Linguistics [liŋgwɪstɪks]
+4. tree [tɹi]
+5. trend [tɹɛnd]
+6. move [muv]
+7. icy [aɪsi] 
+8. say [seɪ]
+9. said [sɛd]
+10. though [ðow]
+11. august [ɑgəst]
+12. cringe [ k]
+13. love [ləv]
+
 ## Articulation of sounds
 - Consonants: produced with some obstruction in the vocal tract
 - Vowels: height (tongue), backness (tongue body), rounding (lips), tenseness
