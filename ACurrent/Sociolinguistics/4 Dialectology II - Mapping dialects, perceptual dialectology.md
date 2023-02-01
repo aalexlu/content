@@ -5,13 +5,25 @@ previous: [[3 Dialectology I – Atlases, Dialect boundaries, data elicitation]]
 
 ## Dialectology Overview
 *February 1, 2023*
+Discussion Section
 
-- Dialec
+- Dialects + geography
+- In some ways a precursor to modern sociolinguistics
+- NORM participants
+- Can inform us about historical migration patterns and demography
+- Allows testing of 
 
+#### Why is perceptual dialectology relevant to the field of sociolinguistics? In other words, how can perceptual dialectology research contribute to the work of sociolinguists?
+Perceptual dialectology is non-linguists' perceptions of regional dialects and dialect variation. This subject is relevant to the field of sociolinguistics because it can help researchers understand speaker attitudes and biases, and aid sociolinguists in documenting dialect change over time.
 
+1. Book ʊ
+2. Cat æ
+3. Linguistics i ɪ ɪ
+4. tree
 
 
 ---
+
 Written dialect surveys
 - pro: a lot of data at once
 - con: range of variants may change, who is likely to respond to NYT
