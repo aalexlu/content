@@ -19,12 +19,11 @@ Perceptual dialectology is non-linguists' perceptions of regional dialects and d
 Prescriptivism: How people *should* use language
 Descriptivism: How people *do* use language
 
-Georgetown speech accent
+Georgetown speech accent (Mississippi)
 - slower
 - vowel reduction
 - diphthongizaton
-- vowel raising
-- 
+- vowel raising / fronting
 
 
 
