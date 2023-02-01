@@ -4,7 +4,7 @@
 
 ## Aroids
 
-| Plant                      | Name      | Type           | Last Watering | Notes                         | Action Items          |
+| Plant                      | Name      | Type           | Last Watering | Soil Mix                      | Notes                 | 
 | -------------------------- | --------- | -------------- | ------------- | ----------------------------- | --------------------- |
 | Philodendron Silver Sword  | Sylvester | Climber        | 1/29          | Inside soil, outer chunky mix | Cut and prop for pole |
 | Philodendron Flordia Green | Florence  | Climber        | 1/29          | Mostly chunky                 |                       |
