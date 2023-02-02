@@ -26,6 +26,7 @@
 | Anthurium andreanum        | Amelia    | 2/2           | 5    |                              |                       |
 | Hedera Helix               | Henry     |               |      |                              |                       |
 | Dracaena Marginata         | Drake     |               |      |                              |                       |
+|                            |           |               |      |                              |                       |
 
 
 #### At Michael's
