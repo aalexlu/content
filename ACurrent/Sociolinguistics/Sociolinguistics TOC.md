@@ -3,7 +3,7 @@
 [[3 Dialectology I – Atlases, Dialect boundaries, data elicitation]]
 [[4 Dialectology II - Mapping dialects, perceptual dialectology]]
 [[5 Variation and Variables in Sociolinguistics]]
-[[6 Var]]
+[[6 Variation and style - Concepts and methods]]
 
 ---
 
@@ -32,9 +32,9 @@
 | Diphthong                         | Sequence of two vowel sounds, more than one target                                                                                                                      |
 | Phoneme                           | The abstract representation that surfaces as a particular phone in certan contexts                                                                                      |
 | Phone                             | The form that surfaces in a particular context                                                                                                                          |
-| Envelope of variation             | All, and only, the contexts in which a variable occurs                                                                                                                  |
+| Envelope of variation             | All, and only, the contexts in which a variable occurs; ignore contexts in which *only* one variant can occur, or where the variants mean different things              |
 | Stereotype                        | A feature widely recognized, often the subject of commentary, impersonation, performance (accurate or not)                                                              |
-| Marker                            | A variable that speakers are less aware of, but which shows consistent style effects (how formal or casual a speaker is being)                                           |
-| Indicator                         | A variable that speakers are not aware of, which does not display style shifting; it may distinguish groups/communities                                                                                                                                                                        |
+| Marker                            | A variable that speakers are less aware of, but which shows consistent style effects (how formal or casual a speaker is being)                                          |
+| Indicator                         | A variable that speakers are not aware of, which does not display style shifting; it may distinguish groups/communities                                                 |
 
 

@@ -60,7 +60,7 @@ Abstract representation vs. surface forms
 - Studied PRICE (ay) and MOUTH (aw) vowels
 - **Interspeaker variation**: Not all speakers used the local variant
 - **Intraspeaker variation**: Not all speakers who use the local variant always use it
-- The **envelope of variation**: All, and only, the contexts in which a variable occurs
+- The **envelope of variation**: All, and only, the contexts in which a variable occurs; ignore contexts in which *only* one variant can occur, or where the variants mean different things
 	- For (ay), the eov is all words containing a low vowel onset with a front offglide
 - Conclusion
 	- Linguistic factors explain most of the variation: (ay) followed by voiceless fricatives or stops (/t, s, p, f/) were likelier to favor the centralized variant ([əi]); Following sonorants (/l, r, n, m/) favored the lower variant ([ai])
@@ -91,4 +91,4 @@ Abstract representation vs. surface forms
 
 
 
-next: [[6 Var]]
+next: [[6 Variation and style - Concepts and methods]]
