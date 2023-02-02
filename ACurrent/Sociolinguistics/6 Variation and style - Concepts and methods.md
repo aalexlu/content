@@ -70,6 +70,8 @@ Attendance: Speaking style more affected by self-conscious you are about the way
 - Can be used to researchers' advantage
 - Mitigation strategies
 	- **Participant observation**: the practice of spending longer periods of time with speakers observing how they use language, react to others’ use of it, and how language interacts with and is embedded in other social practices and ideologies.
+	- Wiretap, secretely observe
+	- Pre-existing audio recordings: do not know they are being observed by linguists
 
 
 
