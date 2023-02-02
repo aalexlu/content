@@ -21,7 +21,7 @@
 | Jargon                            |                                                                                                                                                                         |
 | Language                          | "X-ish," a named variety spoken by the X people/ethnic group in X-land                                                                                                  |
 | Merger                            | words that merge phonetically                                                                                                                                           |
-| NORMs                             | **N**onmobile, **O**lder, **R**ural, **M**ale                                                                                                                                           |
+| NORMs                             | **N**onmobile, **O**lder, **R**ural, **M**ale                                                                                                                           |
 | Performance                       | what people actually do / say                                                                                                                                           |
 | SLI                               | Standard Language Ideology (SLI)                                                                                                                                        |
 | Variable                          | A linguistic feature that varies; it can surface, or be realized, as two or more variants                                                                               |
@@ -32,13 +32,15 @@
 | Diphthong                         | Sequence of two vowel sounds, more than one target                                                                                                                      |
 | Phoneme                           | The abstract representation that surfaces as a particular phone in certan contexts                                                                                      |
 | Phone                             | The form that surfaces in a particular context                                                                                                                          |
-| Envelope of variation             | All, and only, the contexts in which a variable occurs; ignore contexts in which *only* one variant can occur, or where the variants mean different things                |
+| Envelope of variation             | All, and only, the contexts in which a variable occurs; ignore contexts in which *only* one variant can occur, or where the variants mean different things              |
 | Stereotype                        | A feature widely recognized, often the subject of commentary, impersonation, performance (accurate or not)                                                              |
 | Marker                            | A variable that speakers are less aware of, but which shows consistent style effects (how formal or casual a speaker is being)                                          |
 | Indicator                         | A variable that speakers are not aware of, which does not display style shifting; it may distinguish groups/communities                                                 |
 | Interspeaker variation            | Not all speakers used the local variant                                                                                                                                 |
 | Intraspeaker variation            | Not all speakers who use the local variant always use it                                                                                                                |
 | Stratification                    | The systematic and consistent patterning of a variant with respect to some independent factor                                                                           |
+| Overt prestige                    | The prestige associated with a variant that people are highly aware of and which is associated more with the speech of higher-status speakers                           |
+| Covert prestige                   | The prestige associated with a variant when speakers’ positive evaluation of that variant is covert or hidden                                                           |
 |                                   |                                                                                                                                                                         |
 
 

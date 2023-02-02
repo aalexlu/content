@@ -56,7 +56,21 @@ Attendance: Speaking style more affected by self-conscious you are about the way
 	- The View more casual than DNC (democratic national convention)
 - NYC (Lower East Side) as a speech community
 	- Shared norms (style shifting patterns) is suggestive of treating the LES as a speech community
-	- 
+
+#### Sociolinguistic prestige
+- **Overt prestige**: the prestige associated with a variant that people are highly aware of and which is associated more with the speech of higher-status speakers
+	- being r-ful in BYC ("better" or "nicer")
+- **Covert prestige**: the prestige associated with a variant when speakers’ positive evaluation of that variant is covert or hidden
+	- "local prestige" – indicative of socially desirable qualities
+	- Often involved when there is a mismatch between people's self-reported usage vs actual usage
+
+#### Observer's paradox
+- The double-blind researchers find themselves in when what they are interested in knowing is how people behave when they are not being observed; but the only way to find out how they behave is to observe them
+	- Observation may affect what we are observing
+- Can be used to researchers' advantage
+- Mitigation strategies
+	- **Participant observation**: the practice of spending longer periods of time with speakers observing how they use language, react to others’ use of it, and how language interacts with and is embedded in other social practices and ideologies.
+
 
 
 
