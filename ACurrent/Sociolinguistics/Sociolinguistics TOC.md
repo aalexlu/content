@@ -36,5 +36,8 @@
 | Stereotype                        | A feature widely recognized, often the subject of commentary, impersonation, performance (accurate or not)                                                              |
 | Marker                            | A variable that speakers are less aware of, but which shows consistent style effects (how formal or casual a speaker is being)                                          |
 | Indicator                         | A variable that speakers are not aware of, which does not display style shifting; it may distinguish groups/communities                                                 |
+| Interspeaker variation            | Not all speakers used the local variant                                                                                                                                 |
+| Intraspeaker variation            | Not all speakers who use the local variant always use it                                                                                                                |
+|                                   |                                                                                                                                                                         |
 
 
