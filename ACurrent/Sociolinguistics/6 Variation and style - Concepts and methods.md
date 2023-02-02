@@ -50,6 +50,9 @@ Attendance: Speaking style more affected by self-conscious you are about the way
 	- **Hypothesis**: r-less in informal/casual styles, r-ful in formal styles
 	- **Stratification**: the systematic and consistent patterning of a variant with respect to some independent factor
 	- Style across different topics: religious or opinion
+	- Style shifting: (-ing) -> []
+		- stratification both by social class and style; upper-middle class more secure therefore less shifting
+
 
 
 
