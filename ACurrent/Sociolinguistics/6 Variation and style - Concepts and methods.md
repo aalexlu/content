@@ -50,8 +50,13 @@ Attendance: Speaking style more affected by self-conscious you are about the way
 	- **Hypothesis**: r-less in informal/casual styles, r-ful in formal styles
 	- **Stratification**: the systematic and consistent patterning of a variant with respect to some independent factor
 	- Style across different topics: religious or opinion
-	- Style shifting: (-ing) -> []
+	- Style shifting: (-ing) -> [ɪn], [ɪŋ]
 		- stratification both by social class and style; upper-middle class more secure therefore less shifting
+- T/D deletion (e.g. *wes* for *west*)
+	- The View more casual than DNC (democratic national convention)
+- NYC (Lower East Side) as a speech community
+	- Shared norms (style shifting patterns) is suggestive of treating the LES as a speech community
+	- 
 
 
 
