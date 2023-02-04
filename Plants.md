@@ -2,7 +2,7 @@
 
 ---
 
-## P
+## Plants
 
 | Plant                      | Name      | Last Watering | Freq | Soil Mix                     | Notes                 |
 | -------------------------- | --------- | ------------- | ---- | ---------------------------- | --------------------- |
@@ -55,4 +55,12 @@
 
 gt food
 wire mesh
+clear pots
 
+---
+
+## Trial and Error
+
+Clear moss poles from amazon:
+- Philodendron florida green
+- Philodendron splendid
