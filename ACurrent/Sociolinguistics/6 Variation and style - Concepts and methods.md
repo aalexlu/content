@@ -73,6 +73,8 @@ Attendance: Speaking style more affected by self-conscious you are about the way
 	- Wiretap, secretely observe
 	- Pre-existing audio recordings: do not know they are being observed by linguists
 
+Discussion question: How do overt and covert prestige relate to style effects?
+
 
 
 
