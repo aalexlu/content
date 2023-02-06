@@ -73,8 +73,8 @@ Attendance: Speaking style more affected by self-conscious you are about the way
 	- Wiretap, secretely observe
 	- Pre-existing audio recordings: do not know they are being observed by linguists
 
-Discussion question: How do overt and covert prestige relate to style effects?
-
+Discussion question 3: How do overt and covert prestige relate to style effects?
+Overt prestige is associated with the speech of higher-status speakers and is typically associated with the dominant social group. In relation to style effects, in situations requiring more formality, speakers may be more likely to use the language variety associated with overt prestige. On the other hand, covert prestige is associated with a variant when speakers’ positive evaluation of that variant is covert or hidden; this may be more apparent in informal conversations. Both types of prestige play a role in shaping style effects, as speakers will choose to speak differently depending on the context.
 
 
 
