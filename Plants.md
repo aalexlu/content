@@ -10,7 +10,7 @@
 | Alocasia Polly             | Polly     | 2/2           |      | Aerated regular              |                       |
 | Macodes Petola             | Jules     | 2/1           |      |                              |                       |
 | Monstera Adansonii         | Gus       | 2/6           |      |                              |                       |
-| Monstera Deliciosa         | Stella    |               |      |                              |                       |
+| Monstera Deliciosa         | Stella    | 2/6           |      |                              |                       |
 | Peperomia Hope             | Hopper    |               |      |                              |                       |
 | Peperomia Obtusifolia      | Otis      | 2/1           |      | Regular                      |                       |
 | Philodendron Birkin        | Brooke    | 2/2           |      | Regular soil                 |                       |
@@ -31,13 +31,13 @@
 
 #### At Michael's
 
-| Plant                         | Name    | Last Watering | Soil Mix | Notes             |
-| ----------------------------- | ------- | ------------- | -------- | ----------------- |
-| Pothos Golden                 |         |               | Regular  |                   |
-| Philodendron Florida Ghost    | Flo     |               | Regular  | INSTA             |
-| Syngonium Pink (Neon Robusta) |         |               | Regular  | INSTA             |
-| Monstera Albo                 | Albus   |               | Leca     | INSTA + to Chunky |
-| Philodendron Splendid         | Spencer |               |          |                   |
+| Plant                         | Name    | Last Watering | Soil Mix      | Notes             |
+| ----------------------------- | ------- | ------------- | ------------- | ----------------- |
+| Pothos Golden                 |         |               | Regular       |                   |
+| Philodendron Florida Ghost    | Flo     |               | Regular       | INSTA             |
+| Syngonium Pink (Neon Robusta) |         |               | Regular       | INSTA             |
+| Monstera Albo                 | Albus   |               | Leca          | INSTA + to Chunky |
+| Philodendron Splendid         | Spencer |               | Mostly Chunky |                   |
 
 #### Wish List
 
@@ -56,11 +56,10 @@
 gt food
 wire mesh
 clear pots
+pumice
 
 ---
 
 ## Trial and Error
 
-Clear moss poles from amazon:
-- Philodendron florida green
-- Philodendron splendid
+Need to add coco coir and vermiculite?
