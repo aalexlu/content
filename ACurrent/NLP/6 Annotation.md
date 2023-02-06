@@ -6,6 +6,10 @@ previous: [[5 Text Classification 3 - Attention and transformers]]
 ## Transformers
 Transforms map an input sequence of vectors to an output sequence of vectors of the same dimensionality
 many attention blocks stacked
+- Applications
+	- Contextual language models, bidirectional attention (BERT)
+	- Machine translation
+	- Text generation
 
 #### Self-attention
 - transforms so you end up having a weighted average
