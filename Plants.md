@@ -18,14 +18,14 @@
 | Philodendron Florida Green | Florence  | 1/29          |      | Mostly chunky                |                       |
 | Philodendron Micans        | Micah     |               |      | Regular                      |                       |
 | Philodendron Silver Sword  | Sylvester | 1/29          |      | Regular inside, Chunky outer | Cut and prop for pole |
-| Pilea Peperomioides        | Piper     |               |      |                              |                       |
+| Pilea Peperomioides        | Piper     | 2/6           |      |                              |                       |
 | Pothos Neon                | Pete      | 1/29          |      |                              |                       |
 | Syngonium Batik            | Bailey    | 2/6           |      |                              |                       |
 | Calathea Makoyana          | Mako      | 2/6           |      |                              |                       |
 | Calathea Lancifolia        | Lucy      | 2/2           |      |                              |                       |
 | Anthurium andreanum        | Amelia    | 2/2           | 5    |                              |                       |
 | Hedera Helix               | Henry     |               |      |                              |                       |
-| Dracaena Marginata         | Drake     |               |      |                              |                       |
+| Dracaena Marginata         | Drake     | 2/6           |      |                              |                       |
 |                            |           |               |      |                              |                       |
 
 
