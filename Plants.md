@@ -9,7 +9,7 @@
 | Alocasia Frydek            | Freda     | 2/1           |      | Regular                      |                       |
 | Alocasia Polly             | Polly     | 2/2           |      | Aerated regular              |                       |
 | Macodes Petola             | Jules     | 2/1           |      |                              |                       |
-| Monstera Adansonii         | Gus       |               |      |                              |                       |
+| Monstera Adansonii         | Gus       | 2/6           |      |                              |                       |
 | Monstera Deliciosa         | Stella    |               |      |                              |                       |
 | Peperomia Hope             | Hopper    |               |      |                              |                       |
 | Peperomia Obtusifolia      | Otis      | 2/1           |      | Regular                      |                       |
@@ -20,8 +20,8 @@
 | Philodendron Silver Sword  | Sylvester | 1/29          |      | Regular inside, Chunky outer | Cut and prop for pole |
 | Pilea Peperomioides        | Piper     |               |      |                              |                       |
 | Pothos Neon                | Pete      | 1/29          |      |                              |                       |
-| Syngonium Batik            | Bailey    |               |      |                              |                       |
-| Calathea Makoyana          | Mako      |               |      |                              |                       |
+| Syngonium Batik            | Bailey    | 2/6           |      |                              |                       |
+| Calathea Makoyana          | Mako      | 2/6           |      |                              |                       |
 | Calathea Lancifolia        | Lucy      | 2/2           |      |                              |                       |
 | Anthurium andreanum        | Amelia    | 2/2           | 5    |                              |                       |
 | Hedera Helix               | Henry     |               |      |                              |                       |
