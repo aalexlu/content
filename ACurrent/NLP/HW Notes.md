@@ -32,3 +32,12 @@ https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedf
 		- As the current focus of attention when being compared to all of the other query preceding inputs. We’ll refer to this role as a **query**.
 		- In its role as a preceding input being compared to the current focus of attention. We’ll refer to this role as a **key**
 		- And finally, as a value used to compute the output for the current focus of attention.
+	- **Transformer blocks**
+		- The self-attention calculation lies at the core of what’s called a transformer block, which, in addition to the self-attention layer, includes additional feedforward layers, residual connections, and normalizing layers.
+	- **Multi-head attention layer**
+		- The different words in a sentence can relate to each other in many different ways simultaneously. For example, distinct syntactic, semantic, and discourse relationships can hold between verbs and their arguments in a sentence. It would be difficult for a single transformer block to learn to capture all of the different kinds of parallel relations among its inputs. Transformers address this issue with multihead self-attention layers. These are sets of self-attention layers, called heads, that reside in parallel layers at the same depth in a model, each with its own set of parameters.
+	- Modeling word order: **positional embeddings**
+		- Transformers don't have notions of position unlike how it's built in for RNNs
+			- One simple solution is to modify the input embeddings by combining them with positional embeddings specific to each position in an input sequence.
+		- As with word embeddings, these positional embeddings are learned along with other parameters during training
+		- 
