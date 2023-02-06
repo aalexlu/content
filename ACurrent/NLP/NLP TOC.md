@@ -4,3 +4,4 @@
 [[4 Text Classification 2 - MLP and CNN]]
 
 [[Ideas]]
+[[HW Notes]]
