@@ -20,9 +20,15 @@ many attention blocks stacked
 
 Residual layer adds the input of a layer to the output of a layer to preserve what went into it
 
-
-
 ---
+
+## Modern NLP is driven by annotated data
+- Penn Treebank; morphosyntactic annotations of WSJ
+- OntoNotes; syntax, predicate-argument structure, word sense, coreference
+- FrameNet: frame-semantic lexical/annotations
+- MPQA: opinion/sentiment
+- SQuAD: annotated questions + spans of answers in Wikipedia
+	- in most cases, the data we have is the product of **human judgements**
 
 
 
