@@ -72,8 +72,12 @@ Style as "attention to *others*"
 - Some of the challenges posed by our definition of "style" will also come up when we need to define and operationalize other social categories (age, class, ethnicity, gender)
 
 #### Responsive vs. initiative
-- When speakers tweak the way they speak according to their audience, contex, topic, it is *responsive*
-	- A *reaction* to a given 
+- When speakers tweak the way they speak according to their audience, context, topic, it is *responsive*
+	- A *reaction* to a given situation
+- Intraspeaker shifts can also be *initiative:* shifts initiated from within speakers themselves in an attempt to alter the existing situation
+	- e.g., when speakers shift their focus from immediately present audience to an absent person or persons with whom they wish to identify
+- Not audience design, but… speaker design
+	- the idea that speakers aren't just *reacting* and *calibrating* to their audience or to the formality of the context, but proactively expressing their identity in unfolding interactions
 
 ---
 
