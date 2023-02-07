@@ -59,7 +59,21 @@ Style as "attention to *others*"
 	- If audience design holds straightforwardly, we’d expect Foxy Boston to use fewer AAE variants with Beth and more AAE variants with Faye
 	- AAE (BE absent, Subject agreement absent – *She crazy. She think you don't care.*)
 - Findings (*-s* absence, by verb type and interview)
-- 
+	- Foxy Boston's raw range of variation was less than the two "extremes" of AAVE and WAVE
+	- Counter Bell, Foxy Boston showed more topic-based shifting than audience-based shifting
+		- more overt standard when talking about school, than about hookup culture
+	- Confounds...
+		- Maybe attunement based on **familiarity** rather than race of addressee (attention to speech could still be at play)
+			- Familiarity: Foxy and Faye knew each other for some time; Foxy and Beth met for first time at interview
+			- Beth's interview transcript half as short
+#### Audience design
+- Predictions are not always easily testable due to sheer amount of non-lingistic information (context) that could be relevant to any social interaction
+	- Presence of people nearby, specific interpersonal relations
+- Some of the challenges posed by our definition of "style" will also come up when we need to define and operationalize other social categories (age, class, ethnicity, gender)
+
+#### Responsive vs. initiative
+- When speakers tweak the way they speak according to their audience, contex, topic, it is *responsive*
+	- A *reaction* to a given 
 
 ---
 
