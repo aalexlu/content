@@ -49,7 +49,17 @@ Style as "attention to *others*"
 	- 
 2. Does audience design explanation "buy us anything" over the *attention to speeech* explanation for (r) stratification?
 3. Are there other variables that, if they are involved in style shifting, would more clearly illustrate *audience design* than *attention to speech*?
+	- slang associated with your generation
 	- bilingualism, not necessarily attention
+
+#### The Foxy Boston study
+- most serious test of Bell's *audience design* paradigm
+- Foxy Boston, an African-American teenager interviewed over several years
+	- Beth, a white interviewer, and Faye, a black interviewer
+	- If audience design holds straightforwardly, we’d expect Foxy Boston to use fewer AAE variants with Beth and more AAE variants with Faye
+	- AAE (BE absent, Subject agreement absent – *She crazy. She think you don't care.*)
+- Findings (*-s* absence, by verb type and interview)
+- 
 
 ---
 
