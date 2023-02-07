@@ -41,7 +41,15 @@ Style as "attention to *others*"
 	1. A teacher scolding a student for teasing his or her classmate (student addressee, other student auditor, everyone else overhearer or auditor)
 2. Two friends gossiping at a campus cafe (friend addressee, overhearers, eavesdroppers)
 3. A politician answering a moderator’s question at a debate  
-4. A politician practicing a campaign speech with staff members ()
+4. A politician practicing a campaign speech with staff members (maybe direct auditors which are campaign staff, real audience later)
+
+#### Discussion
+1. How can we account for the style stratification of (r) in Labov's NYC study in the framework of audience design?
+	- For the casual style, the addressee was often someone who was not the interviewer
+	- 
+2. Does audience design explanation "buy us anything" over the *attention to speeech* explanation for (r) stratification?
+3. Are there other variables that, if they are involved in style shifting, would more clearly illustrate *audience design* than *attention to speech*?
+	- bilingualism, not necessarily attention
 
 ---
 
