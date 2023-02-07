@@ -34,6 +34,8 @@ Residual layer adds the input of a layer to the output of a layer to preserve wh
 	- Sentiment?
 - Ambiguity
 
+---
+
 ## Annotation guidelines
 Our goal: given the constraints of our problem, how can we formalize our description of the annotation process to encourage multiple annotators to provide the same judgment?
 - What is the goal of the project?
@@ -41,7 +43,14 @@ Our goal: given the constraints of our problem, how can we formalize our descrip
 - What parts of the text do you want annotated, and what should be left alone?
 - How will the annotation be created? (For example, explain which tags or documents to annotate first, how to use the annotation tools, etc.)
 Why not do it alone?
+- Expensive/time-consuming, multiple people provide consistency, low agreement = not enough training, guideliens not well enough defined
+Adjudication
+- **Adjudication** is the process of deciding on a single annotation for a piece of text, using information about the *independent annotations*
 
-
+#### Interannotator agreement
+**Cohen's kappa**: If classes are imbalanced, we can get high inter annotator agreement simply by chance
+- Expected probability of agreement is how often we would expect two annotators to agree assuming *independent* annotations.
+- pe (expected) = P(A=puppy, B=puppy) + P(A=chicken, B=chicken)
+- = P(A=puppy)P(B=puppy) + P(A=chicken)P(B=puppy)
 
 next:
