@@ -4,6 +4,7 @@
 [[4 Dialectology II - Mapping dialects, perceptual dialectology]]
 [[5 Variation and Variables in Sociolinguistics]]
 [[6 Variation and style - Concepts and methods]]
+[[7 Variation and style - Challenges to "attention" model, audience design]]
 
 ---
 
