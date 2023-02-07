@@ -50,7 +50,9 @@ Adjudication
 #### Interannotator agreement
 **Cohen's kappa**: If classes are imbalanced, we can get high inter annotator agreement simply by chance
 - Expected probability of agreement is how often we would expect two annotators to agree assuming *independent* annotations.
-- pe (expected) = P(A=puppy, B=puppy) + P(A=chicken, B=chicken)
-- = P(A=puppy)P(B=puppy) + P(A=chicken)P(B=puppy)
+- k = (po - pe) / (1 - pe)
+	- pe (expected) = P(A=puppy, B=puppy) + P(A=chicken, B=chicken)
+	- = P(A=puppy)P(B=puppy) + P(A=chicken)P(B=chicken)
+	- = 
 
 next:
