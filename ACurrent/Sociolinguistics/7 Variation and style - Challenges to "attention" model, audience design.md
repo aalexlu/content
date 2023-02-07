@@ -35,13 +35,13 @@ Style as "attention to *others*"
 
 "Audience" versus "addressee"
 - **addressee** = the person we're directly addressing
-- other potential listeners: **auditors, overhearers, eavesdroppers**
+- other potential listeners: **auditors** (active listener), **overhearers** (known), **eavesdroppers** (unknown)
 	- Influence: addressee > auditor > overhearer > eavesdropper
 - Examples
-	1. A teacher scolding a student for teasing his or her classmate  – Addressee
-2. Two friends gossiping at a campus cafe  
+	1. A teacher scolding a student for teasing his or her classmate (student addressee, other student auditor, everyone else overhearer or auditor)
+2. Two friends gossiping at a campus cafe (friend addressee, overhearers, eavesdroppers)
 3. A politician answering a moderator’s question at a debate  
-4. A politician practicing a campaign speech with staff members
+4. A politician practicing a campaign speech with staff members ()
 
 ---
 
