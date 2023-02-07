@@ -23,13 +23,24 @@ Residual layer adds the input of a layer to the output of a layer to preserve wh
 ---
 
 ## Modern NLP is driven by annotated data
-- Penn Treebank; morphosyntactic annotations of WSJ
-- OntoNotes; syntax, predicate-argument structure, word sense, coreference
-- FrameNet: frame-semantic lexical/annotations
-- MPQA: opinion/sentiment
-- SQuAD: annotated questions + spans of answers in Wikipedia
-	- in most cases, the data we have is the product of **human judgements**
+1. Penn Treebank; morphosyntactic annotations of WSJ
+2. OntoNotes; syntax, predicate-argument structure, word sense, coreference
+3. FrameNet: frame-semantic lexical/annotations
+4. MPQA: opinion/sentiment
+5. SQuAD: annotated questions + spans of answers in Wikipedia
+- In most cases, the data we have is the product of *human judgements*
+	- What's the correct part of speech tag?
+	- Syntactic structure?
+	- Sentiment?
+- Ambiguity
 
+## Annotation guidelines
+Our goal: given the constraints of our problem, how can we formalize our description of the annotation process to encourage multiple annotators to provide the same judgment?
+- What is the goal of the project?
+- What is each tag called and how is it used? (Be specific: provide examples, and discuss gray areas.)
+- What parts of the text do you want annotated, and what should be left alone?
+- How will the annotation be created? (For example, explain which tags or documents to annotate first, how to use the annotation tools, etc.)
+Why not do it alone?
 
 
 
