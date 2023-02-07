@@ -23,7 +23,7 @@
 | Language                          | "X-ish," a named variety spoken by the X people/ethnic group in X-land                                                                                                  |
 | Merger                            | words that merge phonetically                                                                                                                                           |
 | NORMs                             | **N**onmobile, **O**lder, **R**ural, **M**ale                                                                                                                           |
-| Performance                       | what people actually do / say                                                                                                                                           |
+| Performance                       | What people actually do / say                                                                                                                                           |
 | SLI                               | Standard Language Ideology (SLI)                                                                                                                                        |
 | Variable                          | A linguistic feature that varies; it can surface, or be realized, as two or more variants                                                                               |
 | Variation                         |                                                                                                                                                                         |
@@ -43,6 +43,7 @@
 | Overt prestige                    | The prestige associated with a variant that people are highly aware of and which is associated more with the speech of higher-status speakers                           |
 | Covert prestige                   | The prestige associated with a variant when speakers’ positive evaluation of that variant is covert or hidden                                                           |
 | Audience design                   | The idea that *intraspeaker variation* arises because speakers are paying attention to who they are addressing or who might be listening to or overhearing them         |
+| Addressee                         | The person we're directly addressing                                                                                                                                    |
 |                                   |                                                                                                                                                                         |
 
 

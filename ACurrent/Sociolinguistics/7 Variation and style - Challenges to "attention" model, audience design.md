@@ -32,7 +32,16 @@ Style as "attention to *others*"
 - *Audience design* makes a strong claim that style shifting (a type of *intraspeaker variation*) derives from differences associated with different audiences (a perception of *interspeaker variation*)
 	- Individuals can pick up on, and make use of, interspeaker variation within their own (intraspeaker) speech
 	- We might also predict that an individual speaker’s variation will be less extreme than interspeaker variation, since the former comes from the latter
-	- 
+
+"Audience" versus "addressee"
+- **addressee** = the person we're directly addressing
+- other potential listeners: **auditors, overhearers, eavesdroppers**
+	- Influence: addressee > auditor > overhearer > eavesdropper
+- Examples
+	1. A teacher scolding a student for teasing his or her classmate  – Addressee
+2. Two friends gossiping at a campus cafe  
+3. A politician answering a moderator’s question at a debate  
+4. A politician practicing a campaign speech with staff members
 
 ---
 
