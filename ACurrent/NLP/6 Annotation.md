@@ -64,20 +64,19 @@ k = 0
 | 0   | 0   |
 | --- | --- |
 | 0   | 100 |
-
 k = (1-0.5) / (1-0.5)
 | 0   | 0   |
 | --- | --- |
 | 0   | 100 | 
-
 k = -1 (pe = 0.5)
 | 0   | 50  |
 | --- | --- |
 | 50  | 0   |
 
 **Fleiss' kappa** generalizes to *multiple* annotators, each of whom may evaluate *different* items (e.g., crowdsourcing)
-
-
+- Same fundamental idea of measuring the observed agreement compared to agreement we would expect by chance
+- With n > 2, we calculate agreement among *pairs* of annotators
+- 
 
 
 next:
