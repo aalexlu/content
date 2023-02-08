@@ -46,8 +46,15 @@ Why not do it alone?
 - Expensive/time-consuming, multiple people provide consistency, low agreement = not enough training, guideliens not well enough defined
 Adjudication
 - **Adjudication** is the process of deciding on a single annotation for a piece of text, using information about the *independent annotations*
+#### Annotation project tips
+- Your annotation task must be one that requires *your human judgement* for the labels
+- You should manually be labeling your data, and not using algrotihmic processes to do so
+- Your labels should not be deterministic, but really require some human comprehension of the context
+- 500 documents as a group – view bcourses
 
-#### Interannotator agreement
+---
+
+## Interannotator agreement
 **Cohen's kappa**: If classes are imbalanced, we can get high inter annotator agreement simply by chance
 - Expected probability of agreement is how often we would expect two annotators to agree assuming *independent* annotations.
 - k = (po - pe) / (1 - pe)
@@ -82,6 +89,9 @@ Krippendorf's alpha
 - What about *real-valued* labels
 - How much do our *observed* labels for a document differ from what we'd *expect* given the ratings we see?
 	- when one annotator gives this label…how often do we see another with this label for that same item?
+
+
+
 
 
 next:
