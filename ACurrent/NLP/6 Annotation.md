@@ -57,6 +57,8 @@ Adjudication
 		- = 0.773
 	- k = 0.471
 - Very good agreement: 0.8-1.0; Good agreement: 0.6-0.8…
+- Cohen's kappa can be used for any number of classes
+	- Still requires *two* annotators who evaluate the same items
 
 k = 0
 | 0   | 0   |
@@ -68,7 +70,12 @@ k = (1-0.5) / (1-0.5)
 | --- | --- |
 | 0   | 100 | 
 
+k = -1 (pe = 0.5)
+| 0   | 50  |
+| --- | --- |
+| 50  | 0   |
 
+**Fleiss' kappa** generalizes to *multiple* annotators, each of whom may evaluate *different* items (e.g., crowdsourcing)
 
 
 
