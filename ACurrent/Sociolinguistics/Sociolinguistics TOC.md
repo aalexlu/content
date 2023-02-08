@@ -44,6 +44,7 @@
 | Covert prestige                   | The prestige associated with a variant when speakers’ positive evaluation of that variant is covert or hidden                                                           |
 | Audience design                   | The idea that *intraspeaker variation* arises because speakers are paying attention to who they are addressing or who might be listening to or overhearing them         |
 | Addressee                         | The person we're directly addressing                                                                                                                                    |
-|                                   |                                                                                                                                                                         |
+| Style shifting                    | Changing the way you speak based on context                                                                                                                             |
+| Attention to speech               | Labov's model                                                                                                                                                                        |
 
 

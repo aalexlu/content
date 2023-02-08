@@ -91,8 +91,13 @@ Overt prestige is associated with the speech of higher-status speakers and is ty
 	- style == register
 	- code-switching: between varieties or languages, only done when both participants share both varieties? "Code-switching and style-switching are similar but not quite the same. For example, code-switching usually refers to changing between two languages or dialects. Style-switching refers to changing your speech or writing based on gender, formality, and other surface-level variations."
 
+**Audience design**: adapting based on them listening to you, frrame your speech for them
+vs
+**Labov**: Attention to speech model
 
-
+#### Identifying variables and variants
+Variable the vowel /ɛ/ -> variants [ɛ] or [ɪ]
+envelope of variation: 
 
 
 
