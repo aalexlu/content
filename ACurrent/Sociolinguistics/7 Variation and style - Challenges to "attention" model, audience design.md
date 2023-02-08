@@ -85,9 +85,13 @@ Style as "attention to *others*"
 *February 8, 2023*
 
 Overt prestige is associated with the speech of higher-status speakers and is typically associated with the dominant social group. In relation to style effects, in situations requiring more formality, speakers may be more likely to use the language variety associated with overt prestige. On the other hand, covert prestige is associated with a variant when speakers’ positive evaluation of that variant is covert or hidden; this may be more apparent in informal conversations. Both types of prestige play a role in shaping style effects, as speakers will choose to speak differently depending on the context.
-- Variant carrie
+- Variant carries overt prestige if associated with higher-socioeconomic status (formality or standardness)
+- Covert prestige used to index membership in another group / toughness
+- Style shifting occurs based on the context, changing the way you speak – ties into audience design
+	- style == register
+	- code-switching: between varieties or languages, only done when both participants share both varieties? "Code-switching and style-switching are similar but not quite the same. For example, code-switching usually refers to changing between two languages or dialects. Style-switching refers to changing your speech or writing based on gender, formality, and other surface-level variations."
 
-Review short essay 1
+
 
 
 
