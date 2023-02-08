@@ -96,9 +96,17 @@ vs
 **Labov**: Attention to speech model
 
 #### Identifying variables and variants
+MUSE vs Southern English
 Variable the vowel /ɛ/ -> variants [ɛ] or [ɪ]
-envelope of variation: 
+envelope of variation: variation in front of a nasal consonant
 
+Prescriptivism: How people *should* use language
+Descriptivism: How people *do* use language
+
+**Nordic countries**
+- Swedish far back
+- Danish has frog in mouth (prescriptive) – maybe further back phonology like glottal
+- Lexical similarities, phonological differences but recognizable
 
 
 
