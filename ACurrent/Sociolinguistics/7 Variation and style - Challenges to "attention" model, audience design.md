@@ -104,10 +104,13 @@ Prescriptivism: How people *should* use language
 Descriptivism: How people *do* use language
 
 **Nordic countries**
-- Swedish far back
-- Danish has frog in mouth (prescriptive) – maybe further back phonology like glottal
+- *Norwegians* have easiest time understanding both but easier to understand Swedes
+- *Swedish* far back
+- *Danish* has frog in mouth (prescriptive) – maybe further back phonology like glottal
 - Lexical similarities, phonological differences but recognizable
+- Syntax possessive before vs after
 
+Serbia / Croatia
 
 
 
