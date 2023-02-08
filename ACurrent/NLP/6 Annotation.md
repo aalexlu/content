@@ -76,7 +76,12 @@ k = -1 (pe = 0.5)
 **Fleiss' kappa** generalizes to *multiple* annotators, each of whom may evaluate *different* items (e.g., crowdsourcing)
 - Same fundamental idea of measuring the observed agreement compared to agreement we would expect by chance
 - With n > 2, we calculate agreement among *pairs* of annotators
-- 
+
+Krippendorf's alpha
+- Kappa values still require categorical labels
+- What about *real-valued* labels
+- How much do our *observed* labels for a document differ from what we'd *expect* given the ratings we see?
+	- when one annotator gives this label…how often do we see another with this label for that same item?
 
 
 next:
