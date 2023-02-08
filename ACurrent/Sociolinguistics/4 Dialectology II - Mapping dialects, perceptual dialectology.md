@@ -3,9 +3,8 @@ previous: [[3 Dialectology I – Atlases, Dialect boundaries, data elicitation]]
 
 ---
 
-## Dialectology Overview
+## Discussion Section: Dialectology Overview
 *February 1, 2023*
-Discussion Section
 
 - Dialects + geography
 - In some ways a precursor to modern sociolinguistics
@@ -24,9 +23,6 @@ Georgetown speech accent (Mississippi)
 - vowel reduction
 - diphthongizaton
 - vowel raising / fronting
-
-
-
 
 ---
 

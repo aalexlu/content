@@ -82,6 +82,13 @@ Style as "attention to *others*"
 ---
 
 ## Discussion Section
+*February 8, 2023*
+
+Overt prestige is associated with the speech of higher-status speakers and is typically associated with the dominant social group. In relation to style effects, in situations requiring more formality, speakers may be more likely to use the language variety associated with overt prestige. On the other hand, covert prestige is associated with a variant when speakers’ positive evaluation of that variant is covert or hidden; this may be more apparent in informal conversations. Both types of prestige play a role in shaping style effects, as speakers will choose to speak differently depending on the context.
+- Variant carrie
+
+Review short essay 1
+
 
 
 
