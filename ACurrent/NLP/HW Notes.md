@@ -40,4 +40,6 @@ https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedf
 		- Transformers don't have notions of position unlike how it's built in for RNNs
 			- One simple solution is to modify the input embeddings by combining them with positional embeddings specific to each position in an input sequence.
 		- As with word embeddings, these positional embeddings are learned along with other parameters during training
-		- 
+
+Transformer Neural Networks - EXPLAINED! (Attention is all you need)
+https://www.youtube.com/watch?v=TQQlZhbC5ps
