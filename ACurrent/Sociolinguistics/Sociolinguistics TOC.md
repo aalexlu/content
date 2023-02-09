@@ -49,6 +49,8 @@
 | Attention to speech               | Labov's model                                                                                                                                                           |
 | Prescriptivism                    | How people *should* use language                                                                                                                                        |
 | Descriptivism                     | How people *do* use language                                                                                                                                            |
+| Synchronic variation              | Variation in any given moment                                                                                                                                           |
+| Diachronic variation              | Variation over time, i.e., language change                                                                                                                              |
 |                                   |                                                                                                                                                                         |
 
 
