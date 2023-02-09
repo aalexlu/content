@@ -22,6 +22,7 @@ Themes:
 	- Types – of real time (or longitudinal) studies
 		1. **Panel study**: a real-time study using the very same speakers interviewed multiple times of some period of time
 		2. **Trend study**: a real-time study using similar speakers (demographically similar; from the same community) recorded at different points in time
+
 - **Apparent time**: studying language in a single moment, but comparing people of different ages as a proxy of how the language has been changing
 	- Relies on important assumptions about how speakers behave over their lifetimes
 	- A way to model/simulate real time changes using *synchronic* data
@@ -36,10 +37,17 @@ Themes:
 		- Western Ontario has, as a speech community, changed from using "chesterfield" to using "couch"
 		- /aɪ/-monophthongization in Texas English
 			- Evidence of a change in progress?
-	- Support for Apparent time
-		- Guy Bailey
-		- Younger generations going back to using old forms
-		- 
+		- Support for Apparent time
+			- Guy Bailey
+			- Younger generations going back to using old forms
+		- Puerto Rican Spanish
+			- Canonical verbs 'Maria said' used more nny older people
+	- Testing the apparent time construct
+		- Labov’s research on Martha’s Vineyard found that young people who had positive associations with the island had higher rates of centralization (saying [nəɪt] rather than [naɪt] for night); maybe a change in progress?
+			- This was an apparent time result that couldn’t be compared directly to dialect surveys, since those didn’t consider the relative frequency of different pronunciations
+			- The best way to test the apparent time construct is with real time data
+
+
 
 ---
 
