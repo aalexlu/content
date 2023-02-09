@@ -56,6 +56,19 @@ Panel studies
 		- This was an apparent time result that couldn’t be compared directly to dialect surveys, since those didn’t consider the relative frequency of different pronunciations
 		- The best way to test the apparent time construct is with real time data
 
+#### Profiles of change
+- Generational change: the change when generations increasingly use an innovative variant (typically shown in apparent time studies)
+	- The montreal study of /r/ also showed **lifespan change**: change to a speaker's speech patterns after the critical period
+		- Known to be minimal for phonological variables though the lexicon is famously subject to such changing
+	- **Age-grading**: Another form of individual variation; when speakers (as a whole) favor one variant at some point in their life and another variant at another point
+		- Sometimes speakers increase then decrease their use of some variant; this may *look* like a community shift in the synchronic dimension, but it's actually *not* a case of language change in the community
+		- **Stable variation**: there are multiple variants, but no evidence that one is "taking over" the other in time
+			- (ing): the stigmatized alveolar variant is remarkably resilient, and exists alongside the standard variant [ɪn], [ɪŋ]
+			- "Th-stopping”: saying ting for thing or dis for this in many varieties of English; also stable
+		- Age-grading often gives rise to stable variants (though not all stable variants are examples of age-grading)
+		- Linguistic marketplace: certain linguistic forms are assigned symbolic value because of their association with middle class  
+(who also ensure it retains that value)
+standard variants pea
 
 
 ---

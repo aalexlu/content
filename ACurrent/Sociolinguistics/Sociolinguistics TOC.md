@@ -57,6 +57,10 @@
 | Panel Study                       | A real-time study using the very same speakers interviewed multiple times of some period of time                                                                        |
 | Trend Study                       | A real-time study using similar speakers (demographically similar; from the same community) recorded at different points in time                                        |
 | Apparent time construct           | A *construct* of sociolinguistics, because it relies on the assumption that apparent time is *analogous* to real time                                                   |
+| Generational change               | The change when generations increasingly use an innovative variant (typically shown in apparent time studies)                                                           |
+| Lifespan change                   | Change to a speaker's speech patterns after the critical period                                                                                                         |
+| Age-grading                       | Another form of individual variation; when speakers (as a whole) favor one variant at some point in their life and another variant at another point                     |
+| Stable variation                  | There are multiple variants, but no evidence that one is "taking over" the other in time                                                                                |
 |                                   |                                                                                                                                                                         |
 
 
