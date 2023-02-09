@@ -66,10 +66,9 @@ Panel studies
 			- (ing): the stigmatized alveolar variant is remarkably resilient, and exists alongside the standard variant [ɪn], [ɪŋ]
 			- "Th-stopping”: saying ting for thing or dis for this in many varieties of English; also stable
 		- Age-grading often gives rise to stable variants (though not all stable variants are examples of age-grading)
-		- Linguistic marketplace: certain linguistic forms are assigned symbolic value because of their association with middle class  
-(who also ensure it retains that value)
-standard variants pea
-
+		- **Linguistic marketplace**: certain linguistic forms are assigned symbolic value because of their association with middle class (who also ensure it retains that value)
+			- Standard variants tend to peak in 20s, when speaking standardly affords people better jobs or better success in jobs
+			- Retreat in middle age because they don't feel the pressure of the linguistic market as much, maybe not job hunting or retiring
 
 ---
 
