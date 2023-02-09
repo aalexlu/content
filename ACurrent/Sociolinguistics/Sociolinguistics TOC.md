@@ -51,6 +51,16 @@
 | Descriptivism                     | How people *do* use language                                                                                                                                            |
 | Synchronic variation              | Variation in any given moment                                                                                                                                           |
 | Diachronic variation              | Variation over time, i.e., language change                                                                                                                              |
+| Real time                         | Studying language use in year X, X + 50, X = 100, etc.                                                                                                                  |
+| Apparent time                     | Studying language in a single moment, but comparing people of different ages as a proxy of how the language has been changing                                           |
+| Corpus (Corpora)                  | A collection of speech or text, to study language change in real time                                                                                                   |
+| Panel Study                       | A real-time study using the very same speakers interviewed multiple times of some period of time                                                                        |
+| Trend Study                       | A real-time study using similar speakers (demographically similar; from the same community) recorded at different points in time                                        |
 |                                   |                                                                                                                                                                         |
+
+
+
+
+
 
 
