@@ -35,6 +35,11 @@ Themes:
 	- Example of apparent time inferences:
 		- Western Ontario has, as a speech community, changed from using "chesterfield" to using "couch"
 		- /aɪ/-monophthongization in Texas English
+			- Evidence of a change in progress?
+	- Support for Apparent time
+		- Guy Bailey
+		- Younger generations going back to using old forms
+		- 
 
 ---
 
