@@ -17,6 +17,9 @@ Machine translation
 - fidelity (to source text) how much meaning from the English is in the Italian
 - fluency (of the translation)
 Autocomplete is language modeling
+Speech recognition
+Dialogue generation (Q -> A)
+
 
 
 
