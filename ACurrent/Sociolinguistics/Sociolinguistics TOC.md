@@ -56,6 +56,7 @@
 | Corpus (Corpora)                  | A collection of speech or text, to study language change in real time                                                                                                   |
 | Panel Study                       | A real-time study using the very same speakers interviewed multiple times of some period of time                                                                        |
 | Trend Study                       | A real-time study using similar speakers (demographically similar; from the same community) recorded at different points in time                                        |
+| Apparent time construct           | A *construct* of sociolinguistics, because it relies on the assumption that apparent time is *analogous* to real time                                                   |
 |                                   |                                                                                                                                                                         |
 
 

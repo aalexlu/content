@@ -14,7 +14,7 @@ Themes:
 - How do sociolinguists thing about *time*?
 	- What are the available methods? pros and cons? assumptions behind those methods?
 
-Real time vs. apparent time
+#### Real time vs. apparent time
 - **Real time**: studying language use in year X, X + 50, X = 100, etc.
 	- generally better, more reliable; much harder to obtain!
 	- **real time study** compares speech at two points in time
@@ -26,10 +26,15 @@ Real time vs. apparent time
 	- Relies on important assumptions about how speakers behave over their lifetimes
 	- A way to model/simulate real time changes using *synchronic* data
 	- Much more common in sociolinguistics than real time studyies; single person/team can feasibly collect all the interview data, over a relatively short period of time
-	- A construct of sociolinguistics, because it relies on the  
-assumption that apparent time is analogous to real time
-
-
+	- **Apparent time construct**: A *construct* of sociolinguistics, because it relies on the assumption that apparent time is *analogous* to real time (all a theory/hypothesis based on assumption)
+		- Apparent time can only be a proxy for real time if we assume the **critical period** of language acquisition
+			- We acquire our native language(s) over a period of time (childhood until early teens), which has an endpoint
+			- After this endpoint our language is relatively fixed and stable
+		- The speech of a 75-year-old thus reflects the speech that would have been acquired about 70-ish years ago; this is a *snapshot* of a historical period of time in the community’s language
+			- If younger people are behaving differently it’s because the community’s language has undergone change
+	- Example of apparent time inferences:
+		- Western Ontario has, as a speech community, changed from using "chesterfield" to using "couch"
+		- /aɪ/-monophthongization in Texas English
 
 ---
 
