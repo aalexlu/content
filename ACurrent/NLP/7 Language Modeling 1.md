@@ -35,7 +35,8 @@ Language modeling is the task of estimating **P(w)**
 	- Need the probability of one word to get the probability of the next
 	- bigram model (first-order markov)
 	- trigram model (second-order markov) – relies on previous two words
-	- 
+- Estimation
+- Generating: As we samp
 
 
 
