@@ -37,7 +37,7 @@ Language modeling is the task of estimating **P(w)**
 	- trigram model (second-order markov) – relies on previous two words
 - Estimation
 - Generating: As we sample, the words we generate form the new context we condition on - sample until STOP symbol
-	- Unigram model; bigram model (pairs make sense but not quite); trigram model (better)
+	- Unigram model < bigram model (pairs make sense but not quite) < trigram model (better)
 	- none are global
 
 #### Evaluation
@@ -45,12 +45,20 @@ Language modeling is the task of estimating **P(w)**
 - Speech recognition (word error rate), machine translation (BLEU score), topic models (sensemaking)
 - A good language model should judge *unseen real language* to have high probability
 - **Perplexity** = inverse probability of test data, averaged by word.
+	- want it to be lower
+	- 
 - To be reliable, the test data must by truly unseen (including knowledge of its vocabulary)
 
+Interpolation
+- As ngram order rises, we have the potential for higher *precision* but also higher *variability* in our estimates.
+- A linear interpolation of any two language models p and q (with lambda ∈ [0,1]) is also a valid language model.
+- We can use this fact to make higher-order language models more *robust*
 
 ---
 
 
 
 
-next:
+
+
+next: [[8 Language Modeling 2]]
