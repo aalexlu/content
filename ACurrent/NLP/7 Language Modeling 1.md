@@ -56,7 +56,13 @@ Interpolation
 
 ---
 
+#### Multi-class Logistic Regression
 
+Smoothing can combine second and first-order markov in one
+
+Tradeoffs
+- Richer representations than just markov assumptions; more parameters, higher likelihood of overfitting
+- Much
 
 
 
