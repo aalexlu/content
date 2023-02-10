@@ -9,7 +9,7 @@ Building models that can tell us things in NLP
 - Vocabulary *V* is a finite set of discrete sybols (words, characters); V = | *V* |
 - *V+* is the infinite set of sequences of symbols from *V*; each sequence ends with STOP
 - x ∈ *V+* (a given sentence)
-- P(w) = P(w1, …, wn)
+- **P(w)** = P(w1, …, wn)
 	- P("Call me Ishmail") = P(w1 = “call”, w2 = “me”, w3 = “Ishmael”) x P(STOP)
 
 
@@ -29,8 +29,13 @@ Start with an X, come out with a Y
 | MT  | target text     | source text   |
 | OCR | pixel densities | transcription |
 
-
-
+Language modeling is the task of estimating **P(w)**
+- Chain rule of probability
+- Markov assumption
+	- Need the probability of one word to get the probability of the next
+	- bigram model (first-order markov)
+	- trigram model (second-order markov) – relies on previous two words
+	- 
 
 
 
