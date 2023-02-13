@@ -2,6 +2,7 @@
 ## HW1
 
 
+---
 
 ## HW2
 
@@ -43,3 +44,20 @@ https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedf
 
 Transformer Neural Networks - EXPLAINED! (Attention is all you need)
 https://www.youtube.com/watch?v=TQQlZhbC5ps
+
+---
+
+## HW3
+#### Part 1: Making approach for transformer-based language models
+_masking_: preventing a model from seeing specific tokens in the input during training
+BERT training relies on _masked language modeling_: masking a random set of input tokens in a sequence and attempting to predict them
+- BERT is _bidirectional_, so that it can use all of the other non-masked tokens in a sentence to make that prediction
+The GPT class of models acts as a traditional left-to-right language model (causal LM)
+- also uses self-attention based transformers
+- but word w at position i (wi) only has access to info about w1, … ,wi-1
+
+
+
+in the masks we will consider below, 1 denotes that a position should be hidden; 0 denotes that it should be visible
+
+#### Part 2: Perplexity and implementing pseudo-perplexity for BERT

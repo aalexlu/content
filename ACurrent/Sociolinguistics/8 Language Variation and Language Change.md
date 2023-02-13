@@ -75,6 +75,8 @@ Panel studies
 Discussion Section Question 4
 In what ways is your speech different from your parents' speech (or that of other older people you know)? Are there particular features that you associate with "sounding older"?
 
+
+
 Can you think of any ways that your language has changed over your lifespan? For example, are there ways of speaking or features that you have picked up since starting college?
 
 
