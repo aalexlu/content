@@ -35,7 +35,7 @@ Panel studies
 **Apparent time**: studying language in a single moment, but comparing people of different ages as a proxy of how the language has been changing
 - Relies on important assumptions about how speakers behave over their lifetimes
 - A way to model/simulate real time changes using *synchronic* data
-- Much more common in sociolinguistics than real time studyies; single person/team can feasibly collect all the interview data, over a relatively short period of time
+- Much more common in sociolinguistics than real time studies; single person/team can feasibly collect all the interview data, over a relatively short period of time
 - **Apparent time construct**: A *construct* of sociolinguistics, because it relies on the assumption that apparent time is *analogous* to real time (all a theory/hypothesis based on assumption)
 	- Apparent time can only be a proxy for real time if we assume the **critical period** of language acquisition
 		- We acquire our native language(s) over a period of time (childhood until early teens), which has an endpoint
@@ -75,11 +75,12 @@ Panel studies
 Discussion Section Question 4
 In what ways is your speech different from your parents' speech (or that of other older people you know)? Are there particular features that you associate with "sounding older"?
 
+slower
 
 
 Can you think of any ways that your language has changed over your lifespan? For example, are there ways of speaking or features that you have picked up since starting college?
 
-
-
+less ums
+lexical differences
 
 next:
