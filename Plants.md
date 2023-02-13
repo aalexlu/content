@@ -6,7 +6,7 @@
 
 | Plant                      | Name      | Last Watering | Freq | Soil Mix                     | Notes                 |
 | -------------------------- | --------- | ------------- | ---- | ---------------------------- | --------------------- |
-| Alocasia Frydek            | Freda     | 2/1           |      | Regular                      |                       |
+| Alocasia Frydek            | Freda     | 2/12          | 10   | Regular                      |                       |
 | Alocasia Polly             | Polly     | 2/2           |      | Aerated regular              |                       |
 | Macodes Petola             | Jules     | 2/1           |      |                              |                       |
 | Monstera Adansonii         | Gus       | 2/6           |      |                              |                       |
@@ -23,8 +23,8 @@
 | Syngonium Batik            | Bailey    | 2/6           |      |                              |                       |
 | Calathea Makoyana          | Mako      | 2/6           |      |                              |                       |
 | Calathea Lancifolia        | Lucy      | 2/2           |      |                              |                       |
-| Anthurium andreanum        | Amelia    | 2/2           | 5    |                              |                       |
-| Hedera Helix               | Henry     |               |      |                              |                       |
+| Anthurium andreanum        | Amelia    | 2/12          | 7    |                              |                       |
+| Hedera Helix               | Henry     | 2/12          |      |                              |                       |
 | Dracaena Marginata         | Drake     | 2/6           |      |                              |                       |
 |                            |           |               |      |                              |                       |
 

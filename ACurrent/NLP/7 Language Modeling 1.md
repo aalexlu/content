@@ -13,13 +13,12 @@ Building models that can tell us things in NLP
 	- P("Call me Ishmail") = P(w1 = “call”, w2 = “me”, w3 = “Ishmael”) x P(STOP)
 
 
-Optical Character Recognition (OCR) – picture of text, what do the characters / pixels look like
-Machine translation (MT)
-- fidelity (to source text) how much meaning from the English is in the Italian
-- fluency (of the translation)
-Autocomplete is language modeling
-Speech recognition
-Dialogue generation (Q -> A)
+1. Optical Character Recognition (OCR) – picture of text, what do the characters / pixels look like
+2. Machine translation (MT)
+	- fidelity (to source text) how much meaning from the English is in the Italian
+	- fluency (of the translation)
+3. Speech recognition
+4. Dialogue generation (Q -> A)
 
 Start with an X, come out with a Y
 - Given X, give me the probability of Y, so I can pick which Y has the highest probability of being my best guess
@@ -29,7 +28,7 @@ Start with an X, come out with a Y
 | MT  | target text     | source text   |
 | OCR | pixel densities | transcription |
 
-Language modeling is the task of estimating **P(w)**
+#### Language modeling is the task of estimating P(w)
 - Chain rule of probability
 - Markov assumption
 	- Need the probability of one word to get the probability of the next
@@ -65,6 +64,20 @@ Tradeoffs
 - Much
 
 
+---
+
+## Why?
+
+- Language models give us an estimate for the probability of a sequence, which is directly useful for applications that are deciding between different sentences as viable outputs:
+	- Machine translation
+	- Speech recognition
+	- OCR
+	- Dialogue agents
+- Language models directly allow us to predict the next word in a sequence (useful for *autocomplete*)
+- Language models can directly encode knowledge present in the training corpus
+- Language modeling turns out to be a good proxy task for learning about linguistic structure
+	- See contextual word embeddings (BERT)
+- 
 
 
 next: [[8 Language Modeling 2]]
