@@ -5,7 +5,7 @@
 [[5 Text Classification 3 - Attention and transformers]]
 [[6 Annotation]]
 [[7 Language Modeling 1]]
-[[8 Language Modeling 2]]
+[[8 Language Modeling 2 - Contextual embeddings]]
 
 [[Ideas]]
 [[HW Notes]]

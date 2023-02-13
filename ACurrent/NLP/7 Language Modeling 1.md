@@ -12,11 +12,10 @@ Building models that can tell us things in NLP
 - **P(w)** = P(w1, …, wn)
 	- P("Call me Ishmail") = P(w1 = “call”, w2 = “me”, w3 = “Ishmael”) x P(STOP)
 
-
 1. Optical Character Recognition (OCR) – picture of text, what do the characters / pixels look like
 2. Machine translation (MT)
-	- fidelity (to source text) how much meaning from the English is in the Italian
-	- fluency (of the translation)
+	- **fidelity** (to source text) how much meaning from the English is in the Italian
+	- **fluency** (of the translation)
 3. Speech recognition
 4. Dialogue generation (Q -> A)
 
@@ -28,6 +27,7 @@ Start with an X, come out with a Y
 | MT  | target text     | source text   |
 | OCR | pixel densities | transcription |
 
+**The fundamental task:**
 #### Language modeling is the task of estimating P(w)
 - Chain rule of probability
 - Markov assumption
@@ -56,7 +56,7 @@ Interpolation
 ---
 
 #### Multi-class Logistic Regression
-
+We can use multiclass logistic regression for alnguage modeling by treating the vocab as the output space
 Smoothing can combine second and first-order markov in one
 
 Tradeoffs
@@ -80,4 +80,4 @@ Tradeoffs
 - 
 
 
-next: [[8 Language Modeling 2]]
+next: [[8 Language Modeling 2 - Contextual embeddings]]
