@@ -75,10 +75,12 @@ Panel studies
 Discussion Section Question 4
 In what ways is your speech different from your parents' speech (or that of other older people you know)? Are there particular features that you associate with "sounding older"?
 
-slower
+My parents speak with a Chinese American accent, and often mix up gender pronouns, so in that sense, my speech is different from my parents'. Otherwise, I associate people who speak slowly and use more compound sentence structures as sounding older. 
 
 
 Can you think of any ways that your language has changed over your lifespan? For example, are there ways of speaking or features that you have picked up since starting college?
+
+One way of speaking since I've started college is using less vocal fry. I actually began to notice it in my speech after Ling100 Freshman year and began doing it less by default after. Also, I now use less "um"'s in everyday speech compared to when I was younger. 
 
 less ums
 lexical differences
