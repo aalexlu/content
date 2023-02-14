@@ -55,9 +55,10 @@ Panel studies
 	- Labov’s research on Martha’s Vineyard found that young people who had positive associations with the island had higher rates of centralization (saying [nəɪt] rather than [naɪt] for night); maybe a change in progress?
 		- This was an apparent time result that couldn’t be compared directly to dialect surveys, since those didn’t consider the relative frequency of different pronunciations
 		- The best way to test the apparent time construct is with real time data
+- **Aging deficits**: impairments in hearing and recall can affect older speakers’ language use; but aging can also mean more narrative skill and increased vocabulary size
 
 #### Profiles of change
-- Generational change: the change when generations increasingly use an innovative variant (typically shown in apparent time studies)
+- **Generational change**: the change when generations increasingly use an innovative variant (typically shown in apparent time studies)
 	- The montreal study of /r/ also showed **lifespan change**: change to a speaker's speech patterns after the critical period
 		- Known to be minimal for phonological variables though the lexicon is famously subject to such changing
 	- **Age-grading**: Another form of individual variation; when speakers (as a whole) favor one variant at some point in their life and another variant at another point
@@ -69,6 +70,15 @@ Panel studies
 		- **Linguistic marketplace**: certain linguistic forms are assigned symbolic value because of their association with middle class (who also ensure it retains that value)
 			- Standard variants tend to peak in 20s, when speaking standardly affords people better jobs or better success in jobs
 			- Retreat in middle age because they don't feel the pressure of the linguistic market as much, maybe not job hunting or retiring
+- **Community-wide change**: when an entire community switches to the use of a new variant
+	- Possibility, but pretty rare…
+	- Taboo: an elder named Rose dies, and so people stop referring to flowers as “roses”
+
+#### Types of change
+- Does it affect the individaul, community, or both?
+- Does it happen gradually or abruptly?
+
+#### Summary slide
 
 ---
 

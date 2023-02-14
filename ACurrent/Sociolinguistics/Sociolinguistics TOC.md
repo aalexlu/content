@@ -62,7 +62,8 @@
 | Lifespan change                   | Change to a speaker's speech patterns after the critical period                                                                                                         |
 | Age-grading                       | Another form of individual variation; when speakers (as a whole) favor one variant at some point in their life and another variant at another point                     |
 | Stable variation                  | There are multiple variants, but no evidence that one is "taking over" the other in time                                                                                |
-| Linguistic marketplace            | Certain linguistic forms are assigned symbolic value because of their association with middle class (who also ensure it retains that value)                            |
+| Linguistic marketplace            | Certain linguistic forms are assigned symbolic value because of their association with middle class (who also ensure it retains that value)                             |
+| Community-wide change             | When an entire community switches to the use of a  new variant                                                                                                          |
 |                                   |                                                                                                                                                                         |
 
 
