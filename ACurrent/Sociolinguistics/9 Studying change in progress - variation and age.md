@@ -43,7 +43,22 @@ previous: [[8 Language Variation and Language Change]]
 - **AQI**: the use of “questioning intonation” in non-questioning contexts
 	- Rather than question the proposition (the information), the speaker is questioning whether they are being understood (a “metapropositional” question, while making declarative statements)
 	- A request for verification; how do we know this though? – responded to be (mhm, eye contact, nods)
-	- 
+	- As a sociolinguistic variable?
+		- The intonation is clearly *meaningful*, unlike other variables we’ve seen
+		- Authors conclude that this is *not a sociolinguistic variable*; but it can still be studied quantitatively as long as one can identify an envelope of variation
+- Studying change in progress: If there’s a change in progress (an increase in AQI over time), there should be social evidence
+	- The best kind: *age stratification* (young people use the new variant more than old people)
+		- Age stratification is necessary for a change in progress, but not sufficient; so we need more evidence – because of age-grading
+	- *Social class information*: We should find a curvilinear pattern (new variant being used mroe by upper working and lower middle classes, less by the highest and lowest groups on social scale)
+	- *Sex*: Women are often in the vanguard of linguistic change; they may use the new variant > men
+- Methods of paper
+- Social distribution
+	- AGE: Teenagers use AQI at 2.29%; most AQI at 15-19 yrs then decreases in adult years
+		- Adolescent peak at age 17
+		- Younger kids 11-14 yrs more under the influence of parents; not fully formed
+	- CLASS: See what we expect
+	- ETHNICITY/SEX
+
 
 ---
 
