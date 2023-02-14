@@ -10,8 +10,13 @@ BERT is transformer applied to language modeling
 
 When we have choices to make about different ways to say something, a language model gives us a formal way of operationalizing their flluency (in terms of how likely they are to exist in the language)
 
+
+Neural LM (Language Model)
+- input x = Simple feed-forward multilayer perceptron (e.g., one hidden layer)
+
 ---
 
+incomplete
 
 
 
