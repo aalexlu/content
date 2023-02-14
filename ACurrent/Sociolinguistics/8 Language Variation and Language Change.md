@@ -65,7 +65,7 @@ Panel studies
 		- **Stable variation**: there are multiple variants, but no evidence that one is "taking over" the other in time
 			- (ing): the stigmatized alveolar variant is remarkably resilient, and exists alongside the standard variant [ɪn], [ɪŋ]
 			- "Th-stopping”: saying ting for thing or dis for this in many varieties of English; also stable
-		- Age-grading often gives rise to stable variants (though not all stable variants are examples of age-grading)
+		- Age-grading often gives rise to *stable variants* (though not all stable variants are examples of age-grading)
 		- **Linguistic marketplace**: certain linguistic forms are assigned symbolic value because of their association with middle class (who also ensure it retains that value)
 			- Standard variants tend to peak in 20s, when speaking standardly affords people better jobs or better success in jobs
 			- Retreat in middle age because they don't feel the pressure of the linguistic market as much, maybe not job hunting or retiring
@@ -82,7 +82,8 @@ Can you think of any ways that your language has changed over your lifespan? For
 
 One way of speaking since I've started college is using less vocal fry. I actually began to notice it in my speech after Ling100 Freshman year and began doing it less by default after. Also, I now use less "um"'s in everyday speech compared to when I was younger. 
 
-less ums
-lexical differences
 
-next:
+
+
+
+next: [[9 Studying change in progress - variation and age]]
