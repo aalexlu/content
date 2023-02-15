@@ -62,6 +62,19 @@ previous: [[8 Language Variation and Language Change]]
 
 ---
 
+## Discussion Section
+*February 15, 2023*
+
+How is your speech different from your parents' speech?
+- Across age groups
+	- Filler words less with older generations?
+	- slang
+- Culturally
+- "pay a quarter for using like or hella, ending a sentence with at"
+	- lots of prescriptivism
+
+#### Language change
+
 
 
 

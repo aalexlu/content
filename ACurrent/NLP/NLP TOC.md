@@ -6,6 +6,8 @@
 [[6 Annotation]]
 [[7 Language Modeling 1]]
 [[8 Language Modeling 2 - Contextual embeddings]]
+[[9  Language Modeling 3 - Prompting methods and reinforcement learning from human feedback (RLHF)]]
+[[10  Sequence Labeling - POS tagging; HMM]]
 
 [[Ideas]]
 [[HW Notes]]
