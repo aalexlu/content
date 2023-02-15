@@ -65,6 +65,9 @@ previous: [[8 Language Variation and Language Change]]
 ## Discussion Section
 *February 15, 2023*
 
+View figures for practice:
+https://docs.google.com/presentation/d/10LY6EwnDvl2Zkt6DwGQmK9CXrrqlAoYcnWDKKx9APvg/edit#slide=id.g1897829a804_0_50
+
 How is your speech different from your parents' speech?
 - Across age groups
 	- Filler words less with older generations?
@@ -73,7 +76,32 @@ How is your speech different from your parents' speech?
 - "pay a quarter for using like or hella, ending a sentence with at"
 	- lots of prescriptivism
 
-#### Language change
+#### Real time vs. apparent time
+- Real time: requires period of time
+	- Difficult to execute, but more accurate
+- Apparent time
+	- Sample of people from differrent age groups
+	- Easier to execute and could be used to compare to information gathered from real time studies
+#### Trend studies and panel studies
+- Both real time studies
+- Panel: mult samples of the exact same speakers
+#### Lifespan change and age-grading
+- Lifespan change:
+	- mostly phonetic and phonological sometimes syntactical
+- Age-grading
+	- sometimes shows community wide shift, othertimes individual shift
+#### Stable variation
+- multiple variants, but none overpower the other
+- not generational change
+- age-grading can give rise to stable variation
+#### Relationship between synchronic variation and diachronic change
+- Synchronic: variation in any given moment
+	- doesn't always lead to diachronic change
+	- hella from Bay Area
+- Diachronic: variation over time
+	- always comes from synchronic variation
+	- Vowel raising in English
+
 
 
 
