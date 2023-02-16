@@ -41,8 +41,63 @@ Examples
 - A high school student mimics the voice of a character on a sitcom
 	- Both people watch the show; understand it together
 - A politician labels somebody an “enemy combatant” or a “terrorist”
-	- Index 
+	- Index their political views on some conflict
 - Bilingual children code-switch in the presence of a monolingual child
+	- Index you're not in our group/exclusion, or inclusion if switching into the monolingual language
+
+#### Orders of Indexicality
+- First-order indexicality: e.g., a Southern accent indexes having grown up in the South
+- Second-order indexicality: e.g., a Southern accent indexes being lazy  
+	- layer on top of each other
+
+- First-order: Japanese sentence-final particle wa used to affirm a feeling
+- Second-order: Japanese sentence-final particle wa is feminine
+
+- Language ideology lives at the intersection of orders of indexicality
+
+The social meaning of variation
+- The social meaning of variables/variants isn't fixed or precise; there may often exist a field or a constellation of ideologically related meanings
+	- *Indexical field*
+- Centralization of (ay) on Martha's Vineyard
+	- Associated with traditional industries (fishing), an affinity towards the island community
+	- Its “social meaning” or social significance: Local authenticity
+- Over time, the social meaning of variables has (implicitly) been understood to derive from more abstract demographic categories: sex, ethnicity, social class
+
+Sex and gender
+- Sociolinguists have long been interested in the correlates between language use and sex
+	- Speaker sex has been thought of in binary biological/physiological terms (M / F)
+	- Influenced by theory in other disciplines, we often think now of the relationship between language use and gender (social identity constructed/performed through social actions)
+- Gender is encoded in languages, to varying degrees
+	- Eynikl 'grandchild' in Yiddish is neutral, but English speakers can specify gender
+	- Kuzin/kuzine 'cousin' in Yiddish are gender-specific, but Engllish cousin is not
+		- *Grandson* and gendered pronouns like he are a **direct index** of gender; the semantic representation has a [+male] feature
+
+
+Indexing
+- In addition to direct indexing, there is indirect indexing, which is more common
+
+Men and women speaking different languages?
+
+Preferential gender differences
+- Linguistic features that are *exclusively* used by (or to refer to) one sex are rare
+	- **Preferential features** are more common (used more by speakers of a particular gender)
+	- Preferential features are constitutive of gender
+- Language features are indexical of gender
+	- They can be associated with speech acts, stances, and particular discourse activities, which are seen as associated with a particular gender
+	- These kinds of associations can make particular linguistic features “gendered”
+
+#### The "gendering" of linguistic forms
+- Ochs: Japanese sentence-final particles that show the speaker's attitude towards the proposition of a sentence
+	- *Ze* is considered "male" while *wa* is considered "female"; actually the association is probabilistic
+		- *Ze* is assertive so more men use
+- Tag questions in English ("…isn't it?")
+	- Tags that are supportive (vs. challenging) occur more in the speech of women
+
+
+
+
+---
+
 
 
 
