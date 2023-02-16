@@ -57,7 +57,26 @@ The GPT class of models acts as a traditional left-to-right language model (caus
 - but word w at position i (wi) only has access to info about w1, … ,wi-1
 
 
+in the masks
+- 1 denotes that a position should be hidden
+- 0 denotes that it should be visible
 
-in the masks we will consider below, 1 denotes that a position should be hidden; 0 denotes that it should be visible
+**Q1 BERT Mask**
+Create a mask that randomly masks token positions 2 and 7
+
+**Q2 Causal Mask**
+When making a prediction for the word wi at position i, it can only use information about words wi , . . . , wi−1 to do so
+All of the other tokens following position i − 1 must be *masked*
+
+**Q3 Input/outputs for causal language model**
+We provide the training structure for a left-to-right causal language model; all that is needed is the correct inputs (x) and outputs (y)
+
+Write a function that takes in a sequence of token ids [w1, . . . , wn] and segments it into 8-token chunks – e.g., x1 = [w1, . . . , w8], x2 = [w9, . . . , w16]
+
+For each xi , also create its corresponding yi
+- Each yi should also contain 8 values
+At token position i, when a model has access to [w1, . . . , wi ], which is the true yi for that position? Each element in y should be a word ID
+
+
 
 #### Part 2: Perplexity and implementing pseudo-perplexity for BERT
