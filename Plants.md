@@ -44,7 +44,8 @@
 | Plant                          | Name | Last Watering | Soil Mix | Notes |
 | ------------------------------ | ---- | ------------- | -------- | ----- |
 | Philodendron Verrucosum        |      |               |          |       |
-| Pothos Marble Queen or Manjula |      |               |          |       |
+| Pothos Manjula                 |      |               |          |       |
+| Philodendron Burl Marx Fantasy |      |               |          |       |
 |                                |      |               |          |       |
 
 

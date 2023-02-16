@@ -92,12 +92,32 @@ Preferential gender differences
 		- *Ze* is assertive so more men use
 - Tag questions in English ("…isn't it?")
 	- Tags that are supportive (vs. challenging) occur more in the speech of women
+- Sex-exclusive forms in Lakota?
+	- Sentence-final particles indicating **illocutionary force**: making a statement, making an order, asking a question
 
+#### Intervening variables
+- A correlation with a particular social category may mask some other attribute that is also associated with that category
+	- E.g., power
+- Differences in men’s and women’s social networks and jobs
+
+#### Performance of gender
+- An individual’s gender is something exercised: a speaker can conform to the social expectations associated with gender, or reject them, or other
+- **Gender performance**: gender doesn’t exist outside of the context of performed actions and ways of talking, which are defined by society as “gendered” in a particular way
+
+Local definitions of gender
+
+Variation and sexuality
+- One’s *gender* can intersect with one’s identification with other categories, like local identity, and have an effect on sociolinguistic variation
+- Same goes for *sexuality*
+	- Heath, a gay medical student
+	- longer stop release burst when talking to friends vs when talking to patients
 
 
 
 ---
 
+## Recap
+- The field of (variationist) sociolinguistics has developed from considering the impact of speaker sex, aggregated over many speakers, to the impact of gender, in localized, individualized interactions
 
 
 
