@@ -67,6 +67,14 @@
 | Community-wide change                   | When an entire community switches to the use of a  new variant                                                                                                          |
 | Retrograde change                       | A shift to greater use of conservative variant                                                                                                                          |
 | Australian Questioning Intonation (AQI) | “questioning intonation” in non-questioning contexts                                                                                                                    |
+| Sign                                    | The link between a concept (the "signified") and a sound pattern (the "signifier")                                                                                      |
+| Semiosis                                | The making of meaning through signs                                                                                                                                     |
+| Interpretant                            | "Tree" is a sign pointing to an actual tree; the interpretant is the effect or outcome between the relationship between sign and object                                 |
+| Icon                                    | A sign that refers to its object by mrans of sinilarity (photographs, sketches, diagrams); sound symbols (choo choo train)                                              |
+| Index                                   | A sign that refers to its object due to its connection with the individual object and with the senses or memory of the person for whom it serves as a sign              |
+| Symbol                                  | A sign that refers to its object due to a convention or habit                                                                                                           |
+| Referential indexicality                | Pronouns point to actors; deictics point to places and times; and their meaning shifts                                                                                  |
+| Non-referential indexicality            | Linguistic forms can also *point* to other apsects of social and cultural context (ex. in notes)                                                                        |
 |                                         |                                                                                                                                                                         |
 
 
