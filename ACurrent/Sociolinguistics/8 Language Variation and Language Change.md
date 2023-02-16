@@ -82,7 +82,7 @@ Panel studies
 
 ---
 
-Discussion Section Question 4
+### Discussion Section Question 4
 In what ways is your speech different from your parents' speech (or that of other older people you know)? Are there particular features that you associate with "sounding older"?
 
 My parents speak with a Chinese American accent, and often mix up gender pronouns, so in that sense, my speech is different from my parents'. Otherwise, I associate people who speak slowly and use more compound sentence structures as sounding older. 

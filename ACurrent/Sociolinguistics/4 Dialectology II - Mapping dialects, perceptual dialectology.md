@@ -73,7 +73,9 @@ in CA
 	- Californians participate in sounds change: fronting of (uw) and (ow) (=GOOSE and GOAT)
 
 Attendance: familiarity of (a) grip (of) meaning 'a lot of'
-Discussion question.
+
+
+### Discussion question 2
 
 
 next: [[5 Variation and Variables in Sociolinguistics]]

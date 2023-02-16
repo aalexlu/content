@@ -120,6 +120,16 @@ Variation and sexuality
 - The field of (variationist) sociolinguistics has developed from considering the impact of speaker sex, aggregated over many speakers, to the impact of gender, in localized, individualized interactions
 
 
+---
+
+### Discussion Question 5
+
+What information included in VanHerk Chapter 7 (Gender) did you find most interesting, compelling, or surprising? Why? 
+
+Some questions that you might consider to get you started: Do you think one theory is better than another for connecting language and the social practice of gender? Did you find that any of the research findings referenced in the chapter did not match your hypotheses? Do you have any questions about research on gender and language in sociolinguistics following your reading of this chapter?
+
+*
+
 
 
 next:
