@@ -15,7 +15,7 @@
 | Peperomia Obtusifolia      | Otis      | 2/1           |      | Regular                      |                       |
 | Philodendron Birkin        | Brooke    | 2/2           |      | Regular soil                 |                       |
 | Philodendron Brazil        | Phil      | 2/1           |      | Regular                      | Cut and prop          |
-| Philodendron Florida Green | Florence  | 1/29          |      | Mostly chunky                |                       |
+| Philodendron Florida Green | Florence  | 2/13          |      | Mostly chunky                |                       |
 | Philodendron Micans        | Micah     |               |      | Regular                      |                       |
 | Philodendron Silver Sword  | Sylvester | 1/29          |      | Regular inside, Chunky outer | Cut and prop for pole |
 | Pilea Peperomioides        | Piper     | 2/6           |      |                              |                       |
