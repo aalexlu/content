@@ -7,6 +7,7 @@
 [[7 Variation and style - Challenges to "attention" model, audience design]]
 [[8 Language Variation and Language Change]]
 [[9 Studying change in progress - variation and age]]
+[[10 Sociolinguistic variation, indexicality, and gender]]
 
 ---
 
