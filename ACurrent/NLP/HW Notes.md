@@ -81,7 +81,7 @@ In this model, as implemented, does the following equivalence hold?
 	𝑃(𝑦4∣𝑤1=go,𝑤2=ahead,𝑤3=make,𝑤4=my)=𝑃(𝑦4∣𝑤1=ahead,𝑤2=my,𝑤3=make,𝑤4=go)
 Why or why not?
 
-Since our language model satisfies the left-to-right causal property, and the probability of generating each token in the sequence only depends on the tokens that have been generated previously, the equivalence does hold. 𝑦4, the next word in the sequence that the language model is predicting, will be based on the same four previous words 𝑤1=go, 𝑤2=ahead, 𝑤3=make and 𝑤4=my, and the order does not affect the probability in our left-to-right causal language model.
+Since our language model is a left-to-right causal language model, the probability of generating each token in the sequence only depends on the tokens that have been generated previously. Therefore, the equivalence does hold, as 𝑦4, the next word being predicted in the sequence will be based on the same four previous words 𝑤1=go, 𝑤2=ahead, 𝑤3=make, and 𝑤4=my. In this type of model, the probability will be the same regardless of the order of the tokens in this model, as long as the tokens are the same.
 
 𝑃(𝑦4|𝑤1=go) * 𝑃(𝑦4|𝑤1=go,𝑤2=ahead) * 𝑃(𝑦4|𝑤1=go,𝑤2=ahead,𝑤3=make) * 𝑃(𝑦4𝑤1=go,𝑤2=ahead,𝑤3=make,𝑤4=my)
 will be equal to
@@ -117,3 +117,7 @@ To calculate *the probability of a word at position i* given all of the other wo
 3. Calculate the probability of the true word at the masked position and use that in the PP(W) equation
 	- e ^ ((1/N) x SUMMATION(−ln(P(wi|w1...wi−1,wi+1,...,wn)))
 	- 1.04856
+
+---
+
+## HW4
