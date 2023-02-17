@@ -92,12 +92,15 @@ will be equal to
 The **perplexity** of a language model (PP) on a test set is the inverse probability of the test set, normalized by the number of words
 - However, since these probabilities are often small, taking the inverse and multiplying can be numerically unstable, so we often first compute these values in the log domain and then convert back.
 
-BERT tokenizer tokenizes a sentence into a sequence of WordPiece ids. Note how BERT tokenization automatically wraps an input sentences with [CLS] and [SEP] tags
-
 **Q5 Pseudo-perplexity for BERT**
 The perplexity calculation above presumes a left-to-right causal language model
 To calculate *the probability of a word at position i* given all of the other words in the sentence
 1. we’ll mask that word from the input and run the entire sentence through BERT to predict the probability of that masked word
 2. do this for each word i in a sentence, one at a time
 
-BERT's `attention_mask` function only works for padding tokens; to mask input tokens, we need to intervene in the input andreplace a WordPiece token that we're predicting with a special [MASK] token (BERT tokenizer word id `103`).
+*Helpful code blocks:*
+1. BERT tokenizer tokenizes a sentence into a sequence of WordPiece ids. Note how BERT tokenization automatically wraps an input sentences with [CLS] and [SEP] tags
+2. How we can calculate output probabilities using this model. The output of each token position 𝑖 gives us 𝑃(𝑤𝑖∣𝑤1,…,𝑤𝑛)---the probability of the word at that position over our vocabulary, given _all_ of the words in the sentence
+3. BERT's `attention_mask` function only works for padding tokens; to mask input tokens, we need to intervene in the input andreplace a WordPiece token that we're predicting with a special [MASK] token (BERT tokenizer word id `103`).
+
+PSEUDO perplexity
