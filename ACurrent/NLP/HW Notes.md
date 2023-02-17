@@ -87,29 +87,45 @@ Simplest form of self-attention: scaled dot-product self-attention
 			- each token is represented as embedding of len *input_embedding_size
 		- key.shape = (5 x 37)
 			- **sent** (5, 2) x **Wq** (2, 37) = **key** (5, 37)
-- Softmax
-- 
+- **Softmax**: normalizes over a set of values 𝑥 = [𝑥1,…,𝑥𝑛] such that each 0≤𝑥𝑖≤1 and the sum of 𝑥 = 1
 
 …The mechanism of *self-attention lies at the core of transformer blocks*, which include the self-attention layer, but also additional feedforward layers, residual connections, and normalizing layers. ChatGPT correctly teaches us that it *takes in a sequence and evaluates each element in a weight-based manner*; at the core, the attention-based approach allows us to *compare an item of interest to other elements within a given sequence* in a way that *reveals its relevance in the current context* and helps us compute an output.
 
+#### Q4: Scaled dot-product attention in NumPy
+Attention, given a query vector Q, key vector K and value vector V
+- Attention(Q, K, V) = softmax ( (Qxtranspose(K)) / (sqrt(*query_key_size*) ) x V
+	- Q (5, 37) = input (5, 2) x Wq (2 x 37)
+	- K (5, 37) = …
+	- V (5, 2) = …
 
-- From SLP 10.1
-	- Self-attention allows a network to directly extract and use information from arbitrarily large contexts without the need to pass it through intermediate recurrent connections as in RNNs
-	- self-attention layer maps input sequences(x1,...,xn) to output sequences of the same length (y1,...,yn)
-	- the model has access to all of the inputs up to and including the one under consideration, but no access to information about inputs beyond the current one. In addition, the computation performed for each item is independent of all the other computations
-	- At the core of an attention-based approach is the ability to *compare* an item of interest to a collection of other items in a way that reveals their relevance in the current context. In the case of self-attention, the set of comparisons are to other elements within a given sequence. The result of these comparisons is then used to compute an output for the current input.
-	- Consider the three different roles that each input embedding plays during the course of the attention process.
-		- As the current focus of attention when being compared to all of the other query preceding inputs. We’ll refer to this role as a **query**.
-		- In its role as a preceding input being compared to the current focus of attention. We’ll refer to this role as a **key**
-		- And finally, as a value used to compute the output for the current focus of attention.
-	- **Transformer blocks**
-		- The self-attention calculation lies at the core of what’s called a transformer block, which, in addition to the self-attention layer, includes additional feedforward layers, residual connections, and normalizing layers.
-	- **Multi-head attention layer**
-		- The different words in a sentence can relate to each other in many different ways simultaneously. For example, distinct syntactic, semantic, and discourse relationships can hold between verbs and their arguments in a sentence. It would be difficult for a single transformer block to learn to capture all of the different kinds of parallel relations among its inputs. Transformers address this issue with multihead self-attention layers. These are sets of self-attention layers, called heads, that reside in parallel layers at the same depth in a model, each with its own set of parameters.
-	- Modeling word order: **positional embeddings**
-		- Transformers don't have notions of position unlike how it's built in for RNNs
-			- One simple solution is to modify the input embeddings by combining them with positional embeddings specific to each position in an input sequence.
-		- As with word embeddings, these positional embeddings are learned along with other parameters during training
+#### Q5: Scaled dot-product attention in PyTorch
+Embed attention within a *larger model*
+- 20 words represented by 100-dimensional embedding
+- **Input** (20, 100)  ->  **Output** (20, 100)
+	- **Average** (1, 100) of output embeddings to generate a final doc that’s a single 100-dim vector
+	- pass through a fully-connected dense layer to make a prediction
+- When used in a model, Wq, Wk, Wv are all trainable matrices
+	- **forward** 
+
+
+**From SLP 10.1**
+- Self-attention allows a network to directly extract and use information from arbitrarily large contexts without the need to pass it through intermediate recurrent connections as in RNNs
+- self-attention layer maps input sequences(x1,...,xn) to output sequences of the same length (y1,...,yn)
+- The model has access to all of the inputs up to and including the one under consideration, but no access to information about inputs beyond the current one. 
+	- The computation performed for each item is independent of all the other computations
+- At the core of an attention-based approach is the ability to *compare* an item of interest to a collection of other items in a way that reveals their relevance in the current context. In the case of self-attention, the set of comparisons are to other elements within a given sequence. The result of these comparisons is then used to compute an output for the current input.
+- Consider the three different roles that each input embedding plays during the course of the attention process.
+	- As the current focus of attention when being compared to all of the other query preceding inputs. We’ll refer to this role as a **query**.
+	- In its role as a preceding input being compared to the current focus of attention. We’ll refer to this role as a **key**
+	- And finally, as a **value** used to compute the output for the current focus of attention.
+- **Transformer blocks**
+	- The self-attention calculation lies at the core of what’s called a transformer block, which, in addition to the self-attention layer, includes additional feedforward layers, residual connections, and normalizing layers.
+- **Multi-head attention layer**
+	- The different words in a sentence can relate to each other in many different ways simultaneously. For example, distinct syntactic, semantic, and discourse relationships can hold between verbs and their arguments in a sentence. It would be difficult for a single transformer block to learn to capture all of the different kinds of parallel relations among its inputs. Transformers address this issue with multihead self-attention layers. These are sets of self-attention layers, called heads, that reside in parallel layers at the same depth in a model, each with its own set of parameters.
+- Modeling word order: **positional embeddings**
+	- Transformers don't have notions of position unlike how it's built in for RNNs
+		- One simple solution is to modify the input embeddings by combining them with positional embeddings specific to each position in an input sequence.
+	- As with word embeddings, these positional embeddings are learned along with other parameters during training
 
 Transformer Neural Networks - EXPLAINED! (Attention is all you need)
 https://www.youtube.com/watch?v=TQQlZhbC5ps
