@@ -93,19 +93,22 @@ Simplest form of self-attention: scaled dot-product self-attention
 
 #### Q4: Scaled dot-product attention in NumPy
 Attention, given a query vector Q, key vector K and value vector V
-- Attention(Q, K, V) = softmax ( (Qxtranspose(K)) / (sqrt(*query_key_size*) ) x V
+- **Attention(Q, K, V)** = softmax ( (Qxtranspose(K)) / (sqrt(*query_key_size*) ) x V
 	- Q (5, 37) = input (5, 2) x Wq (2 x 37)
 	- K (5, 37) = …
 	- V (5, 2) = …
 
 #### Q5: Scaled dot-product attention in PyTorch
 Embed attention within a *larger model*
-- 20 words represented by 100-dimensional embedding
+- Ex: 20 words represented by 100-dimensional embedding
 - **Input** (20, 100)  ->  **Output** (20, 100)
-	- **Average** (1, 100) of output embeddings to generate a final doc that’s a single 100-dim vector
-	- pass through a fully-connected dense layer to make a prediction
-- When used in a model, Wq, Wk, Wv are all trainable matrices
-	- **forward** 
+	- **Average of output embeddings** (1, 100) to generate a final document; a single 100-dim vector
+		- Fixed-length vector representation of a sentence or document
+	- pass through a fully-connected dense layer (feedforward layers) to make a prediction (pos/neg)
+- When used in a model, Wq, Wk, Wv are all trainable matrices; initialized as Linear layers that *transform the input tensor*
+	- **forward** creates Q, K, V
+	- Q, K vectors used to *calculate attention weights*
+	- V vector used to *weigh the scores*
 
 
 **From SLP 10.1**
