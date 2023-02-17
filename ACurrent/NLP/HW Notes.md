@@ -41,28 +41,58 @@ Averaged GloVe embeddings represent each movie review as the average of the word
 #### Q2 Feedforward neural network (FFNN)
 https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/
 Add a hidden layer to the logistic regression classifier
+- In the J&M terminology, a **“two-layer” network** has one hidden layer
 - Non-linearity *g*: tanh
+- Layer size
+	- **Input layer** size is usually determined by the number of input features in the dataset.
+		- Ex: if the dataset contains 10 features, the input layer will have 10 neurons.
+	- **Hidden layer** size set to be a fraction of the input layer size; between input and output size
+		- Here: hiddendim = 20
+	- **Output layer** size depends on number of output classes or regression values that the model needs to predict.
+		- Ex: if binary classification, output has 1 neuron
+		- Ex: if multi-class classification with 5 classes, output layer has 5 neurons
+**Implementation**
+- INPUT -> linear function -> non-linear tanh function -> linear function -> OUTPUT
 
-#### Linear function
+**Linear Function**
 - Logistic regression problems can represent linear functions well
-| Input              | Logits               | Softmax               | True Labels  |
-| ------------------ | -------------------- | --------------------- | ------------ |
-| x                  | y                    | g(y)                  | L            |
-| -> Linear Func     | -> Logistic Func     | -> Cross Entropy Func |              |
-| [10, 20, 100, 200] | [1.3, 1.2, 4.5, 4.8] | [0.1, 0.1, 0.4, 0.4]  | [0, 0, 1, 1] | 
+| INPUT -> Linear() -> | LOGITS -> Logistic() -> | SOFTMAX -> Cross-Entropy() -> | TRUE LABELS  |
+| -------------------- | ----------------------- | ----------------------------- | ------------ |
+| *1 layer NN*         |                         |                               |              |
+| x                    | y                       | g(y)                          | L            |
+| [10, 20, 100, 200]   | [1.3, 1.2, 4.5, 4.8]    | [0.1, 0.1, 0.4, 0.4]          | [0, 0, 1, 1] |
 
-#### Non-linear Function
+**Non-linear Function**
 -   Function: takes a number & perform mathematical operation
 -   Common Types of Non-linearity (pros and cons for each on website)
     -   ReLUs (Rectified Linear Units)
     -   Sigmoid
     -   Tanh
-- View image: https://www.deeplearningwizard.com/deep_learning/practical_pytorch/images/logistic_regression_comparison_nn5.png
-	- Hidden layer
+| INPUT -> Linear() -> | LOGITS -> **Non**-Linear() -> | NON-LINEAR OUTPUT -> Linear() -> | LOGITS -> Softmax() -> | SOFTMAX -> Cross-Entropy() -> | LABELS |
+| -------------------- | ----------------------------- | -------------------------------- | ---------------------- | ----------------------------- | ------ |
+| *input layer*        | *hidden layer*                | *hidden layer*                   | *readout layer*        | *readout layer*               |        |
 
-#### Self-attention
-- simplest form of self-attention: scaled dot-product self-attention
-	- query, key, and value vectors role in attending to the input sequence
+
+### Part 2: Self-attention basics
+#### Q3 The concept of self-attention
+Simplest form of self-attention: scaled dot-product self-attention
+- query, key, and value vectors role in attending to the input sequence
+- Wq, Wk, Wv
+	- if *query_key_size* = 37, *input_embedding_size* = 2
+		- Wq.shape = (2, 37)
+		- Wk.shape = (2, 37)
+		- Wv.shape = (2, 2)
+	- if 5-word sentence represented as **sent**; *input_sentence length* = 5; 
+		- sent.shape = (5, 2)
+			- each token is represented as embedding of len *input_embedding_size
+		- key.shape = (5 x 37)
+			- **sent** (5, 2) x **Wq** (2, 37) = **key** (5, 37)
+- Softmax
+- 
+
+…The mechanism of *self-attention lies at the core of transformer blocks*, which include the self-attention layer, but also additional feedforward layers, residual connections, and normalizing layers. ChatGPT correctly teaches us that it *takes in a sequence and evaluates each element in a weight-based manner*; at the core, the attention-based approach allows us to *compare an item of interest to other elements within a given sequence* in a way that *reveals its relevance in the current context* and helps us compute an output.
+
+
 - From SLP 10.1
 	- Self-attention allows a network to directly extract and use information from arbitrarily large contexts without the need to pass it through intermediate recurrent connections as in RNNs
 	- self-attention layer maps input sequences(x1,...,xn) to output sequences of the same length (y1,...,yn)
