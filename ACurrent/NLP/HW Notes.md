@@ -56,7 +56,6 @@ The GPT class of models acts as a traditional left-to-right language model (caus
 - also uses self-attention based transformers
 - but word w at position i (wi) only has access to info about w1, … ,wi-1
 
-
 in the masks
 - 1 denotes that a position should be hidden
 - 0 denotes that it should be visible
@@ -77,6 +76,28 @@ For each xi , also create its corresponding yi
 - Each yi should also contain 8 values
 At token position i, when a model has access to [w1, . . . , wi ], which is the true yi for that position? Each element in y should be a word ID
 
+**Q4 Write-up**
+In this model, as implemented, does the following equivalence hold?
+	𝑃(𝑦4∣𝑤1=go,𝑤2=ahead,𝑤3=make,𝑤4=my)=𝑃(𝑦4∣𝑤1=ahead,𝑤2=my,𝑤3=make,𝑤4=go)
+Why or why not?
+
+Since our language model satisfies the left-to-right causal property, and the probability of generating each token in the sequence only depends on the tokens that have been generated previously, the equivalence does hold. 𝑦4, the next word in the sequence that the language model is predicting, will be based on the same four previous words 𝑤1=go, 𝑤2=ahead, 𝑤3=make and 𝑤4=my, and the order does not affect the probability in our left-to-right causal language model.
+
+𝑃(𝑦4|𝑤1=go) * 𝑃(𝑦4|𝑤1=go,𝑤2=ahead) * 𝑃(𝑦4|𝑤1=go,𝑤2=ahead,𝑤3=make) * 𝑃(𝑦4𝑤1=go,𝑤2=ahead,𝑤3=make,𝑤4=my)
+will be equal to
+𝑃(𝑦4|𝑤1=ahead) * 𝑃(𝑦4|𝑤1=ahead,𝑤2=my) * 𝑃(𝑦4|𝑤1=ahead,𝑤2=my,𝑤3=make) * 𝑃(𝑦4|𝑤1=ahead,𝑤2=my,𝑤3=make,𝑤4=go)
 
 
 #### Part 2: Perplexity and implementing pseudo-perplexity for BERT
+The **perplexity** of a language model (PP) on a test set is the inverse probability of the test set, normalized by the number of words
+- However, since these probabilities are often small, taking the inverse and multiplying can be numerically unstable, so we often first compute these values in the log domain and then convert back.
+
+BERT tokenizer tokenizes a sentence into a sequence of WordPiece ids. Note how BERT tokenization automatically wraps an input sentences with [CLS] and [SEP] tags
+
+**Q5 Pseudo-perplexity for BERT**
+The perplexity calculation above presumes a left-to-right causal language model
+To calculate *the probability of a word at position i* given all of the other words in the sentence
+1. we’ll mask that word from the input and run the entire sentence through BERT to predict the probability of that masked word
+2. do this for each word i in a sentence, one at a time
+
+BERT's `attention_mask` function only works for padding tokens; to mask input tokens, we need to intervene in the input andreplace a WordPiece token that we're predicting with a special [MASK] token (BERT tokenizer word id `103`).
