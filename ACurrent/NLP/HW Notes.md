@@ -1,16 +1,55 @@
 
-## HW1
+## HW1: Classification
+Featurized Models for Sentiment Analysis
+- Generate features for the positive/negative sentiment classification of movie reviews
+- Train a model on those features to predict the sentiment of new data
 
+A basic *logistic regression model* (from the scikit-learn package) is trained with your created features to predict each review’s sentiment
+**Goal**: featurize the text creatively and optimize the accuracy of the model on the test data
+
+#### Features
+1. Bag of words: represent each *lowercase* word tokenized with NLTK; assigned to boolean 1 *(0.776)*
+2. Feature 1: Modeled off of the example of Sentiment Classification on page 5 of SLP Ch.5. It takes the positive and negative word counts based on score in AFINN, has a boolean for each punctuation (?, !), and a boolean word no. *(0.734)*
+3. Feature 2: This is a modified version of a bag of words; rather than a boolean of existence or a count, the AFINN dictionary score is the key within the dictionary (only non-zero scores). *(0.759)*
+4. Feature 3: Adds all bigrams without stop words into the feature dictionary in a similar binary bag-of-words model. *(0.715)*
+
+Features are then combined into one big model to make predictions on the test data. *(0.811)*
 
 ---
 
-## HW2
+## HW2 PyTorch and Self-Attention
+Exploring PyTorch, a neural network library
 
+### Part 1: PyTorch and FFNN
+#### Q1 PyTorch and embeddings
+- PyTorch implementation of logistic regression
+- How we load and access the GloVe embeddings
+- neural net in PyTorch
+	1. **forward** method in class that defines architecture
+	2. **optimizer** (torch.optim.Adam)
+	3. **loss function** (torch.nn.CrossEntropyLoss() combines softmax and negative log-likelihood)
+- Input of this model is the *average of GloVe embeddings* for all words in a movie review
+
+**Averaged embeddings vs. BoW**
+Averaged GloVe embeddings represent each movie review as the average of the word embeddings for the words in that review, and are able to capture both the semantic meaning and syntactic structure of words. Including this data can help improve model performance compared to using the Bag of Words (BoW) method. BoW is simple and flexible which can be useful in other scenarios such as spam detection, but ignores the order of words in reviews and misses out on the relationships between words which would be useful in this scenario.
+
+**GloVe** is an unsupervised learning algorithm for obtaining vector representations for words
+1. Nearest neighbors: The Euclidean distance between two word vectors provides an effective method for measuring the linguistic or semantic similarity of the corresponding words
+2. Linear substructures: vector difference between the two word vectors to capture as much meaning as possible
+- https://nlp.stanford.edu/projects/glove/
+
+#### Q2 Feedforward neural network (FFNN)
 https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/
+Add a hidden layer to the logistic regression classifier
+- Non-linearity *g*: tanh
 
 #### Linear function
 - Logistic regression problems can represent linear functions well
-- View image: https://www.deeplearningwizard.com/deep_learning/practical_pytorch/images/cross_entropy_final_4.png
+| Input              | Logits               | Softmax               | True Labels  |
+| ------------------ | -------------------- | --------------------- | ------------ |
+| x                  | y                    | g(y)                  | L            |
+| -> Linear Func     | -> Logistic Func     | -> Cross Entropy Func |              |
+| [10, 20, 100, 200] | [1.3, 1.2, 4.5, 4.8] | [0.1, 0.1, 0.4, 0.4]  | [0, 0, 1, 1] | 
 
 #### Non-linear Function
 -   Function: takes a number & perform mathematical operation
@@ -47,8 +86,8 @@ https://www.youtube.com/watch?v=TQQlZhbC5ps
 
 ---
 
-## HW3
-#### Part 1: Making approach for transformer-based language models
+## HW3: Masked Language Models, BERT, and Perplexity
+### Part 1: Making approach for transformer-based language models
 _masking_: preventing a model from seeing specific tokens in the input during training
 BERT training relies on _masked language modeling_: masking a random set of input tokens in a sequence and attempting to predict them
 - BERT is _bidirectional_, so that it can use all of the other non-masked tokens in a sentence to make that prediction
@@ -60,14 +99,14 @@ in the masks
 - 1 denotes that a position should be hidden
 - 0 denotes that it should be visible
 
-**Q1 BERT Mask**
+#### Q1 BERT Mask
 Create a mask that randomly masks token positions 2 and 7
 
-**Q2 Causal Mask**
+#### Q2 Causal Mask
 When making a prediction for the word wi at position i, it can only use information about words wi , . . . , wi−1 to do so
 All of the other tokens following position i − 1 must be *masked*
 
-**Q3 Input/outputs for causal language model**
+#### Q3 Input/outputs for causal language model
 We provide the training structure for a left-to-right causal language model; all that is needed is the correct inputs (x) and outputs (y)
 
 Write a function that takes in a sequence of token ids [w1, . . . , wn] and segments it into 8-token chunks – e.g., x1 = [w1, . . . , w8], x2 = [w9, . . . , w16]
@@ -76,7 +115,7 @@ For each xi , also create its corresponding yi
 - Each yi should also contain 8 values
 At token position i, when a model has access to [w1, . . . , wi ], which is the true yi for that position? Each element in y should be a word ID
 
-**Q4 Write-up**
+#### Q4 Write-up
 In this model, as implemented, does the following equivalence hold?
 	𝑃(𝑦4∣𝑤1=go,𝑤2=ahead,𝑤3=make,𝑤4=my)=𝑃(𝑦4∣𝑤1=ahead,𝑤2=my,𝑤3=make,𝑤4=go)
 Why or why not?
@@ -88,11 +127,11 @@ will be equal to
 𝑃(𝑦4|𝑤1=ahead) * 𝑃(𝑦4|𝑤1=ahead,𝑤2=my) * 𝑃(𝑦4|𝑤1=ahead,𝑤2=my,𝑤3=make) * 𝑃(𝑦4|𝑤1=ahead,𝑤2=my,𝑤3=make,𝑤4=go)
 
 
-#### Part 2: Perplexity and implementing pseudo-perplexity for BERT
+### Part 2: Perplexity and implementing pseudo-perplexity for BERT
 The **perplexity** of a language model (PP) on a test set is the inverse probability of the test set, normalized by the number of words
 - However, since these probabilities are often small, taking the inverse and multiplying can be numerically unstable, so we often first compute these values in the log domain and then convert back.
 
-**Q5 Pseudo-perplexity for BERT**
+#### Q5 Pseudo-perplexity for BERT
 The perplexity calculation above presumes a left-to-right causal language model
 
 *Helpful code blocks:*
@@ -100,7 +139,7 @@ The perplexity calculation above presumes a left-to-right causal language model
 2. How we can calculate output probabilities using this model. The output of each token position 𝑖 gives us 𝑃(𝑤𝑖∣𝑤1,…,𝑤𝑛)---the probability of the word at that position over our vocabulary, given _all_ of the words in the sentence
 3. BERT's `attention_mask` function only works for padding tokens; to mask input tokens, we need to intervene in the input andreplace a WordPiece token that we're predicting with a special [MASK] token (BERT tokenizer word id `103`).
 
-Implementation
+**Implementation**
 - tensor_input: encodes the input sentence using tokenizer
 	- {'input_ids': tensor, 'token_type_ids': tensor, 'attention_mask': tensor}
 - tensor_input_ids: input ids in tensor form
@@ -110,7 +149,6 @@ Implementation
 - wp_tokens: the words associated with input_ints
 	- ['[CLS]', 'london', 'is', 'the', 'capital', 'of', 'the', 'united', 'kingdom', '.', '[SEP]']
 
-For each WordPiece token
 To calculate *the probability of a word at position i* given all of the other words in the sentence
 1. For each word i in a sentence, one at a time
 2. We mask that word (Set input_id in tensor to "[MASK]") from the input and run the entire sentence through BERT to predict the probability of that masked word
@@ -120,4 +158,4 @@ To calculate *the probability of a word at position i* given all of the other wo
 
 ---
 
-## HW4
+## HW4: 
