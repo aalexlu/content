@@ -14,7 +14,7 @@
 | Peperomia Hope             | Hopper    |               |      |                              |                       |
 | Peperomia Obtusifolia      | Otis      | 2/1           |      | Regular                      |                       |
 | Philodendron Birkin        | Brooke    | 2/2           |      | Regular soil                 |                       |
-| Philodendron Brazil        | Phil      | 2/1           |      | Regular                      | Cut and prop          |
+| Philodendron Brazil        | Phil      | 2/17          | 16   | Regular                      | Cut and prop          |
 | Philodendron Florida Green | Florence  | 2/13          |      | Mostly chunky                |                       |
 | Philodendron Micans        | Micah     |               |      | Regular                      |                       |
 | Philodendron Silver Sword  | Sylvester | 1/29          |      | Regular inside, Chunky outer | Cut and prop for pole |
@@ -33,9 +33,9 @@
 
 | Plant                         | Name    | Last Watering | Soil Mix      | Notes             |
 | ----------------------------- | ------- | ------------- | ------------- | ----------------- |
-| Pothos Golden                 |         |               | Regular       |                   |
-| Philodendron Florida Ghost    | Flo     |               | Regular       | INSTA             |
-| Syngonium Pink (Neon Robusta) |         |               | Regular       | INSTA             |
+| Pothos Golden                 |         | 2/17          | Regular       |                   |
+| Philodendron Florida Ghost    | Flo     | 2/17          | Regular       | INSTA             |
+| Syngonium Pink (Neon Robusta) |         | 2/11          | Regular       | INSTA             |
 | Monstera Albo                 | Albus   |               | Leca          | INSTA + to Chunky |
 | Philodendron Splendid         | Spencer |               | Mostly Chunky |                   |
 
@@ -64,3 +64,9 @@ pumice
 ## Trial and Error
 
 Need to add coco coir and vermiculite?
+TODO
+- Add sphag to splendid
+- Add sphag to florida green
+- Harvest Corms from Polly
+- Remove death plug
+
