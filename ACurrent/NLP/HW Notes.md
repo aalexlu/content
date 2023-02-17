@@ -169,7 +169,9 @@ In this model, as implemented, does the following equivalence hold?
 	𝑃(𝑦4∣𝑤1=go,𝑤2=ahead,𝑤3=make,𝑤4=my)=𝑃(𝑦4∣𝑤1=ahead,𝑤2=my,𝑤3=make,𝑤4=go)
 Why or why not?
 
-Since our language model is a left-to-right causal language model, the probability of generating each token in the sequence only depends on the tokens that have been generated previously. Therefore, the equivalence does hold, as 𝑦4, the next word being predicted in the sequence will be based on the same four previous words 𝑤1=go, 𝑤2=ahead, 𝑤3=make, and 𝑤4=my. In this type of model, the probability will be the same regardless of the order of the tokens in this model, as long as the tokens are the same.
+X Since our language model is a left-to-right causal language model, the probability of generating each token in the sequence only depends on the tokens that have been generated previously. Therefore, the equivalence does hold, as 𝑦4, the next word being predicted in the sequence will be based on the same four previous words 𝑤1=go, 𝑤2=ahead, 𝑤3=make, and 𝑤4=my. In this type of model, the probability will be the same regardless of the order of the tokens in this model, as long as the tokens are the same.
+
+√ The probability of the next word 'y4' would not be the same in these two cases. In a left-to-right causal language model, the probability of the next word does depend on the order of the preceding words. In the first case, the context is "go ahead make my", and in the second case, the context is "ahead my make go". Even though the four words are the same, the order in which they appear does affect the conditional probability of the next word.
 
 𝑃(𝑦4|𝑤1=go) * 𝑃(𝑦4|𝑤1=go,𝑤2=ahead) * 𝑃(𝑦4|𝑤1=go,𝑤2=ahead,𝑤3=make) * 𝑃(𝑦4𝑤1=go,𝑤2=ahead,𝑤3=make,𝑤4=my)
 will be equal to
