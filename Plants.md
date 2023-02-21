@@ -23,7 +23,7 @@
 | Syngonium Batik            | Bailey    | 2/6           |      |                              |                       |
 | Calathea Makoyana          | Mako      | 2/6           |      |                              |                       |
 | Calathea Lancifolia        | Lucy      | 2/2           |      |                              |                       |
-| Anthurium andreanum        | Amelia    | 2/12          | 7    |                              |                       |
+| Anthurium andreanum        | Amelia    | 2/          | 7    |                              |                       |
 | Hedera Helix               | Henry     | 2/12          |      |                              |                       |
 | Dracaena Marginata         | Drake     | 2/6           |      |                              |                       |
 |                            |           |               |      |                              |                       |
