@@ -37,7 +37,8 @@
 | Philodendron Florida Ghost    | Flo     | 2/17          | Regular       | INSTA             |
 | Syngonium Pink (Neon Robusta) |         | 2/11          | Regular       | INSTA             |
 | Monstera Albo                 | Albus   |               | Leca          | INSTA + to Chunky |
-| Philodendron Splendid         | Spencer |               | Mostly Chunky |                   |
+| Philodendron Splendid         | Spencer |               | Mostly Chunky | INSTA             |
+|                               |         |               |               |                   |
 
 #### Wish List
 
