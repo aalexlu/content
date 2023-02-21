@@ -77,6 +77,7 @@
 | Symbol                                  | A sign that refers to its object due to a convention or habit                                                                                                           |
 | Referential indexicality                | Pronouns point to actors; deictics point to places and times; and their meaning shifts                                                                                  |
 | Non-referential indexicality            | Linguistic forms can also *point* to other apsects of social and cultural context (ex. in notes)                                                                        |
+| Linguistic differentiation              | The labeling of a way of speaking as different from, or opposed to, some other way of speaking                                                                          |
 |                                         |                                                                                                                                                                         |
 
 
