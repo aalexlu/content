@@ -44,7 +44,40 @@ The 'Gender Paradox'
 
 The "social meaning" of sex/gender-correlated change
 - Women often lead change over men, in the aggregate
+- Variables occur as components of styles, and to understand their meaning, we need to understand their role in the construction of styles
+
+Ways of defining style
+- Attention to speech; casual to careful (variation in the cognitive realm)
+- Different ways of signaling who we are as speakers; different ways of being, and different identities (variation in the social realm)
+- Stylistic practice is a process of *bricolage*
+	- Speakers can identify and attribute significance to linguistic features, and they become a resource that they can incorporate into their own style
+
+#### Belten High (Detroit)
+- Eckert studied white adolescent speech in Detroit suburbs
+- school-oriented "jocks" and urban-oriented "burnouts"
+
+Linguistic Differentiation
+- Linguistic differentiation: the labeling of a way of speaking as different from, or opposed to, some other way of speaking.
+- Three processes:
+	- Iconization: a linguistic feature appears to be similar in some way to individuals or to whole groups
+	- Fractal recursivity: when an opposition or contrast operating at one level is projected onto another level
+	- Erasure: language ideologies can render certain linguistic features, activities, or speakers invisible
+
+#### The social meaning of variation
+- Speakers use variables not simply to reflect their belonging to social group, but to make ideological moves
+- Diversity of social meanings, ex: educated, formal, effortful, articulate/pretentious, social types: British, Nerd girl, Gay diva
+
+---
+
+## Gender and bricolage
+- **Bricolage**: two features not patterning together
+- transmasculine voices, fundamental frequency, and /s/
+	- Transgender speakers ine arly stages of hormone therapy
+- F0 and time of recording: F0 drops later into hormone therapy
+- Center of gravity of /s/: maybe F0 is more of a target goal to be perceived as masculine than frequency of /s/; 
+	- having low F0 (more masc sounding) allows them to exercise more freedom in other features 
 	- 
+
 
 
 
