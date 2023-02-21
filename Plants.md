@@ -8,22 +8,22 @@
 | -------------------------- | --------- | ------------- | ---- | ---------------------------- | --------------------- |
 | Alocasia Frydek            | Freda     | 2/12          | 10   | Regular                      |                       |
 | Alocasia Polly             | Polly     | 2/2           |      | Aerated regular              |                       |
-| Macodes Petola             | Jules     | 2/1           |      |                              |                       |
+| Macodes Petola             | Jules     | 2/18          | 5    |                              |                       |
 | Monstera Adansonii         | Gus       | 2/6           |      |                              |                       |
 | Monstera Deliciosa         | Stella    | 2/6           |      |                              |                       |
 | Peperomia Hope             | Hopper    |               |      |                              |                       |
 | Peperomia Obtusifolia      | Otis      | 2/1           |      | Regular                      |                       |
 | Philodendron Birkin        | Brooke    | 2/2           |      | Regular soil                 |                       |
 | Philodendron Brazil        | Phil      | 2/17          | 16   | Regular                      | Cut and prop          |
-| Philodendron Florida Green | Florence  | 2/13          |      | Mostly chunky                |                       |
+| Philodendron Florida Green | Florence  | 2/20          | 7    | Mostly chunky                |                       |
 | Philodendron Micans        | Micah     |               |      | Regular                      |                       |
-| Philodendron Silver Sword  | Sylvester | 1/29          |      | Regular inside, Chunky outer | Cut and prop for pole |
+| Philodendron Silver Sword  | Sylvester | 2/20          | 21   | Regular inside, Chunky outer | Cut and prop for pole |
 | Pilea Peperomioides        | Piper     | 2/6           |      |                              |                       |
 | Pothos Neon                | Pete      | 1/29          |      |                              |                       |
-| Syngonium Batik            | Bailey    | 2/6           |      |                              |                       |
+| Syngonium Batik            | Bailey    | 2/20          | 14   |                              |                       |
 | Calathea Makoyana          | Mako      | 2/6           |      |                              |                       |
 | Calathea Lancifolia        | Lucy      | 2/2           |      |                              |                       |
-| Anthurium andreanum        | Amelia    | 2/          | 7    |                              |                       |
+| Anthurium andreanum        | Amelia    | 2/20          | 7    |                              |                       |
 | Hedera Helix               | Henry     | 2/12          |      |                              |                       |
 | Dracaena Marginata         | Drake     | 2/6           |      |                              |                       |
 |                            |           |               |      |                              |                       |

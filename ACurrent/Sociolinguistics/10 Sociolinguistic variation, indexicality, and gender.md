@@ -128,7 +128,9 @@ What information included in VanHerk Chapter 7 (Gender) did you find most intere
 
 Some questions that you might consider to get you started: Do you think one theory is better than another for connecting language and the social practice of gender? Did you find that any of the research findings referenced in the chapter did not match your hypotheses? Do you have any questions about research on gender and language in sociolinguistics following your reading of this chapter?
 
+I found the fact that women use standard variants more often than men interesting. Trudgill, Key, and Eckert argue that women use style shifting to position themselves with respect to social groups, while men use other ways aside from language to mark their social status such as jobs. Whether women are shifting toward or away from the standard, I thought it was interesting how the argument holds.
 
+On a similar note, Deborah Tannen's perspective was also compelling. She found that women are more likely to use language to build and maintain relationships, while men are more likely to use language to communicate factual information. This parallels the idea of how "language is what women use to do things, socially."
 
 
 
