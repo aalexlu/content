@@ -92,6 +92,7 @@ In other languages, how does the expression/marking of gender compare? How well 
 - Romance languages and Spanish encode gender in most of their nouns, so wouldn't work well with ngram viewer
 - Japanese might work
 
+In reference to 'the gender paradox', if women tend to move toward the standard, but men are not inherently following the standard, then how do standards get created?
 
 
 
