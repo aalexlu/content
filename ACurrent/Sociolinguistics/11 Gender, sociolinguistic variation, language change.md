@@ -79,9 +79,22 @@ Ways of defining style
 	- **Erasure**: language ideologies can render certain linguistic features, activities, or speakers invisible
 
 
-
-
 ---
+
+## Discussion Section
+*February 22, 2023
+
+Short essay 2
+flighta ttendant vs stewardess
+
+#### How do different languages encode 'gender'?
+In other languages, how does the expression/marking of gender compare? How well do you think the ngram viewer would work for conducting this type of analysis with other languages?
+- Romance languages and Spanish encode gender in most of their nouns, so wouldn't work well with ngram viewer
+- Japanese might work
+
+
+
+
 
 
 
