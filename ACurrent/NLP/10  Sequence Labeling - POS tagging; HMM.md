@@ -15,7 +15,6 @@ previous: [[9  Language Modeling 3 - Prompting methods and reinforcement learnin
 	1. Estimations and probabilities
 	2. Decoding
 	3. Viterbi algorithm (DP for optimal path)
-4. 
 
 
 ---
