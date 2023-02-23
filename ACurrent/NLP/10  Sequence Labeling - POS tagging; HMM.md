@@ -6,7 +6,9 @@ previous: [[9  Language Modeling 3 - Prompting methods and reinforcement learnin
 ## Topics
 
 1. Distribution of contexts
-2. 
+2. POS tagging
+	1. Indicative of…
+	2. Tagsets
 
 
 ---
