@@ -8,7 +8,8 @@ previous: [[9  Language Modeling 3 - Prompting methods and reinforcement learnin
 1. Distribution of contexts
 2. POS tagging
 	1. Indicative of…
-	2. Tagsets
+	2. Tagsets (Penn Treebank)
+	3. 
 
 
 ---
