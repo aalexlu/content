@@ -3,7 +3,10 @@ previous: [[9  Language Modeling 3 - Prompting methods and reinforcement learnin
 
 ---
 
-## Topic
+## Topics
+
+1. Distribution of contexts
+2. 
 
 
 ---
