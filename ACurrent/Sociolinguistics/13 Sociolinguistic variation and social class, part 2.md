@@ -14,9 +14,32 @@ previous:  [[12 Sociolinguistic variation and social class, part 1]]
 	- YES
 - Hypothesis: if any two subgroups of NYC speakers are ranked in a scale of social stratification, then they will be ranked in the same order by their differential use of (r) – **social stratification**
 	- **Social stratification**: the normal workings of society have produced systematic differences between certain institutions or people, and these differentiated forms have been ranked in status or prestige by general agreement
+	- Hypothesis for (r): salespeople in highest-ranked store should have highest values for (r); intermediate for middle-ranked stores; lowest for lowest-ranked stores
 - Study: the salespeople of three large Manhattan department stores
 	- Top, middle, and bottom of price and fashion scale
-	- salesgirls borrow prestige from customers or make an effor t in the direction – "lending" prestig
+	- salesgirls borrow prestige from customers or make an effort in the direction – "lending" prestige
+- Methodology: Customer (Labov) approached salespeople and asked for directions to a  particular department known to be on the fourth floor; then asked again  with an “excuse me?” to get another token of the phrase, spoken more  carefully and emphatically
+	- fourth floor: preconsonantal and final position, in both casual and emphatic style
+	- (r-1) = r-ful pronunciation; (r-0) = r-less pronunciation; doubtful cases / partial constriction not in final stats
+
+Department stores
+- Price/advertising differences:
+- Spaciousness of physical layout
+- Social stratification does not carry forward neatly to wages
+- *Important*: Employees of the three stores would get roughly the same socioeconomic index, but the working conditions are stratified along the general status scale: Saks > Macy’s > S. Klein
+
+#### Ethics of Labov's study
+- Like scraping tweets
+- Anonymous and not recorded
+
+#### Stratification of (r)
+- Saks most r-ful and less of a 4th/floor shift
+- floor (end of word) is more often r-1 (r-ful) than fourth
+	- this is a pattern mainly for Sak's and Macy's
+
+#### Rapid and anonymous survey
+- Fine levels of stratification? YES even withi
+
 
 ---
 
