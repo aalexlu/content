@@ -37,8 +37,12 @@ Department stores
 - floor (end of word) is more often r-1 (r-ful) than fourth
 	- this is a pattern mainly for Sak's and Macy's
 
-#### Rapid and anonymous survey
-- Fine levels of stratification? YES even withi
+#### Discussion: Rapid and anonymous survey
+- Fine levels of stratification? YES even with people in the same social group he could find differentiations
+- Consistent from interview to interview
+- Lexical variable of Old building names vs New names (building) (KROEBER)
+- Name of Cal / UC Berkeley / UCB
+- 
 
 
 ---
