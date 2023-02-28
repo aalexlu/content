@@ -10,7 +10,7 @@
 | Philodendron Micans        | Micah     | 1/1           |      |                                             |
 | Pothos Neon                | Pete      | 1/29          |      |                                             |
 | Peperomia Obtusifolia      | Otis      | 2/1           |      |                                             |
-| Alocasia Frydek            | Freda     | 2/12          | 10   |                                             |
+| Alocasia Frydek            | Freda     | 2/26          | 10   |                                             |
 | Hedera Helix               | Henry     | 2/12          |      |                                             |
 | Philodendron Brazil        | Phil      | 2/17          | 16   | Cut and prop                                |
 | Macodes Petola             | Jules     | 2/18          | 5    |                                             |
@@ -19,11 +19,11 @@
 | Philodendron Florida Green | Florence  | 2/20          | 7    |                                             |
 | Philodendron Silver Sword  | Sylvester | 2/20          | 21   | Regular inside, Chunky outer, prop for pole |
 | Syngonium Batik            | Bailey    | 2/20          | 14   |                                             |
-| Anthurium andreanum        | Amelia    | 2/20          | 7    |                                             |
+| Anthurium andreanum        | Amelia    | 2/27          | 7    |                                             |
 | Pilea Peperomioides        | Piper     | 2/22          | 16   |                                             |
 | Calathea Lancifolia        | Lucy      | 2/22          | 18   |                                             |
 | Monstera Adansonii         | Gus       | 2/6           |      |                                             |
-| Monstera Deliciosa         | Stella    | 2/6           |      |                                             |
+| Monstera Deliciosa         | Stella    | 2/27          |      |                                             |
 | Calathea Makoyana          | Mako      | 2/6           |      |                                             |
 | Dracaena Marginata         | Drake     | 2/6           |      |                                             |
 
