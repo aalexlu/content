@@ -8,7 +8,7 @@
 | -------------------------- | --------- | ------------- | ---- | ------------------------------------------- |
 | Peperomia Hope             | Hopper    | 1/1           |      |                                             |
 | Philodendron Micans        | Micah     | 1/1           |      |                                             |
-| Pothos Neon                | Pete      | 1/29          |      |                                             |
+| Pothos Neon                | Pete      | 2/28          | 30   |                                             |
 | Peperomia Obtusifolia      | Otis      | 2/1           |      |                                             |
 | Alocasia Frydek            | Freda     | 2/26          | 10   |                                             |
 | Hedera Helix               | Henry     | 2/12          |      |                                             |
@@ -24,7 +24,7 @@
 | Calathea Lancifolia        | Lucy      | 2/22          | 18   |                                             |
 | Monstera Adansonii         | Gus       | 2/6           |      |                                             |
 | Monstera Deliciosa         | Stella    | 2/27          |      |                                             |
-| Calathea Makoyana          | Mako      | 2/6           |      |                                             |
+| Calathea Makoyana          | Mako      | 2/28          | 22   |                                             |
 | Dracaena Marginata         | Drake     | 2/6           |      |                                             |
 
 
