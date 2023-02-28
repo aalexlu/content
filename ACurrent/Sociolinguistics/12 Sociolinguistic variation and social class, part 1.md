@@ -19,4 +19,4 @@ Markedness refers to the degree to which a linguistic feature deviates from what
 When speakers of a mainstream variety adopt the language features of a marked ethnic variety, this behavior can be highly marked, as this switching is less frequent because of the power relationships between the varieties. The behavior of when people who speak non-standard varieties is unmarked, as they are somewhat expected to pick up the language of power.
 
 
-next:
+next: [[13 Sociolinguistic variation and social class, part 2]]
