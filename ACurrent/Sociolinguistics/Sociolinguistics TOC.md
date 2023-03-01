@@ -83,6 +83,8 @@
 | Observer's paradox                      | the means used to gather the data interfere with the data to be gathered                                                                                                                               |
 | Labov's department store strategy       | The social stratification of (r) in New York City department stores                                                                                                                                    |
 | Social stratification                   | the normal workings of society have produced systematic differences between certain institutions or people, and these differentiated forms have been ranked in status or prestige by general agreement |
+| Unmarked                                | Form that is assumed to be the "default" or "normal"                                                                                                                                                   |
+| Standard                                | Form that is assumed to be inherently "correct"                                                                                                                                                        |
 |                                         |                                                                                                                                                                                                        |
 
 

@@ -49,7 +49,30 @@ Department stores
 ## Discussion Section
 *March 1, 2023
 
-Research project
+#### Research project
+1. Collect original speech data
+2. Identify variants in data
+3. Analyze patterns based on social factors
+4. Write a report explaining methods and results
+
+#### Language and social class
+- Standard: form that is assumed to be inherently "correct"
+- Unmarked: form that is assumed to be the "default" or "normal"
+	- Phonology OT – markedness constraints
+Mismatch in standardness and markedness?
+- Unmarked in NY community, but not standard for all of US
+- "whom" vs "who", in speech not everyone uses "whom" correctly
+	- "whom" is standard but marked/less normal
+
+1. un
+2. weird
+3. I, ok
+4. a
+5. referred to themselves earlier, ok (On)
+6. weird
+7. ok
+
+
 
 Social class and other identity factors in sociolinguistic variation
 
