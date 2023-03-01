@@ -42,12 +42,16 @@ Department stores
 - Consistent from interview to interview
 - Lexical variable of Old building names vs New names (building) (KROEBER)
 - Name of Cal / UC Berkeley / UCB
-- 
 
 
 ---
 
+## Discussion Section
+*March 1, 2023
 
+Research project
+
+Social class and other identity factors in sociolinguistic variation
 
 
 next:
