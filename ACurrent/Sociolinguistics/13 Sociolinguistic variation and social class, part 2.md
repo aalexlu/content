@@ -64,17 +64,34 @@ Mismatch in standardness and markedness?
 - "whom" vs "who", in speech not everyone uses "whom" correctly
 	- "whom" is standard but marked/less normal
 
-1. un
+#### Case study: reflexive pronouns
+1. ungrammatical
 2. weird
 3. I, ok
 4. a
-5. referred to themselves earlier, ok (On)
+5. referred to themselves earlier, ok (Only grammatical one)
 6. weird
 7. ok
+*Only should be used as an object with the same original pronoun to index; coreferentiality*
+
+Crossover effect
+- overusing something to the point of hyper-correct
+- try hard to meet a standard and go beyond it
+- Second socioeconomic (SEC) class actually uses the standard more than the top SEC
+	- lower middle class emulates what they would think upper middle class does
+
+#### Change over time: negative concord in English (double neg)
+- Highly stigmatized in standard English varieties
+- Common / grammatical in many languages
+	- French "Je n'ai rien mangé"
+- Used to be common in English
+
+Gentry (high) used it the least, non-gentry continued using it
+Middle ranks end up using it less than gentry
+
+Race and gender also are involved, so can't completely separate from SEC
 
 
 
-Social class and other identity factors in sociolinguistic variation
 
-
-next:
+next: [[14 Soc]]
