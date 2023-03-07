@@ -11,7 +11,7 @@
 | Hedera Helix               | Henry     | 2/12          |      |                                             |
 | Philodendron Brazil        | Phil      | 2/17          | 16   | Cut and prop                                |
 | Macodes Petola             | Jules     | 2/18          | 5    |                                             |
-| Alocasia Polly             | Polly     | 2/2           |      |                                             |
+| Alocasia Polly             | Polly     | 3/6           | 30   |                                             |
 | Philodendron Birkin        | Brooke    | 2/2           |      |                                             |
 | Philodendron Florida Green | Florence  | 2/20          | 7    |                                             |
 | Syngonium Batik            | Bailey    | 2/20          | 14   |                                             |
@@ -23,7 +23,7 @@
 | Anthurium andreanum        | Amelia    | 2/27          | 7    |                                             |
 | Calathea Makoyana          | Mako      | 2/28          | 22   |                                             |
 | Pothos Neon                | Pete      | 2/28          | 30   |                                             |
-| Monstera Adansonii         | Gus       | 2/6           |      |                                             |
+| Monstera Adansonii         | Gus       | 3/6           | 30   |                                             |
 | Dracaena Marginata         | Drake     | 2/6           |      |                                             |
 | Philodendron Micans        | Micah     | 3/1           |      |                                             |
 
