@@ -4,28 +4,28 @@
 
 ## Plants
 
-| Plant                      | Name      | Last Watering | Freq | Notes                                       |
-| -------------------------- | --------- | ------------- | ---- | ------------------------------------------- |
-| Peperomia Hope             | Hopper    | 1/1           |      |                                             |
-| Peperomia Obtusifolia      | Otis      | 2/1           |      |                                             |
-| Hedera Helix               | Henry     | 2/12          |      |                                             |
-| Philodendron Brazil        | Phil      | 2/17          | 16   | Cut and prop                                |
-| Philodendron Birkin        | Brooke    | 2/2           |      |                                             |
-| Philodendron Florida Green | Florence  | 2/20          | 7    |                                             |
-| Philodendron Silver Sword  | Sylvester | 2/20          | 21   | Regular inside, Chunky outer, prop for pole |
-| Syngonium Batik            | Bailey    | 2/20          | 14   |                                             |
-| Pilea Peperomioides        | Piper     | 2/22          | 16   |                                             |
-| Anthurium Andreanum        | Amelia    | 2/27          | 7    |                                             |
-| Monstera Deliciosa         | Stella    | 2/27          |      | Regular inside, Chunky outer                |
-| Calathea Makoyana          | Mako      | 2/28          | 22   |                                             |
-| Dracaena Marginata         | Drake     | 2/6           |      |                                             |
-| Philodendron Micans        | Micah     | 3/1           |      |                                             |
-| Macodes Petola             | Jules     | 3/6           | 5    | Sphag                                       |
-| Alocasia Polly             | Polly     | 3/6           | 15   |                                             |
-| Monstera Adansonii         | Gus       | 3/6           | 30   |                                             |
-| Alocasia Frydek            | Freda     | 3/7           | 9    |                                             |
-| Calathea Lancifolia        | Lucy      | 3/7           | 13   |                                             |
-| Pothos Neon                | Pete      | 3/7           | 7    |                                             |
+| Plant                      | Name      | Last Watering | Freq | Notes                                  |
+| -------------------------- | --------- | ------------- | ---- | -------------------------------------- |
+| Peperomia Hope             | Hopper    | 1/1           |      |                                        |
+| Peperomia Obtusifolia      | Otis      | 2/1           |      |                                        |
+| Hedera Helix               | Henry     | 2/12          |      |                                        |
+| Philodendron Brazil        | Phil      | 2/17          | 16   | Cut and prop                           |
+| Philodendron Birkin        | Brooke    | 3/6           | 20   |                                        |
+| Philodendron Florida Green | Florence  | 2/20          | 7    |                                        |
+| Philodendron Silver Sword  | Sylvester | 2/20          | 21   | Regular inside, Chunky outer, prop 3/8 |
+| Syngonium Batik            | Bailey    | 2/20          | 14   |                                        |
+| Pilea Peperomioides        | Piper     | 2/22          | 16   |                                        |
+| Anthurium Andreanum        | Amelia    | 2/27          | 7    |                                        |
+| Monstera Deliciosa         | Stella    | 2/27          |      | Regular inside, Chunky outer           |
+| Calathea Makoyana          | Mako      | 2/28          | 22   |                                        |
+| Dracaena Marginata         | Drake     | 2/6           |      |                                        |
+| Philodendron Micans        | Micah     | 3/1           |      |                                        |
+| Macodes Petola             | Jules     | 3/6           | 5    | Sphag                                  |
+| Alocasia Polly             | Polly     | 3/6           | 15   |                                        |
+| Monstera Adansonii         | Gus       | 3/6           | 30   |                                        |
+| Alocasia Frydek            | Freda     | 3/7           | 9    |                                        |
+| Calathea Lancifolia        | Lucy      | 3/7           | 13   |                                        |
+| Pothos Neon                | Pete      | 3/7           | 7    |                                        |
 
 
 #### At Michael's
