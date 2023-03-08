@@ -37,6 +37,9 @@ USE () for variable notation
 - varies so not /r/ which is underlying form
 - neutral way to frame phonetic variable
 
-Speaker 1: 9/9
+Old woman urban Speaker 1: 8/9 r-less
+Young woman urban Speaker 2: 0/10 r-less
+Old man non-urban Speaker 3: 2/5 (together better)
+Young man non-urban Speaker 4: 3/6
 
 next:
