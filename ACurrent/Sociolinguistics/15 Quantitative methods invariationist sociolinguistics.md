@@ -15,10 +15,17 @@ previous:
 - Well's standard lexical sets: FLEECE
 - Modified IPA symbols, in slashes
 
-Variables
+#### Variables
 - Two or maore ways of "saying the same thing"
 	- Easy to say that "coffee" and "cawfee" are variants
 - Sociophonetics much more rich than sociosyntax.. etc
+
+#### The variable context
+- The **envelope of variation** = variable context
+	- Rate of variant A = (# tokens of A) / (# tokens of A + # tokens of B)
+
+Analyzing "randomness" in linguistic data
+- lopoking for **orderly heterogeneity** in language
 - 
 
 
