@@ -26,6 +26,9 @@ previous:
 
 Analyzing "randomness" in linguistic data
 - lopoking for **orderly heterogeneity** in language
+
+**Include N's in tables, so you know the number of total tokens!!**
+- Mean, median, correlation (r), correlation of multiple vars (r^2)
 - 
 
 
