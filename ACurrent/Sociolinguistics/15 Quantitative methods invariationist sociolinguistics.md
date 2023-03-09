@@ -12,8 +12,14 @@ previous:
 #### Notation for variables
 - IPA symbols in parentheses: (i)
 	- different from underlying form in phonology /i/ and from surface forms [i]
-- Well's standard lexical sets
+- Well's standard lexical sets: FLEECE
+- Modified IPA symbols, in slashes
 
+Variables
+- Two or maore ways of "saying the same thing"
+	- Easy to say that "coffee" and "cawfee" are variants
+- Sociophonetics much more rich than sociosyntax.. etc
+- 
 
 
 ---
