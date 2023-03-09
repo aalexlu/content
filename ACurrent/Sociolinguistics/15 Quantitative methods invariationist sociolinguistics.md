@@ -3,7 +3,17 @@ previous:
 
 ---
 
-## Topic
+## Variationist sociolinguistics
+- We study the *variable grammar* of speech communities and individual community members
+- **Variable**: a feature that varies in form from one context to another
+	- must define explicitly and unambiguously to quantify
+	- *variable* is abstract, *variants* are concrete surface forms
+
+#### Notation for variables
+- IPA symbols in parentheses: (i)
+	- different from underlying form in phonology /i/ and from surface forms [i]
+- Well's standard lexical sets
+
 
 
 ---
