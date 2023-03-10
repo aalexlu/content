@@ -46,6 +46,8 @@
 | Philodendron Verrucosum        |      |               |          |       |
 | Pothos Manjula                 |      |               |          |       |
 | Philodendron Burl Marx Fantasy |      |               |          |       |
+| Philodendron Florida Beauty    |      |               |          |       |
+| Philodendron Gabby             |      |               |          |       |
 |                                |      |               |          |       |
 
 
