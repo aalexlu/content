@@ -48,6 +48,8 @@
 | Philodendron Burl Marx Fantasy |      |               |          |       |
 | Philodendron Florida Beauty    |      |               |          |       |
 | Philodendron Gabby             |      |               |          |       |
+| Maranta Silver Band            |      |               |          |       |
+| Maranta Lemon Lime             |      |               |          |       |
 |                                |      |               |          |       |
 
 
