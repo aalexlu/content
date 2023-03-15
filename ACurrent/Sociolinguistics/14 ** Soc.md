@@ -12,4 +12,4 @@ missed lecture
 
 
 
-next:
+next: [[15 Quantitative methods invariationist sociolinguistics]]

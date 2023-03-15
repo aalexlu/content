@@ -94,4 +94,4 @@ Race and gender also are involved, so can't completely separate from SEC
 
 
 
-next: [[14 Soc]]
+next: [[14 ** Soc]]
