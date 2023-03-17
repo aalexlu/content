@@ -8,24 +8,27 @@
 | -------------------------- | --------- | ------------- | ---- | -------------------------------------- |
 | Peperomia Hope             | Hopper    | 1/1           |      |                                        |
 | Peperomia Obtusifolia      | Otis      | 2/1           |      |                                        |
-| Hedera Helix               | Henry     | 2/12          |      |                                        |
+| Hedera Helix               | Henry     | 3/16          | 32   |                                        |
 | Philodendron Brazil        | Phil      | 2/17          | 16   | Cut and prop                           |
-| Philodendron Birkin        | Brooke    | 3/6           | 20   |                                        |
-| Philodendron Florida Green | Florence  | 2/20          | 7    |                                        |
-| Philodendron Silver Sword  | Sylvester | 2/20          | 21   | Regular inside, Chunky outer, prop 3/8 |
-| Syngonium Batik            | Bailey    | 2/20          | 14   |                                        |
-| Pilea Peperomioides        | Piper     | 2/22          | 16   |                                        |
-| Anthurium Andreanum        | Amelia    | 2/27          | 7    |                                        |
+| Philodendron Birkin        | Brooke    | 3/16          | 10   |                                        |
+| Philodendron Florida Green | Florence  | 3/16          | 7    |                                        |
+| Philodendron Silver Sword  | Sylvester | 3/7           | 21   | Regular inside, Chunky outer, prop 3/8 |
+| Syngonium Batik            | Bailey    | 3/16          | 14   |                                        |
+| Pilea Peperomioides        | Piper     | 3/16          | 22   |                                        |
+| Anthurium Andreanum        | Amelia    | 3/16          | 17   |                                        |
 | Monstera Deliciosa         | Stella    | 2/27          |      | Regular inside, Chunky outer           |
-| Calathea Makoyana          | Mako      | 2/28          | 22   |                                        |
-| Dracaena Marginata         | Drake     | 2/6           |      |                                        |
-| Philodendron Micans        | Micah     | 3/1           |      |                                        |
-| Macodes Petola             | Jules     | 3/6           | 5    | Sphag                                  |
+| Calathea Makoyana          | Mako      | 3/16          | 18   |                                        |
+| Dracaena Marginata         | Drake     | 2/6           | 30   |                                        |
+| Philodendron Micans        | Micah     | 3/16          | 15   |                                        |
+| Macodes Petola             | Jules     | 3/16          | 5    | Sphag                                  |
 | Alocasia Polly             | Polly     | 3/6           | 15   |                                        |
-| Monstera Adansonii         | Gus       | 3/6           | 30   |                                        |
+| Monstera Adansonii         | Gus       | 3/16          | 10   |                                        |
 | Alocasia Frydek            | Freda     | 3/7           | 9    |                                        |
 | Calathea Lancifolia        | Lucy      | 3/7           | 13   |                                        |
-| Pothos Neon                | Pete      | 3/7           | 7    |                                        |
+| Pothos Neon                | Pete      | 3/16          | 9    |                                        |
+| Philodendron Melanochrysum | Melly     | 3/16          | ?    |                                        |
+| Philodendron Forida Ghost  | Flogo     | 3/16          | ?    |                                        |
+|                            |           |               |      |                                        |
 
 
 #### At Michael's
