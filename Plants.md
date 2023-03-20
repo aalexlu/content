@@ -12,7 +12,7 @@
 | Philodendron Brazil        | Phil      | 2/17          | 16   | Cut and prop                           |
 | Philodendron Birkin        | Brooke    | 3/16          | 10   |                                        |
 | Philodendron Florida Green | Florence  | 3/16          | 7    |                                        |
-| Philodendron Silver Sword  | Sylvester | 3/7           | 21   | Regular inside, Chunky outer, prop 3/8 |
+| Philodendron Silver Sword  | Sylvester | 3/20          | 13   | Regular inside, Chunky outer, prop 3/8 |
 | Syngonium Batik            | Bailey    | 3/16          | 14   |                                        |
 | Pilea Peperomioides        | Piper     | 3/16          | 22   |                                        |
 | Anthurium Andreanum        | Amelia    | 3/16          | 17   |                                        |
