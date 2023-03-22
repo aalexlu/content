@@ -100,7 +100,16 @@ AAE is spoken by millions of people in communities around the US – lots of div
 - **Contrastive analysis** for dialect speakers – taught differences from standard English for reading gain
 	- move them toward Standard english without devaluing their language
 - Public response – people do not accept it as a different language, but as "bad English"
-- 
+
+
+---
+
+## Discussion Section
+*March 22, 2023
+
+**Ethnolects**
+**Ethnolinguistic repertoire**
+
 
 
 next:
