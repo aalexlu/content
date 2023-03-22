@@ -74,6 +74,28 @@ AAE is spoken by millions of people in communities around the US – lots of div
 		- **Creolist view**: AAE related to Jamaican Creole, Gullah, other creole languages
 		- **Anglicist/dialectologist view**: AAE most similar to English dialects, with less clear or significant influences from African languages
 	- Social origins (against a strictly "creolist" hypothesis)
+		- **Founder principle view**: The variety emerged as Africans tried to acquire local patterns of English
+		- **Settle principle view**: Africans created this variety, but it was never a creole, continued contact with creoles had influence
+- Sources of evidence
+	- Info on population sizes and movement of people
+	- Speech examples from ex-slaves
+	- Comparisons of current AAE w/ West African languages, Caribbean creoles, or white nonstandard varieties
+	- Evidence from African-American diaspora
+
+## Influences on AAE
+- In vocab, it is overwhelmingly similar to English, not African or creole lexical items
+- Evidence of African influence on phonology? *Th*-fronting/stopping and consonant cluster reduction
+- Mixed evidence in grammatical features – Existential *it*, inverted word order
+- Similarities with other creoles – Deletion of voiced stops *b, d, g* in preverbal tense markers, etc.
+- Stronger evidence for creolist hypothesis? **Zero copula** (He ∅ happy)
+	- No basis in British dialects
+	- West African uses different copulas
+	- 
+
+## Continued development of AAE
+- After Great Migration characterized by *divergence* from white varieties
+- Increased segregation in housing
+- 
 
 
 next:
