@@ -108,7 +108,19 @@ AAE is spoken by millions of people in communities around the US – lots of div
 *March 22, 2023
 
 **Ethnolects**
+- Problem: Ethnicity is a fluid category, people can have multiple and index multiple at once
 **Ethnolinguistic repertoire**
+
+Examples of ethnolects
+- Polynesian English
+- Singapore English
+
+Green dispelling myth that AAE is just bad English with mistakes
+Baugh – race and class affect getting housing in an affluent community
+- higher showing rate for SAE opposed to minority accents
+- assumptions made by race and being a part of the ethnic group corresponds to less money / lower social class
+
+
 
 
 

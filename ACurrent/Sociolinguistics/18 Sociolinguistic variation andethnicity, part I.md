@@ -36,7 +36,7 @@ previous: [[17 ** Social network theory, part II]]
 #### Problems with "ethnolect"
 - *shul* Orthodox Jews use more than Non-orthodox synagogue
 - People vary from context to context, but also over the course of their lifetime as their identity evolves
-- "Ethnolects" are soemtimes used with non-group members
+- "Ethnolects" are sometimes used with non-group members
 - **Crossing**: White Britons adopting Punjabi words, Young white American hip-hop fans adopting AAE
 	- people have strong opinions that you should not do this crossing
 - Ethnicity is a fluid category, people can have multiple and index multiple at once
