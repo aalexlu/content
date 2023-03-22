@@ -62,4 +62,4 @@ previous: [[17 ** Social network theory, part II]]
 
 
 
-next: [[19 Sociolinguistic variation andethnicity, part II]]
+next: [[19 Language and ethnicity, part II – African-American English]]
