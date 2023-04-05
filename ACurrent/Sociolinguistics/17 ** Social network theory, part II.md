@@ -30,7 +30,7 @@ Examples
 - Newscasters who speak in a formal news-reading style – *None of the groups, even though they speak the same way*
 - Speakers of southern US English who are non-rhotic – *Speech community*
 
-### k
+### 
 
 **COMPARE AND CONTRAST ON FINAL**
 - read Van Herk textbook
