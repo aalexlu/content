@@ -26,7 +26,18 @@ Describing language endangerment / revitalization
 	- Also not a natural process, often genocide
 - Maintenance vs. revitalization vs. reclamation
 
+### Politeness
+positive: wanting to be liked
+negative: wanting not to bother or be bothered
 
+
+Describe the politeness strategies in each of the following examples
+- "apologizing when someone runs into me even when not my fault"
+	- negative politeness – recognizing they don't want to be embarassed?
+- "in and out of store quick because he doesn't like to talk"
+	- negative – wanting not to bother
+- "V form of Spanish"
+	- positive – wanting to be liked
 
 
 next:
